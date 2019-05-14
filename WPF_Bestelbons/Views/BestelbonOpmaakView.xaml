@@ -1,0 +1,135 @@
+﻿<UserControl x:Class="WPF_Bestelbons.Views.BestelbonOpmaakView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Bestelbons.Views"
+             xmlns:converters="clr-namespace:WPF_Bestelbons.Converters"
+             xmlns:diag="clr-namespace:System.Diagnostics;assembly=WindowsBase"
+             xmlns:cal="http://www.caliburnproject.org"
+             mc:Ignorable="d" 
+             MinWidth="1000"
+             d:DesignHeight="450" d:DesignWidth="800" Background="#2D2D30">
+    <UserControl.Resources>
+        <converters:EnumConverter x:Key="EnumConverter"/>
+        <converters:DecimalToStringConverter x:Key="DecimalToStringConverter"/>
+        <converters:BoolToBrushConverter x:Key="BoolToBrushConverter"/>
+    </UserControl.Resources>
+    <Grid>
+
+        <Grid.Resources>
+            <Style TargetType="{x:Type TextBox}" x:Key="TextBoxWithColoredCaretStyle">
+                <Setter Property="CaretBrush">
+                    <Setter.Value>
+                        <SolidColorBrush Color="Blue"/>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </Grid.Resources>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="1" Grid.Column="1" Background="#3392FF"   >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.5*"/>
+                <ColumnDefinition Width="1.4*"/>
+                <ColumnDefinition Width="0.8*"/>
+                <ColumnDefinition Width="2.2*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Horizontal" Grid.Column="0">
+                <TextBlock Text="Leverancier : " VerticalAlignment="center"  FontSize="16" Foreground="Gainsboro" Margin="5,0,0,0"/>
+                <TextBlock  x:Name="LeveranciersNaamUI" VerticalAlignment="center" Width="150" FontSize="16" Foreground="Gainsboro" Background="Transparent" Margin="5,0,0,0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="1">
+                <TextBlock Text="ProjectNr : " VerticalAlignment="center"  FontSize="16" Foreground="Gainsboro" Margin="0,0,0,0"/>
+                <TextBox x:Name="ProjectNumber" VerticalAlignment="center" FontSize="16" Text="{Binding ProjectNumber, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Background="Transparent" Width="150"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="2">
+                <TextBlock Text="VolgNr : " VerticalAlignment="center"  FontSize="16" Foreground="Gainsboro" Margin="0,0,0,0"/>
+                <TextBox x:Name="VolgNummer" VerticalAlignment="center" FontSize="16" Text="{Binding VolgNummer, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Background="Transparent" Width="60"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Column="3">
+            <TextBlock VerticalAlignment="center" Text="Bestelbon ID : "  FontSize="16" Foreground="Gainsboro" Margin="0,0,0,0"/>
+            <TextBlock x:Name="BestelbonNaam" VerticalAlignment="center" FontSize="16" Foreground="Gainsboro" Background="Transparent"/>
+            </StackPanel>
+
+        </Grid>
+
+
+
+        <ListBox x:Name="Bestelbonregels" HorizontalContentAlignment="Stretch" Grid.Row="2" Grid.Column="1" Background="#2D2D30" SelectedItem="{Binding BestelbonregelsSelectedItem}"  Margin="0,5,0,0"  BorderBrush="{Binding ProjDirOK, Converter={StaticResource BoolToBrushConverter}}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="0,2" Background="#2D2D30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="0.5*" />
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="20*" />
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width="2*" />
+                        </Grid.ColumnDefinitions>
+                        <Image Source="pack://application:,,,/Resources/LISTITEM.png" Height="16" Width="20" VerticalAlignment="Center" Margin="0,4,0,0" />
+                        <TextBox  x:Name="Aantal"  Text="{Binding Aantal,UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" Foreground="Gainsboro" Background="#2D2D30" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,4,0,0" Style="{StaticResource TextBoxWithColoredCaretStyle}" CaretBrush="Gainsboro" cal:Message.Attach="[Event KeyUp] = [Action BestelregelChange]" />
+                        <TextBox Text="{Binding Eenheid, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Grid.Column="2"  Foreground="Gainsboro" Background="#2D2D30" BorderThickness="0" VerticalContentAlignment="Center" cal:Message.Attach="[Event KeyUp] = [Action BestelregelChange]" />
+                        <TextBox Text="{Binding Bestelregel,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Grid.Column="3" Foreground="Gainsboro" Background="#2D2D30" BorderThickness="0" Margin="5,4,0,0"/>
+                        <TextBox Text="{Binding Prijsstring,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged,StringFormat=N1}" Grid.Column="4" Foreground="Gainsboro" Background="#2D2D30" BorderThickness="0" HorizontalContentAlignment="Right" Style="{StaticResource TextBoxWithColoredCaretStyle}" CaretBrush="Gainsboro" cal:Message.Attach="[Event KeyUp] = [Action BestelregelChange]"/>
+                        <TextBox Text="{Binding TotalePrijs,Mode=TwoWay,StringFormat=N1}" Grid.Column="5" Foreground="Gainsboro" Background="#2D2D30" BorderThickness="0" HorizontalContentAlignment="Right"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <DockPanel Grid.Row="3" Grid.Column="1">
+            <TextBox Text="{Binding Totaal}" DockPanel.Dock="Right" Foreground="Gainsboro" Background="#2D2D30" BorderThickness="0" HorizontalAlignment="Right"  Margin="0,0,10,0" FontSize="20" Height="27" VerticalAlignment="Bottom"/>
+            <TextBlock  DockPanel.Dock="Right" Text="Totaal   " Margin="0,3,0,0" Foreground="#007FFF"  HorizontalAlignment="Right" FontSize="20"/>
+        </DockPanel>
+        <TextBlock Text="  Opmerking " Grid.Row="4" Grid.Column="1" Margin="0,3,0,0" Foreground="#007FFF"  Background="Transparent"/>
+        <TextBox x:Name="Opmerking" Grid.Row="5" Grid.Column="1" Background="#2D2D30" Foreground="Gainsboro" TextWrapping="Wrap" AcceptsReturn="True" BorderBrush="{Binding ProjDirOK, Converter={StaticResource BoolToBrushConverter}}"/>
+        <Border  BorderBrush="#007FFF" BorderThickness="3" Grid.Row="6" Grid.Column="1" Margin="0,30,0,25">
+            <Grid>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1.1*" />
+                    <ColumnDefinition Width="10*" />
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="1.7*" />
+                </Grid.ColumnDefinitions>
+
+                <TextBox  Text="{Binding NewAantal,UpdateSourceTrigger=PropertyChanged}" Grid.Column="0" Foreground="Gainsboro" Background="#00000000"  BorderThickness="0" HorizontalAlignment="Center" FontSize="25" cal:Message.Attach="[Event MouseDoubleClick]=[Select($source)]" MouseEnter="Aantal_MouseEnter"/>
+                <TextBox  Grid.Column="1" Text="{Binding NewEenheid, Mode=TwoWay}" Foreground="Gainsboro" Background="Transparent" BorderThickness="0" FontSize="25" />
+                <TextBox x:Name="NewBestelregel"  Text="{Binding NewBestelregel,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Grid.Column="2" Foreground="Gainsboro" Background="Transparent" BorderThickness="0" FontSize="20" Margin="5,0,0,0" TextWrapping="Wrap" AcceptsReturn="True" VerticalAlignment="Center"/>
+                <TextBox Text="{Binding NewPrijsstring,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Grid.Column="3" Foreground="Gainsboro" Background="#00000000"  BorderThickness="0" HorizontalContentAlignment="Right" FontSize="25" Margin="0,0,0,0" MouseEnter="Prijs_MouseEnter"/>
+                <TextBox Text="{Binding NewTotalePrijs,Mode=TwoWay,StringFormat=N1}" Grid.Column="4" Foreground="Gainsboro" Background="Transparent" BorderThickness="0" HorizontalContentAlignment="Right" FontSize="25" Margin="0,0,0,0"/>
+
+            </Grid>
+        </Border>
+
+        <DockPanel Grid.Row="7" Grid.Column="1" >
+            <Button x:Name="Add" Content="Add" MinWidth="75" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="NewBestelbonregel" Content="New Bestelbon Regel" MinWidth="130" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="NewBestelbon" Content="New Bestelbon" MinWidth="125" FontSize="12"  Background="#2D2D30"  Style="{StaticResource BlueButton}"/>
+            <Button x:Name="DeleteBestelregel" Content="Delete Bestelregel" MinWidth="125" FontSize="12"  Background="#2D2D30"  Style="{StaticResource BlueButton}"/>
+
+            <Button x:Name="SaveMail" Content="Save + Mail" MinWidth="125" FontSize="12"  Background="#2D2D30"  DockPanel.Dock="Right" HorizontalAlignment="Right" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="Save" Content="Save" MinWidth="75" FontSize="12"  Background="#2D2D30"  DockPanel.Dock="Right" HorizontalAlignment="Right" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="SaveAttach" Content="Save + Attach PDF" MinWidth="120" FontSize="12"  Background="#2D2D30"  DockPanel.Dock="Right" HorizontalAlignment="Right" Style="{StaticResource BlueButton}"/>
+        </DockPanel>
+
+
+    </Grid>
+</UserControl>

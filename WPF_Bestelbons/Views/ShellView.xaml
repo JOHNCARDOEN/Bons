@@ -1,0 +1,133 @@
+﻿<Window x:Name="res" x:Class="WPF_Bestelbons.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:converters="clr-namespace:WPF_Bestelbons.Converters"
+        xmlns:cal="http://www.caliburnproject.org"
+        xmlns:local="clr-namespace:WPF_Bestelbons.Views"
+        mc:Ignorable="d"
+        Icon="pack://application:,,,/Resources/ICON.png"
+        Title="Astratec Bestelbons" Height="900" MaxHeight="{Binding MaxHeight}" Width="1300" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Background="#2D2D30" WindowState="{Binding WindowState}" WindowStyle="None" AllowsTransparency="True" >
+
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="30"/>
+    </WindowChrome.WindowChrome>
+
+    <Window.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+        <converters:BoolToBackgroundColorConverter x:Key="BoolToBackgroundColorConverter"/>
+        <converters:ErrorLevelToImageConverter x:Key="ErrorLevelToImageConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+
+        <GridSplitter Height="5" HorizontalAlignment="Stretch" Margin="0" Grid.ColumnSpan="4" Background="#2D2D30"
+                      VerticalAlignment="Top"
+                      ShowsPreview="True"
+                      Grid.Row="3"/>
+        <!-- CAPITON BAR-->
+        <DockPanel Height="30" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Margin="0,5" >
+
+            <Image Source="pack://application:,,,/Resources/ICON.png" Margin="20,0,20,-10"/>
+
+            <Label DockPanel.Dock="Left" Content=" Bestelbons" Background="#2D2D30" Foreground="#FF007FFF" FontSize="24"  Margin="0,-6,0,0"/>
+            <Label DockPanel.Dock="Left" Content="{Binding Version}" Background="#2D2D30" Foreground="#FF007FFF" FontSize="16" VerticalAlignment="Top"  Margin="0,3,0,0"/>
+            <StackPanel Width="90" DockPanel.Dock="Right"  WindowChrome.IsHitTestVisibleInChrome="True" VerticalAlignment="Center" HorizontalAlignment="Right"  Orientation="Horizontal" Margin="0,0,5,0" RenderOptions.BitmapScalingMode="HighQuality"  RenderOptions.EdgeMode="Aliased">
+                <Button Style="{StaticResource WindowcontrolButton}" Width="30" x:Name="MinimizeButton" BorderThickness="0" ToolTip="Minimize" ToolTipService.ShowDuration="20000">
+                    <Image Source="pack://application:,,,/Resources/MINIMIZE.png"/>
+                </Button>
+                <Button  Style="{StaticResource WindowcontrolButton}" Width="30" x:Name="MaximizeButton"  BorderThickness="0" ToolTip="{Binding TooltipText}">
+                    <Image x:Name="ButtonImage" Source="{Binding ButtonImage}"  />
+                </Button>
+                <Button Style="{StaticResource WindowcloseButton}"  x:Name="CloseButton" BorderThickness="0" ToolTip="Close" ToolTipService.ShowDuration="20000">
+                    <Image Source="pack://application:,,,/Resources/CLOSE.png"/>
+                </Button>
+            </StackPanel>
+        </DockPanel>
+        <!-- CAPITON BAR-->
+
+        <Menu   Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" Background="#2D2D30" >
+            <MenuItem Header="_Settings" Foreground="Gainsboro" Template="{StaticResource MenuItemControlTemplate2}">
+                <MenuItem Header="_Set Leveranciers Source" x:Name="SetLeveranciersSource" Background="#1B1B1B"  BorderThickness="0" Template="{StaticResource SubmenuItemTemplateKey}"/>
+                <MenuItem Header="_Set Users Source" x:Name="SetUsersSource" Background="#1B1B1B"  BorderThickness="0" Template="{StaticResource SubmenuItemTemplateKey}"/>
+                <MenuItem Header="_Set Bestelbon Directory" x:Name="SetBestelbonDirectory" Background="#1B1B1B"  BorderThickness="0" Template="{StaticResource SubmenuItemTemplateKey}"/>
+                <MenuItem Header="_Set Leveringsvoorwaarden" x:Name="SetLeveringsvoorwaarden" Background="#1B1B1B"  BorderThickness="0" Template="{StaticResource SubmenuItemTemplateKey}"/>
+            </MenuItem>
+            <MenuItem Header="_Select User" x:Name="SelectUser"  Foreground="Gainsboro" Template="{StaticResource MenuItemControlTemplate2}"/>
+            <MenuItem Header="_Select ProjectDirectory" x:Name="SelectProjectDirectory"  Foreground="Gainsboro" Template="{StaticResource MenuItemControlTemplate2}"/>
+            <MenuItem Header="Help" x:Name="Help"  Foreground="Gainsboro" Template="{StaticResource MenuItemControlTemplate2}"/>
+
+        </Menu>
+
+        <StackPanel Grid.Row="2" Grid.Column="0">
+            <Button Content="Leveranciers" x:Name="LoadLeveranciers"  Width="85" Background="#2D2D30" Margin="0,40,10,0" FontSize="12" Style="{StaticResource BlueButton}" >
+                <Button.LayoutTransform>
+                    <RotateTransform Angle="90"/>
+                </Button.LayoutTransform>
+            </Button>
+            <Button Content="Bestelbons" x:Name="LoadBestelbons" Width="75" Background="#2D2D30" Margin="0,0,10,0"  FontSize="12" Style="{StaticResource BlueButton}" >
+                <Button.LayoutTransform>
+                    <RotateTransform Angle="90"/>
+                </Button.LayoutTransform>
+            </Button>
+            <Button Content="Users" x:Name="LoadUsers" Width="60" Background="#2D2D30" Margin="0,105,10,0"   FontSize="12" Style="{StaticResource BlueButton}" >
+                <Button.LayoutTransform>
+                    <RotateTransform Angle="90"/>
+                </Button.LayoutTransform>
+            </Button>
+            <Button Content="Leveringsvoorwaarden" x:Name="LoadLeveringsvoorwaarden" Width="150" Background="#2D2D30" Margin="0,0,10,0"   FontSize="12" Style="{StaticResource BlueButton}" >
+                <Button.LayoutTransform>
+                    <RotateTransform Angle="90"/>
+                </Button.LayoutTransform>
+            </Button>
+        </StackPanel>
+        <ContentControl Grid.Row="2" Grid.Column="1" Visibility="{Binding LeveranciersorBestelbonsVisible, Converter={StaticResource BoolToVisibilityConverter}}"
+                        x:Name="ActiveItem"  Margin="0,0,0,0"/>
+
+        <ContentControl x:Name="BestelbonOpmaakVM"  Grid.Row="2" Grid.Column="2" Visibility="{Binding AllOk, Converter={StaticResource BoolToVisibilityConverter}}" />
+
+        <ListBox x:Name="ErrorList"  Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Background="#3D3D3D" BorderThickness="0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Height="15" Width="15" Source="{Binding Level, Converter={StaticResource ErrorLevelToImageConverter}}" />
+                        <TextBlock Text="{Binding ErrorMessage}" Margin="5,0,0,0" Foreground="Gainsboro"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+
+
+        <!-- STATUS BAR-->
+        <DockPanel Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="4" HorizontalAlignment="Stretch"  Background="{Binding AllOk,Converter={StaticResource BoolToBackgroundColorConverter}}">
+            <StackPanel DockPanel.Dock="Left" Orientation="Horizontal"  >
+                <TextBlock Text="Current User : " Foreground="Black" FontWeight="DemiBold" Margin="10,0,0,0" VerticalAlignment="Center"/>
+                <TextBlock x:Name="CurrentUser_FirstName" Foreground="Black" FontWeight="DemiBold" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,30,0">
+
+            </StackPanel>
+        </DockPanel>
+
+        <!-- STATUS BAR-->
+
+
+    </Grid>
+</Window>

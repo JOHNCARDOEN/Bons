@@ -1,0 +1,21 @@
+﻿<Application
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Bestelbons" x:Class="WPF_Bestelbons.App"
+             >
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="Bootstrapper"/>
+                </ResourceDictionary>
+                <ResourceDictionary Source="ResourceDictionaries/BlueButtonDictionary.xaml"/>
+                <ResourceDictionary Source="ResourceDictionaries/MenuDictionary.xaml"/>
+                <ResourceDictionary Source="ResourceDictionaries/WindowControlButtons.xaml"/>
+                <ResourceDictionary Source="ResourceDictionaries/OwnTextBox.xaml"/>
+                <ResourceDictionary Source="ResourceDictionaries/aero.normalcolor.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

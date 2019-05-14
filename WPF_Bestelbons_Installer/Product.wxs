@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi"
+     xmlns:netfx="http://schemas.microsoft.com/wix/NetFxExtension">
+
+  <Product Id="{18A0BF74-BA50-44B2-B6D1-FACA3CA91342}"
+           Name="Astratec Bestelbons"
+           Language="!(loc.Language)"
+           Version="!(bind.FileVersion.filEBBC03FF61E0C2BE91337614B07988EE)"
+           Manufacturer="!(loc.Company)"
+           UpgradeCode="{13F73F61-B323-4B38-A474-77E5E3E92279}">
+
+    <Package InstallerVersion="200"
+             Compressed="yes"
+             InstallScope="perMachine"
+             Platform="x64"
+             Manufacturer="!(loc.Company)"
+             Description ="!(loc.Description)"
+             Keywords="!(loc.Keywords)"
+             Languages="!(loc.Language)"/>
+  
+
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeErrorMessage)" />
+
+     <!-- Include .cab file into .msi file-->
+		<MediaTemplate EmbedCab="yes" />
+    
+    <!-- Provide icon to the installer (shows up in Add/Remove)-->
+    <Icon Id="icon.ico" SourceFile="$(var.ProjectDir)\Assets\ICON.ico"/>
+    <Property Id="ARPPRODUCTICON">icon.ico</Property>
+
+		<Feature Id="ProductFeature" Title="Bestelbons" Description="Installs the Bestelbons application." Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		  <ComponentGroupRef Id="PublishedComponents" />
+		</Feature>
+
+	  <!-- Check that .NET Framework 4.6.1 or higher is installed -->
+	  <PropertyRef Id="WIX_IS_NETFRAMEWORK_46_OR_LATER_INSTALLED"/>
+	  <Condition Message="[ProductName] requires that the .NET Framework 4.6.1 or higher is installed. Please install the .NET Framework and restart the installation.">
+	    <![CDATA[Installed OR WIX_IS_NETFRAMEWORK_46_OR_LATER_INSTALLED >= "#394254"]]>
+	  </Condition>
+
+
+    <Property Id="WIXUI_EXITDIALOGOPTIONALTEXT" Value="Thank you for installing this product." />
+    <Property Id="WIXUI_INSTALLDIR" Value="INSTALLFOLDER" />
+    <!-- Create a basic UI for the installer-->
+
+    <UIRef Id="WixUI_InstallDir"/>
+
+
+    <!-- Change the installer UI background images -->
+    <WixVariable Id="WixUILicenseRtf" Value="Assets\License.rtf"/>
+    <WixVariable Id="WixUIDialogBmp" Value="Assets\WIXBackground.bmp"/>
+    <WixVariable Id="WixUIBannerBmp" Value="Assets\WIXBanner.bmp"/>
+	</Product>
+
+</Wix>

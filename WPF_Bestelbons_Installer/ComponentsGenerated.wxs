@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="INSTALLFOLDER">
+            <Component Id="cmp133D5D1D33C6C620AACFAE24ECF03054" Guid="{2E40FE8F-89EC-46BC-A250-1F0DF1BBAA22}">
+                <File Id="filA4F7CF5DEA380631AD11588D9AE6DC32" KeyPath="yes" Source="$(var.BasePath)\Bestelbons.chm" />
+            </Component>
+            <Component Id="cmpF6DB600EAE4F92B06118C49F01583429" Guid="{F39CE496-CED1-40E4-9585-F07C3269B455}">
+                <File Id="fil58D641A69C1F9F9B3767F37A52968AEA" KeyPath="yes" Source="$(var.BasePath)\Caliburn.Micro.dll" />
+            </Component>
+            <Component Id="cmp3ADD63EC603C0189D3C536D6FE228F29" Guid="{1AA9DCB8-174B-434F-AC7A-A3CB707C619B}">
+                <File Id="fil22BB2F1FEFE5A4C8C7066B4FFB40BA50" KeyPath="yes" Source="$(var.BasePath)\Caliburn.Micro.Platform.Core.dll" />
+            </Component>
+            <Component Id="cmp6E4F12F91C4B75E02675BB4C94196438" Guid="{BA4175F6-2F4D-4B6A-8D83-4514296D758A}">
+                <File Id="fil347D66AF0F2351A1DF20454796FF4F18" KeyPath="yes" Source="$(var.BasePath)\Caliburn.Micro.Platform.Core.xml" />
+            </Component>
+            <Component Id="cmp1C206319B53EA02514D73AF8086C62B4" Guid="{620D4880-0C68-42CA-BCEB-9982123A5E9F}">
+                <File Id="filA7E995C50EC209623795FDBA9E10F3FA" KeyPath="yes" Source="$(var.BasePath)\Caliburn.Micro.Platform.dll" />
+            </Component>
+            <Component Id="cmp3E3AA980BDCF05810907BC4EB3821194" Guid="{315E8054-A8C7-4855-B8C4-C123EDFA2899}">
+                <File Id="fil979D2E4B61E2F3E59B8E1F13EA8C35C4" KeyPath="yes" Source="$(var.BasePath)\Caliburn.Micro.Platform.xml" />
+            </Component>
+            <Component Id="cmp17D9A8147FAEAB525E5B8101916313BA" Guid="{DB6400BF-1129-4028-B0F1-9EEB4CD2761F}">
+                <File Id="filF38A8DADF810A6008E9C37F6AB2942EF" KeyPath="yes" Source="$(var.BasePath)\Caliburn.Micro.xml" />
+            </Component>
+            <Component Id="cmp1DE0B23F7942D4E47B62522F774F3C76" Guid="{B3F0ECA2-B55D-4931-AA9F-60759ECB5091}">
+                <File Id="filF35DB5A41DFF81B0642F8FCBC3DFB906" KeyPath="yes" Source="$(var.BasePath)\itextsharp.dll" />
+            </Component>
+            <Component Id="cmp93004A2A70CA6CC5550444DB6A0BB24B" Guid="{73D83408-E5EB-4C66-AB1E-A85EBCE13F70}">
+                <File Id="fil718E22AC4914F03FC39F7293CDC8C672" KeyPath="yes" Source="$(var.BasePath)\itextsharp.xml" />
+            </Component>
+            <Component Id="cmp017BFB3832A5B110A2B3A350E13F2A5C" Guid="{14B36992-FB18-4B73-A5E8-ECAD051CB2C5}">
+                <File Id="fil17E34524E8398461D615894C92558FE9" KeyPath="yes" Source="$(var.BasePath)\System.Windows.Interactivity.dll" />
+            </Component>
+            <Component Id="cmpDE040FF16CFC5C658750E305045DE346" Guid="{A81293A4-AD24-4B3B-B502-765818CA4C2D}">
+                <File Id="fil3E857BF2E3183687DB78C4DB6846793A" KeyPath="yes" Source="$(var.BasePath)\WPF_Bestelbons.application" />
+            </Component>
+            <Component Id="cmp371576B76F4CA37831A83419073BEB66" Guid="{25F42A2D-516A-4B07-9B57-009B18CBFD90}">
+                <File Id="filEBBC03FF61E0C2BE91337614B07988EE" KeyPath="yes" Source="$(var.BasePath)\WPF_Bestelbons.exe" />
+            </Component>
+            <Component Id="cmp1EC66FACCD528E5CF35C3CC2ED6541BB" Guid="{1B4213E4-EB1F-44E6-8C71-2F337D841815}">
+                <File Id="filED773AB0B773D740923AC838192463FF" KeyPath="yes" Source="$(var.BasePath)\WPF_Bestelbons.exe.config" />
+            </Component>
+            <Component Id="cmpAA0F4D32CB2456C9884DA66D28B59412" Guid="{6C2E6B38-F573-4612-9D02-C200FEA87495}">
+                <File Id="fil337381839990C14E193186D8ED1D97A4" KeyPath="yes" Source="$(var.BasePath)\WPF_Bestelbons.exe.manifest" />
+            </Component>
+            <Component Id="cmp856E5C18711134AA7102CF59517D1733" Guid="{A89C3BA8-07A8-44AD-BD68-EA01575F3D3E}">
+                <File Id="fil5830DC3CB2FEF77D7CB8CCF046361B8F" KeyPath="yes" Source="$(var.BasePath)\WPF_Bestelbons.pdb" />
+            </Component>
+            <Directory Id="dir00122602D311392A9D483BE33FE17DEF" Name="app.publish">
+                <Component Id="cmp3A4B49E078132D20B72327184021F341" Guid="{A0E0DBAC-2C23-4D45-AC24-7199B3BB62D8}">
+                    <File Id="fil7591D2A02A8209DFD70AFD45F70F522C" KeyPath="yes" Source="$(var.BasePath)\app.publish\WPF_Bestelbons.exe" />
+                </Component>
+            </Directory>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="PublishedComponents">
+            <ComponentRef Id="cmp133D5D1D33C6C620AACFAE24ECF03054" />
+            <ComponentRef Id="cmpF6DB600EAE4F92B06118C49F01583429" />
+            <ComponentRef Id="cmp3ADD63EC603C0189D3C536D6FE228F29" />
+            <ComponentRef Id="cmp6E4F12F91C4B75E02675BB4C94196438" />
+            <ComponentRef Id="cmp1C206319B53EA02514D73AF8086C62B4" />
+            <ComponentRef Id="cmp3E3AA980BDCF05810907BC4EB3821194" />
+            <ComponentRef Id="cmp17D9A8147FAEAB525E5B8101916313BA" />
+            <ComponentRef Id="cmp1DE0B23F7942D4E47B62522F774F3C76" />
+            <ComponentRef Id="cmp93004A2A70CA6CC5550444DB6A0BB24B" />
+            <ComponentRef Id="cmp017BFB3832A5B110A2B3A350E13F2A5C" />
+            <ComponentRef Id="cmpDE040FF16CFC5C658750E305045DE346" />
+            <ComponentRef Id="cmp371576B76F4CA37831A83419073BEB66" />
+            <ComponentRef Id="cmp1EC66FACCD528E5CF35C3CC2ED6541BB" />
+            <ComponentRef Id="cmpAA0F4D32CB2456C9884DA66D28B59412" />
+            <ComponentRef Id="cmp856E5C18711134AA7102CF59517D1733" />
+            <ComponentRef Id="cmp3A4B49E078132D20B72327184021F341" />
+        </ComponentGroup>
+    </Fragment>
+</Wix>

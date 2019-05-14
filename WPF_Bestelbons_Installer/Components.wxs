@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+  <Fragment>
+	  <ComponentGroup Id="ProductComponents">
+     <!--Shortcut-->
+      <ComponentRef Id="ApplicationShortcut"/>
+	    <ComponentRef Id="ApplicationShortcutDesktop" />
+	  </ComponentGroup>
+
+
+    <DirectoryRef Id="ApplicationProgramsFolder">
+      <Component Id="ApplicationShortcut" Guid="{8E6AEF38-482B-47C1-8F2E-ED16D978F25E}">
+        <Shortcut Id="ApplicationShortcut"
+          Name="!(loc.ProductNameFolder)"
+          Target="[INSTALLFOLDER]WPF_Bestelbons.exe"
+          WorkingDirectory="INSTALLFOLDER"
+          Icon="BESTELBONS.exe">
+
+          <Icon Id="BESTELBONS.exe" SourceFile="$(var.ProjectDir)\Assets\ICON.ico"/>
+        </Shortcut>
+
+        <RegistryValue  Root="HKCU" Key="SOFTWARE\!(loc.Company)" Name="Shortcut" Value="1" Type="integer" KeyPath="yes"/>
+
+        <!-- Remove start menu items  should be done once !!-->
+
+        <RemoveFolder Id="RemoveStartMenu" Directory="ApplicationProgramsFolder" On="uninstall"/>
+      </Component>
+    </DirectoryRef>
+
+    <DirectoryRef Id="DesktopFolder">
+      <Component Id="ApplicationShortcutDesktop" Guid="{CDCCD4B8-45A6-4D4A-93B8-8EF92B07A024}">
+        <Shortcut Id="ApplicationDesktopShortcut"
+                  Name="!(loc.ProductNameFolder)"
+                  Target="[INSTALLFOLDER]WPF_Bestelbons.exe"
+                  WorkingDirectory="INSTALLFOLDER"
+                  Icon="BESTELBONS.exe">
+
+        </Shortcut>
+
+        <RegistryValue  Root="HKCU" Key="SOFTWARE\!(loc.Company)" Name="Shortcut" Value="1" Type="integer" KeyPath="yes"/>
+
+        <!-- Remove start menu items  should be done once !!-->
+
+  
+      </Component>
+    </DirectoryRef>
+
+	</Fragment>
+</Wix>

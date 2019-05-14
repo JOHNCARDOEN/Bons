@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Fragment>
+    <!-- Creates a folder named with Name in the ProgramsFiles folder and a folder in the ProgramMenuFolder named with Name-->
+	  <Directory Id="TARGETDIR" Name="SourceDir">
+	    <Directory Id="ProgramFilesFolder">
+	        <Directory Id="INSTALLFOLDER" Name="Astratec Bestelbons" />
+	    </Directory>
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="ApplicationProgramsFolder" Name="!(loc.ProgramMenuFolderEntry)" />
+      </Directory>
+	    <Directory Id="DesktopFolder" Name="Desktop" />
+	  </Directory>
+	</Fragment>
+</Wix>

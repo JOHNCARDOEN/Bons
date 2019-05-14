@@ -1,0 +1,103 @@
+﻿<UserControl x:Class="WPF_Bestelbons.Views.UsersView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Bestelbons.Views"
+        xmlns:cal ="http://www.caliburnproject.org"
+        mc:Ignorable="d"
+        Width="250"
+        d:DesignHeight="450" d:DesignWidth="800" >
+
+
+    <Grid Background="#2D2D30">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="246"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+
+        <ListBox Grid.Row="0" Grid.Column="0" x:Name="UsersList" Foreground="Gainsboro" Background="#1B1B1B" HorizontalContentAlignment="Stretch" SelectedItem="{Binding UsersSelectedItem}" >
+            <ListBox.ContextMenu>
+                <ContextMenu Background="#2D2D30" Foreground="Gainsboro">
+                    <!--<MenuItem Header="Add" cal:Message.Attach="[Event Click] = [Action Add]" >
+                        <MenuItem.Icon>
+                            <Image Source="pack://application:,,,/Resources/ADD.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>-->
+                    <MenuItem Header="Delete"  cal:Message.Attach="[Event Click] = [Action Delete]">
+                        <MenuItem.Icon>
+                            <Image Width="18" Height="18" Source="pack://application:,,,/Resources/DELETE.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </ContextMenu>
+            </ListBox.ContextMenu>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="0,5,0,5">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding FirstName}" Background="Transparent" Foreground="Gainsboro" Margin="10,0,0,0" />
+                            <TextBlock Text="{Binding LastName}" Background="Transparent" Foreground="Gainsboro" Margin="5,0,0,0" />
+                        </StackPanel>
+                        <TextBlock Text="{Binding Email}" Foreground="Gainsboro" Margin="20,0,0,0"  />
+                        <TextBlock Text="{Binding Tel}" Foreground="Gainsboro" Margin="20,0,0,0"  />
+                        <TextBlock Text="{Binding Handtekening}" Foreground="Gainsboro" Margin="20,0,0,0"  />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Grid Grid.Row="1" Margin="0,10,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="5"/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <!--RIJ 0-->
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Last Name" Foreground="Gainsboro" />
+            <TextBox x:Name="LastName" Grid.Row="0" Grid.Column="1" Text="{Binding LastName,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  Background="#00000000"  Foreground="Gainsboro" cal:Message.Attach="[Event KeyUp] =[Action Change]"/>
+            <!--RIJ 1-->
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="First Name" Foreground="Gainsboro" />
+            <TextBox x:Name="FirstName"  Grid.Row="2" Grid.Column="1" Text="{Binding FirstName,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  Background="#00000000" Foreground="Gainsboro" cal:Message.Attach="[Event KeyUp] =[Action Change]"/>
+            <!--RIJ 2-->
+            <TextBlock Grid.Row="4" Grid.Column="0" Text="E mail" Foreground="Gainsboro" />
+            <TextBox x:Name="Email" Grid.Row="4" Grid.Column="1" Text="{Binding Email,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  Background="#00000000"  Foreground="Gainsboro" cal:Message.Attach="[Event KeyUp] =[Action Change]"/>
+            <!--RIJ 3-->
+            <TextBlock Grid.Row="6" Grid.Column="0" Text="Tel" Foreground="Gainsboro" />
+            <TextBox x:Name="Tel"  Grid.Row="6" Grid.Column="1" Text="{Binding Tel,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"  Background="#00000000" Foreground="Gainsboro" cal:Message.Attach="[Event KeyUp] =[Action Change]"/>
+            <!--RIJ 4-->
+            <TextBlock Grid.Row="8" Grid.Column="0" Text="Signature" Foreground="Gainsboro" />
+            <TextBox x:Name="Handtekening" Grid.Row="8" Grid.Column="1" Text="{Binding Handtekening,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Background="#00000000"  Foreground="Gainsboro" />
+            <!--RIJ 4-->
+            <Button Grid.Row="10" Width="80" Grid.Column="1" x:Name="Signature" Content="Signature" MinWidth="50" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+        </Grid>
+
+        <DockPanel Grid.Row="2" Grid.Column="0">
+            <Button x:Name="Close" Content="Close" MinWidth="50" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="Add" Content="Add" MinWidth="50" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="Save" Content="Save"  MinWidth="50" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="Clear" Content="Clear"  MinWidth="50" FontSize="12"  Background="#2D2D30" Style="{StaticResource BlueButton}"/>
+            <Button x:Name="Delete" Content="Delete" Grid.Row="1" Grid.Column="4"  MinWidth="50" FontSize="12"  Background="#2D2D30" DockPanel.Dock="Right" HorizontalAlignment="Right" Style="{StaticResource BlueButton}"/>
+        </DockPanel>
+
+    </Grid>
+</UserControl>

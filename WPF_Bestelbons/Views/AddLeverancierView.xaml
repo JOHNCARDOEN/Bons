@@ -1,0 +1,75 @@
+﻿<Window x:Class="WPF_Bestelbons.Views.AddLeverancierView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:cal ="http://www.caliburnproject.org"
+             xmlns:local="clr-namespace:WPF_Bestelbons.Views"
+        xmlns:converters="clr-namespace:WPF_Bestelbons.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             Title="AddLeverancierView" Height="340"  Width="400" Background="#1B1B1B" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True">
+
+    <Window.Resources>
+        <converters:BoolToRectangleFill x:Key="BoolToRectangleFill"/>
+    </Window.Resources>
+
+    <Border BorderBrush="Black" BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="220"/>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <!-- CAPITON BAR-->
+            <DockPanel Height="30" Grid.Row="0" Grid.Column="0"  Background="Transparent" RenderOptions.BitmapScalingMode="HighQuality"  RenderOptions.EdgeMode="Aliased">
+                <Label Grid.Row="0" x:Name="Capiton" Foreground="#FF007FFF" FontSize="18" Margin="15,0,0,0" VerticalContentAlignment="Center"/>
+                <StackPanel Width="30" DockPanel.Dock="Right"  WindowChrome.IsHitTestVisibleInChrome="True" VerticalAlignment="Center" HorizontalAlignment="Right"  Orientation="Horizontal" Margin="0,0,5,0">
+
+                    <Button Style="{StaticResource WindowcloseButton}"  x:Name="CloseButton" BorderThickness="0" ToolTip="Close" ToolTipService.ShowDuration="20000">
+                        <Image Source="pack://application:,,,/Resources/CLOSE.png"/>
+                    </Button>
+                </StackPanel>
+            </DockPanel>
+            <!-- CAPITON BAR-->
+
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2.5*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="  Naam " Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="0" Grid.Column="1" x:Name="AddedLeverancier_Name" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"  cal:Message.Attach="[Event KeyUp] = [Action KeyUp]" />
+                <TextBlock Grid.Row="1" Grid.Column="0" Text="  Email" Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="1" Grid.Column="1"  x:Name="AddedLeverancier_Email" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"/>
+                <TextBlock Grid.Row="2" Grid.Column="0" Text="  Street" Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="2" Grid.Column="1"  x:Name="AddedLeverancier_Street" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"/>
+                <TextBlock Grid.Row="3" Grid.Column="0" Text="  Number" Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="3" Grid.Column="1"  x:Name="AddedLeverancier_Number" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"/>
+                <TextBlock Grid.Row="4" Grid.Column="0" Text="  Postcode" Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="4" Grid.Column="1"  x:Name="AddedLeverancier_Postcode" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"/>
+                <TextBlock Grid.Row="5" Grid.Column="0" Text="  City" Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="5" Grid.Column="1"  x:Name="AddedLeverancier_City" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"/>
+                <TextBlock Grid.Row="6" Grid.Column="0" Text="  Tel" Margin="0,0,20,0"  VerticalAlignment="Center" Foreground="Gainsboro" Background="Transparent"/>
+                <TextBox Grid.Row="6" Grid.Column="1"  x:Name="AddedLeverancier_Tel" Margin="0,2,5,2"  Foreground="Gainsboro"  Background="Transparent" VerticalContentAlignment="Center" FontSize="16"/>
+            </Grid>
+            <DockPanel  Grid.Row="4">
+                <Rectangle  Width="160" Height="8"  Fill="{Binding AddedSaved,Converter={StaticResource BoolToRectangleFill}}"   Margin="30,11,0,0"/>
+                <Button Style="{StaticResource BlueButton}" x:Name="AddLeverancier" Width="75" Content="Add" Background="Transparent" DockPanel.Dock="Right" HorizontalAlignment="Right" Margin="0,0,30,0" />
+                <Button Style="{StaticResource BlueButton}" x:Name="Clear" Width="75" Content="Clear" Background="Transparent" DockPanel.Dock="Right" HorizontalAlignment="Right" Margin="0,0,0,0" />
+            </DockPanel>
+        </Grid>
+    </Border>
+</Window>
