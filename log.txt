@@ -3998,3 +3998,4 @@
 46333. chore: bump dependencies #46333
 32119. perf: reduce image load time #32119
 93165. fix: fix broken CSS in mobile view #93165
+3190. perf: lazy-load components #3190
