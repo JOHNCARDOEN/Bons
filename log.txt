@@ -2999,3 +2999,4 @@
 19140. perf: optimize database query for quiz results #19140
 60040. perf: reduce image load time #60040
 69446. feat: implement quiz timer feature #69446
+21049. feat: enable dark mode toggle #21049
