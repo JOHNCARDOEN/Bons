@@ -4999,3 +4999,4 @@
 70998. style: reformat files with black #70998
 18943. refactor: clean up auth middleware #18943
 3942. chore: clean up unused files #3942
+9840. test: add unit test for quiz service #9840
