@@ -5001,3 +5001,4 @@
 3942. chore: clean up unused files #3942
 9840. test: add unit test for quiz service #9840
 49083. style: rename variables for clarity #49083
+37853. fix: handle 500 error in quiz API #37853
