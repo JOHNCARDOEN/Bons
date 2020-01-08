@@ -2,3 +2,4 @@
 37638. perf: lazy-load components #37638
 8175. docs: write FAQ section #8175
 13044. style: reformat files with black #13044
+9366. feat: support email verification #9366
