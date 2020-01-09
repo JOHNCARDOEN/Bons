@@ -5003,3 +5003,4 @@
 49083. style: rename variables for clarity #49083
 37853. fix: handle 500 error in quiz API #37853
 13887. refactor: organize models into subfolders #13887
+29699. test: increase coverage on auth module #29699
