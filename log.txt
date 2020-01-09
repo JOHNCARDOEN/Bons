@@ -999,3 +999,4 @@
 47105. fix: handle 500 error in quiz API #47105
 22588. feat: add export to CSV option #22588
 14299. chore: add GitHub actions badge #14299
+53706. docs: add API usage examples #53706
