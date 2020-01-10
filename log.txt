@@ -3,3 +3,4 @@
 8175. docs: write FAQ section #8175
 13044. style: reformat files with black #13044
 9366. feat: support email verification #9366
+71423. chore: bump dependencies #71423
