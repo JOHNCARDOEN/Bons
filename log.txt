@@ -4,3 +4,4 @@
 13044. style: reformat files with black #13044
 9366. feat: support email verification #9366
 71423. chore: bump dependencies #71423
+95934. style: rename variables for clarity #95934
