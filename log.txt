@@ -5,3 +5,4 @@
 9366. feat: support email verification #9366
 71423. chore: bump dependencies #71423
 95934. style: rename variables for clarity #95934
+36728. perf: optimize database query for quiz results #36728
