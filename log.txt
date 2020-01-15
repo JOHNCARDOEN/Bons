@@ -4003,3 +4003,4 @@
 48855. refactor: split large controller into smaller functions #48855
 6885. style: reformat files with black #6885
 43481. chore: rename env.example #43481
+7888. feat: create admin dashboard #7888
