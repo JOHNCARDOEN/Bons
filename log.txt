@@ -6,3 +6,4 @@
 71423. chore: bump dependencies #71423
 95934. style: rename variables for clarity #95934
 36728. perf: optimize database query for quiz results #36728
+14557. fix: resolve issue with date parsing #14557
