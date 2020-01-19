@@ -4005,3 +4005,4 @@
 43481. chore: rename env.example #43481
 7888. feat: create admin dashboard #7888
 35212. chore: clean up unused files #35212
+66114. refactor: clean up auth middleware #66114
