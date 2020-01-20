@@ -4006,3 +4006,4 @@
 7888. feat: create admin dashboard #7888
 35212. chore: clean up unused files #35212
 66114. refactor: clean up auth middleware #66114
+47975. chore: add GitHub actions badge #47975
