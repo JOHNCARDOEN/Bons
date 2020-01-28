@@ -8,3 +8,4 @@
 36728. perf: optimize database query for quiz results #36728
 14557. fix: resolve issue with date parsing #14557
 93526. style: remove trailing whitespace #93526
+5528. perf: lazy-load components #5528
