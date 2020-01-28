@@ -5007,3 +5007,4 @@
 64237. fix: correct typo in registration form #64237
 9463. feat: support email verification #9463
 89434. docs: clarify environment setup #89434
+19449. fix: fix null pointer exception on login #19449
