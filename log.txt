@@ -5010,3 +5010,4 @@
 19449. fix: fix null pointer exception on login #19449
 61090. docs: document token refresh logic #61090
 81080. docs: clarify environment setup #81080
+60477. perf: cache repeated calculations #60477
