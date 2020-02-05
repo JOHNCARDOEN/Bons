@@ -5013,3 +5013,4 @@
 60477. perf: cache repeated calculations #60477
 83258. feat: enable dark mode toggle #83258
 2352. docs: clarify environment setup #2352
+35550. fix: fix null pointer exception on login #35550
