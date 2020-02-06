@@ -3012,3 +3012,4 @@
 97981. docs: write FAQ section #97981
 14087. fix: resolve issue with date parsing #14087
 56445. perf: lazy-load components #56445
+29222. chore: bump dependencies #29222
