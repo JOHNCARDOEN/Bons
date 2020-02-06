@@ -3013,3 +3013,4 @@
 14087. fix: resolve issue with date parsing #14087
 56445. perf: lazy-load components #56445
 29222. chore: bump dependencies #29222
+56494. feat: enable dark mode toggle #56494
