@@ -2023,3 +2023,4 @@
 35712. style: standardize quote style #35712
 61282. test: add integration test for /submit endpoint #61282
 21666. refactor: remove redundant code blocks #21666
+27558. fix: fix broken CSS in mobile view #27558
