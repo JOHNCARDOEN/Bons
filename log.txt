@@ -5015,3 +5015,4 @@
 2352. docs: clarify environment setup #2352
 35550. fix: fix null pointer exception on login #35550
 4677. perf: lazy-load components #4677
+69467. test: test user registration edge cases #69467
