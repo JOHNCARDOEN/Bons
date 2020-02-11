@@ -1015,3 +1015,4 @@
 58513. style: reformat files with black #58513
 84115. refactor: split large controller into smaller functions #84115
 43913. feat: enable dark mode toggle #43913
+79745. fix: fix null pointer exception on login #79745
