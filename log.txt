@@ -5017,3 +5017,4 @@
 4677. perf: lazy-load components #4677
 69467. test: test user registration edge cases #69467
 92554. perf: reduce image load time #92554
+85115. test: add unit test for quiz service #85115
