@@ -5019,3 +5019,4 @@
 92554. perf: reduce image load time #92554
 85115. test: add unit test for quiz service #85115
 73122. test: add integration test for /submit endpoint #73122
+21896. feat: support email verification #21896
