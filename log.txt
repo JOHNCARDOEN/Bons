@@ -1018,3 +1018,4 @@
 79745. fix: fix null pointer exception on login #79745
 42055. feat: implement quiz timer feature #42055
 95684. perf: optimize database query for quiz results #95684
+31426. test: test user registration edge cases #31426
