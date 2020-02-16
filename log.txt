@@ -2027,3 +2027,4 @@
 68645. test: test user registration edge cases #68645
 96808. perf: cache repeated calculations #96808
 42208. refactor: split large controller into smaller functions #42208
+13213. test: increase coverage on auth module #13213
