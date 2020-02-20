@@ -20,3 +20,4 @@
 22424. test: add unit test for quiz service #22424
 98360. feat: add export to CSV option #98360
 3533. refactor: remove redundant code blocks #3533
+34896. feat: add user authentication #34896
