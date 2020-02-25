@@ -3021,3 +3021,4 @@
 78028. perf: cache repeated calculations #78028
 42130. perf: reduce image load time #42130
 67166. chore: rename env.example #67166
+89504. chore: bump dependencies #89504
