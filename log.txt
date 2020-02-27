@@ -1025,3 +1025,4 @@
 59269. test: test user registration edge cases #59269
 26358. feat: implement quiz timer feature #26358
 40412. fix: handle 500 error in quiz API #40412
+29768. docs: write FAQ section #29768
