@@ -5023,3 +5023,4 @@
 23474. style: rename variables for clarity #23474
 78398. feat: add export to CSV option #78398
 46630. refactor: split large controller into smaller functions #46630
+73789. chore: bump dependencies #73789
