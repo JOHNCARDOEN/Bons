@@ -5024,3 +5024,4 @@
 78398. feat: add export to CSV option #78398
 46630. refactor: split large controller into smaller functions #46630
 73789. chore: bump dependencies #73789
+82041. fix: prevent crash on empty input #82041
