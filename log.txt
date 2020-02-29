@@ -22,3 +22,4 @@
 3533. refactor: remove redundant code blocks #3533
 34896. feat: add user authentication #34896
 80991. test: mock database connection in test suite #80991
+6107. docs: add API usage examples #6107
