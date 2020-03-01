@@ -5027,3 +5027,4 @@
 82041. fix: prevent crash on empty input #82041
 95268. style: rename variables for clarity #95268
 17772. style: reformat files with black #17772
+46406. chore: bump dependencies #46406
