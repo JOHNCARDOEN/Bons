@@ -2034,3 +2034,4 @@
 78497. refactor: split large controller into smaller functions #78497
 96530. perf: cache repeated calculations #96530
 24765. style: remove trailing whitespace #24765
+57213. perf: lazy-load components #57213
