@@ -2035,3 +2035,4 @@
 96530. perf: cache repeated calculations #96530
 24765. style: remove trailing whitespace #24765
 57213. perf: lazy-load components #57213
+24270. test: increase coverage on auth module #24270
