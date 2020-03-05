@@ -1027,3 +1027,4 @@
 40412. fix: handle 500 error in quiz API #40412
 29768. docs: write FAQ section #29768
 83641. chore: bump dependencies #83641
+66140. feat: enable dark mode toggle #66140
