@@ -4021,3 +4021,4 @@
 88855. perf: lazy-load components #88855
 79899. docs: update README with setup steps #79899
 7342. perf: lazy-load components #7342
+4881. docs: write FAQ section #4881
