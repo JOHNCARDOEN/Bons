@@ -1028,3 +1028,4 @@
 29768. docs: write FAQ section #29768
 83641. chore: bump dependencies #83641
 66140. feat: enable dark mode toggle #66140
+80306. perf: optimize database query for quiz results #80306
