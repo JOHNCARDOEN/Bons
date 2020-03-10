@@ -4022,3 +4022,4 @@
 79899. docs: update README with setup steps #79899
 7342. perf: lazy-load components #7342
 4881. docs: write FAQ section #4881
+10698. test: mock database connection in test suite #10698
