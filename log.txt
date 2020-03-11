@@ -2038,3 +2038,4 @@
 24270. test: increase coverage on auth module #24270
 94890. fix: handle 500 error in quiz API #94890
 6175. test: add integration test for /submit endpoint #6175
+1510. docs: improve code comments in utils #1510
