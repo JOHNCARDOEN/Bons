@@ -27,3 +27,4 @@
 89593. docs: document token refresh logic #89593
 30130. feat: enable dark mode toggle #30130
 44594. docs: clarify environment setup #44594
+45655. refactor: clean up auth middleware #45655
