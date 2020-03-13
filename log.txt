@@ -1032,3 +1032,4 @@
 29606. test: mock database connection in test suite #29606
 67988. perf: cache repeated calculations #67988
 64269. perf: optimize database query for quiz results #64269
+21339. perf: reduce image load time #21339
