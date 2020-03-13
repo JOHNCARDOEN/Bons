@@ -3025,3 +3025,4 @@
 45895. docs: write FAQ section #45895
 10107. docs: update README with setup steps #10107
 82610. feat: implement quiz timer feature #82610
+28076. chore: add GitHub actions badge #28076
