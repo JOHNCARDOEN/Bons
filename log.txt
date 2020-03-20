@@ -5037,3 +5037,4 @@
 69005. refactor: refactor quiz grading logic #69005
 84598. docs: improve code comments in utils #84598
 85503. refactor: organize models into subfolders #85503
+54886. feat: add user authentication #54886
