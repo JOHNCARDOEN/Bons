@@ -4032,3 +4032,4 @@
 26319. chore: bump dependencies #26319
 94498. perf: lazy-load components #94498
 35540. refactor: organize models into subfolders #35540
+65263. fix: prevent crash on empty input #65263
