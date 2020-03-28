@@ -3031,3 +3031,4 @@
 56609. feat: add export to CSV option #56609
 39830. fix: fix null pointer exception on login #39830
 75818. perf: reduce image load time #75818
+47236. feat: implement quiz timer feature #47236
