@@ -2050,3 +2050,4 @@
 36807. style: apply consistent indentation #36807
 16647. chore: bump dependencies #16647
 60671. refactor: organize models into subfolders #60671
+94166. test: add unit test for quiz service #94166
