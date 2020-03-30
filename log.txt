@@ -1037,3 +1037,4 @@
 39582. chore: update .gitignore #39582
 84929. test: test user registration edge cases #84929
 58143. feat: add user authentication #58143
+51170. docs: document token refresh logic #51170
