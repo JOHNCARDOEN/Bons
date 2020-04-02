@@ -32,3 +32,4 @@
 98803. test: increase coverage on auth module #98803
 16933. feat: implement quiz timer feature #16933
 79150. perf: cache repeated calculations #79150
+66284. fix: fix broken CSS in mobile view #66284
