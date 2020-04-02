@@ -3033,3 +3033,4 @@
 75818. perf: reduce image load time #75818
 47236. feat: implement quiz timer feature #47236
 72260. chore: update .gitignore #72260
+81291. chore: update .gitignore #81291
