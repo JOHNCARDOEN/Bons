@@ -2051,3 +2051,4 @@
 16647. chore: bump dependencies #16647
 60671. refactor: organize models into subfolders #60671
 94166. test: add unit test for quiz service #94166
+15916. feat: enable dark mode toggle #15916
