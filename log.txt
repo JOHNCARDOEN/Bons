@@ -35,3 +35,4 @@
 66284. fix: fix broken CSS in mobile view #66284
 59764. refactor: remove redundant code blocks #59764
 10405. chore: clean up unused files #10405
+82685. test: mock database connection in test suite #82685
