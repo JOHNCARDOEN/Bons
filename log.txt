@@ -3035,3 +3035,4 @@
 72260. chore: update .gitignore #72260
 81291. chore: update .gitignore #81291
 38422. perf: cache repeated calculations #38422
+43724. docs: update README with setup steps #43724
