@@ -5042,3 +5042,4 @@
 47645. refactor: organize models into subfolders #47645
 44665. test: increase coverage on auth module #44665
 6231. refactor: split large controller into smaller functions #6231
+11251. refactor: organize models into subfolders #11251
