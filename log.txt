@@ -38,3 +38,4 @@
 82685. test: mock database connection in test suite #82685
 49729. chore: clean up unused files #49729
 1417. style: standardize quote style #1417
+62303. test: add unit test for quiz service #62303
