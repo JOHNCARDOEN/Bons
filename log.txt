@@ -2056,3 +2056,4 @@
 90033. fix: correct typo in registration form #90033
 29555. refactor: organize models into subfolders #29555
 68060. chore: bump dependencies #68060
+41299. fix: fix null pointer exception on login #41299
