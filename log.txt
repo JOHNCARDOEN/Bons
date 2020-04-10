@@ -3037,3 +3037,4 @@
 38422. perf: cache repeated calculations #38422
 43724. docs: update README with setup steps #43724
 14700. perf: lazy-load components #14700
+3916. feat: add export to CSV option #3916
