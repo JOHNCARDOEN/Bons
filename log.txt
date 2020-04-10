@@ -2058,3 +2058,4 @@
 68060. chore: bump dependencies #68060
 41299. fix: fix null pointer exception on login #41299
 33107. test: increase coverage on auth module #33107
+18204. perf: lazy-load components #18204
