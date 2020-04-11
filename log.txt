@@ -4037,3 +4037,4 @@
 2867. feat: add user authentication #2867
 12265. test: mock database connection in test suite #12265
 84248. fix: correct typo in registration form #84248
+86823. fix: resolve issue with date parsing #86823
