@@ -4039,3 +4039,4 @@
 84248. fix: correct typo in registration form #84248
 86823. fix: resolve issue with date parsing #86823
 42372. feat: create admin dashboard #42372
+75226. fix: prevent crash on empty input #75226
