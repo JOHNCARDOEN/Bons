@@ -5047,3 +5047,4 @@
 16816. style: reformat files with black #16816
 14084. feat: support email verification #14084
 24822. refactor: remove redundant code blocks #24822
+64753. style: remove trailing whitespace #64753
