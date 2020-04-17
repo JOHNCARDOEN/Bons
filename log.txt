@@ -40,3 +40,4 @@
 1417. style: standardize quote style #1417
 62303. test: add unit test for quiz service #62303
 51806. refactor: refactor quiz grading logic #51806
+82724. test: test user registration edge cases #82724
