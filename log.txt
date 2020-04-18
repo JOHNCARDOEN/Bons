@@ -4043,3 +4043,4 @@
 14998. perf: cache repeated calculations #14998
 78226. test: add unit test for quiz service #78226
 16587. docs: improve code comments in utils #16587
+76751. test: test user registration edge cases #76751
