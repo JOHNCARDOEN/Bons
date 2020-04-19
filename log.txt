@@ -42,3 +42,4 @@
 51806. refactor: refactor quiz grading logic #51806
 82724. test: test user registration edge cases #82724
 66656. feat: support email verification #66656
+49962. feat: create admin dashboard #49962
