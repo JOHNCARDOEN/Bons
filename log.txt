@@ -1049,3 +1049,4 @@
 53040. fix: fix null pointer exception on login #53040
 1700. fix: resolve issue with date parsing #1700
 78660. feat: add export to CSV option #78660
+96540. docs: add API usage examples #96540
