@@ -3041,3 +3041,4 @@
 45668. refactor: clean up auth middleware #45668
 50069. feat: implement quiz timer feature #50069
 29784. test: add unit test for quiz service #29784
+2427. chore: add GitHub actions badge #2427
