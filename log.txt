@@ -3042,3 +3042,4 @@
 50069. feat: implement quiz timer feature #50069
 29784. test: add unit test for quiz service #29784
 2427. chore: add GitHub actions badge #2427
+45963. perf: reduce image load time #45963
