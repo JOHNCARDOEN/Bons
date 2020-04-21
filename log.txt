@@ -4047,3 +4047,4 @@
 94545. perf: optimize database query for quiz results #94545
 56525. chore: rename env.example #56525
 89572. test: increase coverage on auth module #89572
+46295. chore: add GitHub actions badge #46295
