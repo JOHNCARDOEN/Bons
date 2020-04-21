@@ -4046,3 +4046,4 @@
 76751. test: test user registration edge cases #76751
 94545. perf: optimize database query for quiz results #94545
 56525. chore: rename env.example #56525
+89572. test: increase coverage on auth module #89572
