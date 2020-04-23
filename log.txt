@@ -43,3 +43,4 @@
 82724. test: test user registration edge cases #82724
 66656. feat: support email verification #66656
 49962. feat: create admin dashboard #49962
+10493. test: test user registration edge cases #10493
