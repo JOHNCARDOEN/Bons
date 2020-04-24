@@ -1050,3 +1050,4 @@
 1700. fix: resolve issue with date parsing #1700
 78660. feat: add export to CSV option #78660
 96540. docs: add API usage examples #96540
+6506. test: add unit test for quiz service #6506
