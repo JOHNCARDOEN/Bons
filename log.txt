@@ -5052,3 +5052,4 @@
 23884. feat: enable dark mode toggle #23884
 24198. feat: add user authentication #24198
 62274. perf: reduce image load time #62274
+79725. refactor: clean up auth middleware #79725
