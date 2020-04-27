@@ -2065,3 +2065,4 @@
 25985. docs: add API usage examples #25985
 51601. docs: improve code comments in utils #51601
 46252. refactor: remove redundant code blocks #46252
+99163. feat: enable dark mode toggle #99163
