@@ -5053,3 +5053,4 @@
 24198. feat: add user authentication #24198
 62274. perf: reduce image load time #62274
 79725. refactor: clean up auth middleware #79725
+3555. perf: optimize database query for quiz results #3555
