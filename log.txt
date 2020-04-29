@@ -1057,3 +1057,4 @@
 63649. refactor: clean up auth middleware #63649
 98367. fix: handle 500 error in quiz API #98367
 79052. docs: write FAQ section #79052
+42954. docs: document token refresh logic #42954
