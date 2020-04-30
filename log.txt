@@ -4052,3 +4052,4 @@
 98770. perf: lazy-load components #98770
 67855. style: apply consistent indentation #67855
 18133. perf: lazy-load components #18133
+36349. docs: update README with setup steps #36349
