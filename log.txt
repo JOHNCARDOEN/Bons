@@ -5057,3 +5057,4 @@
 69769. test: test user registration edge cases #69769
 82864. refactor: split large controller into smaller functions #82864
 23866. chore: rename env.example #23866
+84441. test: mock database connection in test suite #84441
