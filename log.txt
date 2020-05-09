@@ -47,3 +47,4 @@
 92597. fix: fix broken CSS in mobile view #92597
 94802. test: add unit test for quiz service #94802
 21404. docs: update README with setup steps #21404
+76470. refactor: remove redundant code blocks #76470
