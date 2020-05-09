@@ -2068,3 +2068,4 @@
 99163. feat: enable dark mode toggle #99163
 13111. style: remove trailing whitespace #13111
 6787. feat: enable dark mode toggle #6787
+2926. feat: add export to CSV option #2926
