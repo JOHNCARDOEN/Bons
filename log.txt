@@ -1063,3 +1063,4 @@
 19347. chore: clean up unused files #19347
 12754. feat: add export to CSV option #12754
 19381. fix: prevent crash on empty input #19381
+56280. docs: update README with setup steps #56280
