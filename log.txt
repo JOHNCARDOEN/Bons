@@ -4057,3 +4057,4 @@
 54692. refactor: organize models into subfolders #54692
 86559. style: rename variables for clarity #86559
 28919. test: mock database connection in test suite #28919
+2440. style: standardize quote style #2440
