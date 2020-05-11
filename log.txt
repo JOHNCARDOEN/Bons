@@ -3050,3 +3050,4 @@
 86265. chore: bump dependencies #86265
 34001. style: apply consistent indentation #34001
 15645. test: add integration test for /submit endpoint #15645
+31798. fix: correct typo in registration form #31798
