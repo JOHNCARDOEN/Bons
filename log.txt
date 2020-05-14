@@ -49,3 +49,4 @@
 21404. docs: update README with setup steps #21404
 76470. refactor: remove redundant code blocks #76470
 46204. fix: fix broken CSS in mobile view #46204
+38103. test: test user registration edge cases #38103
