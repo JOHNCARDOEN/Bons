@@ -52,3 +52,4 @@
 38103. test: test user registration edge cases #38103
 30972. perf: reduce image load time #30972
 82806. test: test user registration edge cases #82806
+54060. feat: create admin dashboard #54060
