@@ -51,3 +51,4 @@
 46204. fix: fix broken CSS in mobile view #46204
 38103. test: test user registration edge cases #38103
 30972. perf: reduce image load time #30972
+82806. test: test user registration edge cases #82806
