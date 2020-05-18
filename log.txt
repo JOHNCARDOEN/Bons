@@ -2070,3 +2070,4 @@
 6787. feat: enable dark mode toggle #6787
 2926. feat: add export to CSV option #2926
 30907. docs: add API usage examples #30907
+7327. style: apply consistent indentation #7327
