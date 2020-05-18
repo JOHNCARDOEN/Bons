@@ -54,3 +54,4 @@
 82806. test: test user registration edge cases #82806
 54060. feat: create admin dashboard #54060
 28420. fix: fix broken CSS in mobile view #28420
+88678. style: apply consistent indentation #88678
