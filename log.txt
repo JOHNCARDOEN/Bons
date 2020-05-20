@@ -5060,3 +5060,4 @@
 84441. test: mock database connection in test suite #84441
 49489. docs: document token refresh logic #49489
 18232. fix: fix null pointer exception on login #18232
+85217. style: remove trailing whitespace #85217
