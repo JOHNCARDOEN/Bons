@@ -4062,3 +4062,4 @@
 21188. test: test user registration edge cases #21188
 33830. test: test user registration edge cases #33830
 76967. refactor: refactor quiz grading logic #76967
+18147. chore: add GitHub actions badge #18147
