@@ -5061,3 +5061,4 @@
 49489. docs: document token refresh logic #49489
 18232. fix: fix null pointer exception on login #18232
 85217. style: remove trailing whitespace #85217
+47447. fix: handle 500 error in quiz API #47447
