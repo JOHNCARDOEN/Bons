@@ -3057,3 +3057,4 @@
 15444. refactor: remove redundant code blocks #15444
 7200. test: increase coverage on auth module #7200
 51231. style: rename variables for clarity #51231
+71347. docs: document token refresh logic #71347
