@@ -2073,3 +2073,4 @@
 7327. style: apply consistent indentation #7327
 10639. docs: improve code comments in utils #10639
 16136. fix: fix null pointer exception on login #16136
+53007. refactor: remove redundant code blocks #53007
