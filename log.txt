@@ -5062,3 +5062,4 @@
 18232. fix: fix null pointer exception on login #18232
 85217. style: remove trailing whitespace #85217
 47447. fix: handle 500 error in quiz API #47447
+47327. chore: update .gitignore #47327
