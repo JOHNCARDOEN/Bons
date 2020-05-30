@@ -4065,3 +4065,4 @@
 18147. chore: add GitHub actions badge #18147
 77900. fix: fix null pointer exception on login #77900
 83094. perf: optimize database query for quiz results #83094
+52612. perf: lazy-load components #52612
