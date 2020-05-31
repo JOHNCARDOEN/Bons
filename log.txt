@@ -62,3 +62,4 @@
 26216. chore: clean up unused files #26216
 51080. chore: update .gitignore #51080
 45160. perf: reduce image load time #45160
+94116. fix: prevent crash on empty input #94116
