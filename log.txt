@@ -5064,3 +5064,4 @@
 47447. fix: handle 500 error in quiz API #47447
 47327. chore: update .gitignore #47327
 90672. perf: optimize database query for quiz results #90672
+47423. feat: enable dark mode toggle #47423
