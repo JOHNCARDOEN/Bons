@@ -4067,3 +4067,4 @@
 83094. perf: optimize database query for quiz results #83094
 52612. perf: lazy-load components #52612
 33645. test: add unit test for quiz service #33645
+15599. feat: support email verification #15599
