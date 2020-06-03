@@ -5065,3 +5065,4 @@
 47327. chore: update .gitignore #47327
 90672. perf: optimize database query for quiz results #90672
 47423. feat: enable dark mode toggle #47423
+25110. style: standardize quote style #25110
