@@ -64,3 +64,4 @@
 45160. perf: reduce image load time #45160
 94116. fix: prevent crash on empty input #94116
 13274. docs: add API usage examples #13274
+21992. style: rename variables for clarity #21992
