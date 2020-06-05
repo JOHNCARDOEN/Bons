@@ -2078,3 +2078,4 @@
 61385. chore: add GitHub actions badge #61385
 83217. refactor: remove redundant code blocks #83217
 95011. docs: clarify environment setup #95011
+4356. fix: fix null pointer exception on login #4356
