@@ -5067,3 +5067,4 @@
 47423. feat: enable dark mode toggle #47423
 25110. style: standardize quote style #25110
 78796. refactor: split large controller into smaller functions #78796
+33246. refactor: clean up auth middleware #33246
