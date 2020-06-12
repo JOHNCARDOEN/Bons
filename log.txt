@@ -5069,3 +5069,4 @@
 78796. refactor: split large controller into smaller functions #78796
 33246. refactor: clean up auth middleware #33246
 62766. docs: add API usage examples #62766
+47961. feat: add user authentication #47961
