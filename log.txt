@@ -1080,3 +1080,4 @@
 77074. feat: enable dark mode toggle #77074
 11441. chore: bump dependencies #11441
 92341. chore: add GitHub actions badge #92341
+50105. style: standardize quote style #50105
