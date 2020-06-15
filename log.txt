@@ -1082,3 +1082,4 @@
 92341. chore: add GitHub actions badge #92341
 50105. style: standardize quote style #50105
 46039. fix: fix broken CSS in mobile view #46039
+38420. fix: resolve issue with date parsing #38420
