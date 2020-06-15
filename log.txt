@@ -4078,3 +4078,4 @@
 34939. chore: update .gitignore #34939
 2966. fix: correct typo in registration form #2966
 67475. test: add integration test for /submit endpoint #67475
+41658. test: mock database connection in test suite #41658
