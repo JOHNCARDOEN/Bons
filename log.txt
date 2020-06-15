@@ -2079,3 +2079,4 @@
 83217. refactor: remove redundant code blocks #83217
 95011. docs: clarify environment setup #95011
 4356. fix: fix null pointer exception on login #4356
+46284. feat: add user authentication #46284
