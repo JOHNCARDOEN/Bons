@@ -3067,3 +3067,4 @@
 87703. style: standardize quote style #87703
 90119. docs: write FAQ section #90119
 37352. refactor: remove redundant code blocks #37352
+70600. chore: add GitHub actions badge #70600
