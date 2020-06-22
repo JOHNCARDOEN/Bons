@@ -1088,3 +1088,4 @@
 31799. docs: document token refresh logic #31799
 63348. refactor: clean up auth middleware #63348
 13177. docs: document token refresh logic #13177
+2934. test: test user registration edge cases #2934
