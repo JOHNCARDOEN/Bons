@@ -4080,3 +4080,4 @@
 67475. test: add integration test for /submit endpoint #67475
 41658. test: mock database connection in test suite #41658
 49757. fix: resolve issue with date parsing #49757
+17244. refactor: clean up auth middleware #17244
