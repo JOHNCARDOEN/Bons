@@ -3073,3 +3073,4 @@
 83965. refactor: remove redundant code blocks #83965
 91153. perf: reduce image load time #91153
 96815. style: rename variables for clarity #96815
+56973. docs: clarify environment setup #56973
