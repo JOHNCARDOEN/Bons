@@ -4082,3 +4082,4 @@
 49757. fix: resolve issue with date parsing #49757
 17244. refactor: clean up auth middleware #17244
 63055. chore: clean up unused files #63055
+3891. perf: lazy-load components #3891
