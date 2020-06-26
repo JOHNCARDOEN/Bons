@@ -4083,3 +4083,4 @@
 17244. refactor: clean up auth middleware #17244
 63055. chore: clean up unused files #63055
 3891. perf: lazy-load components #3891
+5388. test: test user registration edge cases #5388
