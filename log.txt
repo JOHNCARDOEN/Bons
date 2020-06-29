@@ -5076,3 +5076,4 @@
 73375. fix: resolve issue with date parsing #73375
 79337. style: remove trailing whitespace #79337
 13053. style: remove trailing whitespace #13053
+85675. perf: optimize database query for quiz results #85675
