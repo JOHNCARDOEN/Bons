@@ -4088,3 +4088,4 @@
 24230. perf: lazy-load components #24230
 41805. chore: update .gitignore #41805
 18950. feat: support email verification #18950
+84467. refactor: clean up auth middleware #84467
