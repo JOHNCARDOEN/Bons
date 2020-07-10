@@ -78,3 +78,4 @@
 15366. refactor: split large controller into smaller functions #15366
 84953. style: standardize quote style #84953
 67531. chore: update .gitignore #67531
+59575. fix: handle 500 error in quiz API #59575
