@@ -3081,3 +3081,4 @@
 95606. feat: add export to CSV option #95606
 49099. perf: reduce image load time #49099
 57429. refactor: split large controller into smaller functions #57429
+12851. perf: optimize database query for quiz results #12851
