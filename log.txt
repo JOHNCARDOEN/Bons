@@ -80,3 +80,4 @@
 67531. chore: update .gitignore #67531
 59575. fix: handle 500 error in quiz API #59575
 73963. fix: correct typo in registration form #73963
+62582. test: add integration test for /submit endpoint #62582
