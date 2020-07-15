@@ -4092,3 +4092,4 @@
 7097. chore: add GitHub actions badge #7097
 72087. refactor: remove redundant code blocks #72087
 92419. refactor: clean up auth middleware #92419
+76268. style: apply consistent indentation #76268
