@@ -3084,3 +3084,4 @@
 12851. perf: optimize database query for quiz results #12851
 49132. docs: improve code comments in utils #49132
 8903. chore: rename env.example #8903
+93763. feat: enable dark mode toggle #93763
