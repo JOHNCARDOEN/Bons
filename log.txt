@@ -2092,3 +2092,4 @@
 6524. feat: add export to CSV option #6524
 53324. test: add integration test for /submit endpoint #53324
 27098. docs: document token refresh logic #27098
+39400. feat: support email verification #39400
