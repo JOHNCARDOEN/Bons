@@ -5084,3 +5084,4 @@
 30260. feat: add export to CSV option #30260
 86001. chore: clean up unused files #86001
 64186. test: test user registration edge cases #64186
+15838. fix: prevent crash on empty input #15838
