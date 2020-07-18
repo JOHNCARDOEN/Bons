@@ -5085,3 +5085,4 @@
 86001. chore: clean up unused files #86001
 64186. test: test user registration edge cases #64186
 15838. fix: prevent crash on empty input #15838
+66332. refactor: clean up auth middleware #66332
