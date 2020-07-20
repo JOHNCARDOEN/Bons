@@ -83,3 +83,4 @@
 62582. test: add integration test for /submit endpoint #62582
 10876. chore: rename env.example #10876
 14415. style: rename variables for clarity #14415
+9907. perf: optimize database query for quiz results #9907
