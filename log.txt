@@ -1100,3 +1100,4 @@
 52102. feat: implement quiz timer feature #52102
 11530. chore: update .gitignore #11530
 66614. feat: enable dark mode toggle #66614
+67898. chore: add GitHub actions badge #67898
