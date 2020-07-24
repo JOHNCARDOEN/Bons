@@ -85,3 +85,4 @@
 14415. style: rename variables for clarity #14415
 9907. perf: optimize database query for quiz results #9907
 18978. perf: cache repeated calculations #18978
+93348. fix: correct typo in registration form #93348
