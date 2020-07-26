@@ -4093,3 +4093,4 @@
 72087. refactor: remove redundant code blocks #72087
 92419. refactor: clean up auth middleware #92419
 76268. style: apply consistent indentation #76268
+73211. fix: correct typo in registration form #73211
