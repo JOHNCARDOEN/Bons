@@ -3092,3 +3092,4 @@
 9583. feat: add user authentication #9583
 76574. perf: lazy-load components #76574
 53541. fix: resolve issue with date parsing #53541
+61565. fix: handle 500 error in quiz API #61565
