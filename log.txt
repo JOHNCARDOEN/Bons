@@ -88,3 +88,4 @@
 93348. fix: correct typo in registration form #93348
 52443. fix: prevent crash on empty input #52443
 49220. style: apply consistent indentation #49220
+45028. fix: resolve issue with date parsing #45028
