@@ -4100,3 +4100,4 @@
 35713. docs: improve code comments in utils #35713
 41670. fix: prevent crash on empty input #41670
 40364. chore: rename env.example #40364
+61967. feat: enable dark mode toggle #61967
