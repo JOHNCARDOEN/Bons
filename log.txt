@@ -3094,3 +3094,4 @@
 53541. fix: resolve issue with date parsing #53541
 61565. fix: handle 500 error in quiz API #61565
 12149. chore: add GitHub actions badge #12149
+2984. refactor: refactor quiz grading logic #2984
