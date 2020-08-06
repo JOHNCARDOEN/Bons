@@ -93,3 +93,4 @@
 14462. chore: update .gitignore #14462
 5247. docs: write FAQ section #5247
 78259. refactor: split large controller into smaller functions #78259
+78518. style: remove trailing whitespace #78518
