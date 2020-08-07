@@ -2096,3 +2096,4 @@
 88733. perf: lazy-load components #88733
 21665. test: add integration test for /submit endpoint #21665
 55829. style: reformat files with black #55829
+36213. perf: cache repeated calculations #36213
