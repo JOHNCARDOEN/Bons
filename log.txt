@@ -2098,3 +2098,4 @@
 55829. style: reformat files with black #55829
 36213. perf: cache repeated calculations #36213
 72481. chore: clean up unused files #72481
+14466. perf: reduce image load time #14466
