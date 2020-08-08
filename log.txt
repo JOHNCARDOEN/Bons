@@ -1109,3 +1109,4 @@
 88381. docs: document token refresh logic #88381
 2622. test: add unit test for quiz service #2622
 66333. refactor: refactor quiz grading logic #66333
+17675. perf: cache repeated calculations #17675
