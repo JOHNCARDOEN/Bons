@@ -2099,3 +2099,4 @@
 36213. perf: cache repeated calculations #36213
 72481. chore: clean up unused files #72481
 14466. perf: reduce image load time #14466
+39357. chore: bump dependencies #39357
