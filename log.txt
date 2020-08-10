@@ -3096,3 +3096,4 @@
 12149. chore: add GitHub actions badge #12149
 2984. refactor: refactor quiz grading logic #2984
 15743. test: increase coverage on auth module #15743
+31924. chore: bump dependencies #31924
