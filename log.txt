@@ -3098,3 +3098,4 @@
 15743. test: increase coverage on auth module #15743
 31924. chore: bump dependencies #31924
 91069. perf: optimize database query for quiz results #91069
+53844. fix: fix broken CSS in mobile view #53844
