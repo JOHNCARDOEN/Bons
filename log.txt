@@ -5098,3 +5098,4 @@
 26801. style: remove trailing whitespace #26801
 84360. feat: add user authentication #84360
 31279. test: test user registration edge cases #31279
+83984. feat: add export to CSV option #83984
