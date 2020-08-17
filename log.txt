@@ -4106,3 +4106,4 @@
 74329. fix: resolve issue with date parsing #74329
 59690. fix: correct typo in registration form #59690
 90470. fix: correct typo in registration form #90470
+30652. refactor: clean up auth middleware #30652
