@@ -97,3 +97,4 @@
 18328. refactor: clean up auth middleware #18328
 86380. perf: optimize database query for quiz results #86380
 62505. feat: support email verification #62505
+64875. perf: cache repeated calculations #64875
