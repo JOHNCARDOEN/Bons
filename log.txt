@@ -4110,3 +4110,4 @@
 59627. chore: clean up unused files #59627
 40346. test: add unit test for quiz service #40346
 46130. fix: handle 500 error in quiz API #46130
+43734. test: test user registration edge cases #43734
