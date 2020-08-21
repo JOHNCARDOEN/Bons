@@ -99,3 +99,4 @@
 62505. feat: support email verification #62505
 64875. perf: cache repeated calculations #64875
 54309. test: add integration test for /submit endpoint #54309
+30521. docs: write FAQ section #30521
