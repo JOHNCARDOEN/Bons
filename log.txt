@@ -4112,3 +4112,4 @@
 46130. fix: handle 500 error in quiz API #46130
 43734. test: test user registration edge cases #43734
 26397. fix: resolve issue with date parsing #26397
+16862. refactor: clean up auth middleware #16862
