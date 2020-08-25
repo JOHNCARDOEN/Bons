@@ -2107,3 +2107,4 @@
 40861. test: add unit test for quiz service #40861
 66670. refactor: refactor quiz grading logic #66670
 50574. chore: bump dependencies #50574
+92305. test: increase coverage on auth module #92305
