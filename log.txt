@@ -4115,3 +4115,4 @@
 16862. refactor: clean up auth middleware #16862
 20002. feat: add user authentication #20002
 36513. docs: clarify environment setup #36513
+76272. style: apply consistent indentation #76272
