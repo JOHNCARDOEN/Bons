@@ -5102,3 +5102,4 @@
 11854. docs: clarify environment setup #11854
 45948. perf: cache repeated calculations #45948
 79361. feat: add export to CSV option #79361
+73106. chore: update .gitignore #73106
