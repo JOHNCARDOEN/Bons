@@ -1115,3 +1115,4 @@
 57171. refactor: remove redundant code blocks #57171
 82240. style: apply consistent indentation #82240
 35250. feat: add user authentication #35250
+36571. fix: fix null pointer exception on login #36571
