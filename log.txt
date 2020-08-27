@@ -2108,3 +2108,4 @@
 66670. refactor: refactor quiz grading logic #66670
 50574. chore: bump dependencies #50574
 92305. test: increase coverage on auth module #92305
+79414. feat: enable dark mode toggle #79414
