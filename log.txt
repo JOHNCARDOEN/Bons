@@ -1117,3 +1117,4 @@
 35250. feat: add user authentication #35250
 36571. fix: fix null pointer exception on login #36571
 72004. style: reformat files with black #72004
+93854. docs: update README with setup steps #93854
