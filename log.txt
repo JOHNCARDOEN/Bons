@@ -1118,3 +1118,4 @@
 36571. fix: fix null pointer exception on login #36571
 72004. style: reformat files with black #72004
 93854. docs: update README with setup steps #93854
+30721. test: increase coverage on auth module #30721
