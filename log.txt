@@ -3103,3 +3103,4 @@
 24258. style: remove trailing whitespace #24258
 0590. docs: document token refresh logic #590
 85318. fix: correct typo in registration form #85318
+57776. style: reformat files with black #57776
