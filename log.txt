@@ -1120,3 +1120,4 @@
 93854. docs: update README with setup steps #93854
 30721. test: increase coverage on auth module #30721
 39361. docs: clarify environment setup #39361
+61807. docs: update README with setup steps #61807
