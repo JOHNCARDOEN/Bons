@@ -2111,3 +2111,4 @@
 79414. feat: enable dark mode toggle #79414
 77542. perf: optimize database query for quiz results #77542
 56738. style: remove trailing whitespace #56738
+76236. docs: add API usage examples #76236
