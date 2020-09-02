@@ -105,3 +105,4 @@
 58293. fix: correct typo in registration form #58293
 5631. chore: bump dependencies #5631
 31000. test: test user registration edge cases #31000
+39451. feat: support email verification #39451
