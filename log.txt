@@ -107,3 +107,4 @@
 31000. test: test user registration edge cases #31000
 39451. feat: support email verification #39451
 53231. test: mock database connection in test suite #53231
+42882. chore: clean up unused files #42882
