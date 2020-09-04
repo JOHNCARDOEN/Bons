@@ -108,3 +108,4 @@
 39451. feat: support email verification #39451
 53231. test: mock database connection in test suite #53231
 42882. chore: clean up unused files #42882
+71783. style: reformat files with black #71783
