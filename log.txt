@@ -4121,3 +4121,4 @@
 38117. feat: support email verification #38117
 50105. style: standardize quote style #50105
 62941. refactor: refactor quiz grading logic #62941
+81224. refactor: clean up auth middleware #81224
