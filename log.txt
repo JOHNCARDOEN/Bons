@@ -2115,3 +2115,4 @@
 82608. feat: add user authentication #82608
 12412. feat: add export to CSV option #12412
 84657. feat: support email verification #84657
+92232. fix: correct typo in registration form #92232
