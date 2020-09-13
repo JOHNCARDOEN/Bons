@@ -2120,3 +2120,4 @@
 67617. perf: cache repeated calculations #67617
 96061. chore: add GitHub actions badge #96061
 44098. feat: add export to CSV option #44098
+66473. refactor: split large controller into smaller functions #66473
