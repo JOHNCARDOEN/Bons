@@ -4124,3 +4124,4 @@
 81224. refactor: clean up auth middleware #81224
 53849. refactor: split large controller into smaller functions #53849
 48888. test: add unit test for quiz service #48888
+48614. fix: correct typo in registration form #48614
