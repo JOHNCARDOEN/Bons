@@ -1129,3 +1129,4 @@
 25911. test: add unit test for quiz service #25911
 30481. style: apply consistent indentation #30481
 49582. test: mock database connection in test suite #49582
+12868. fix: resolve issue with date parsing #12868
