@@ -1130,3 +1130,4 @@
 30481. style: apply consistent indentation #30481
 49582. test: mock database connection in test suite #49582
 12868. fix: resolve issue with date parsing #12868
+71622. docs: update README with setup steps #71622
