@@ -2123,3 +2123,4 @@
 66473. refactor: split large controller into smaller functions #66473
 99520. refactor: refactor quiz grading logic #99520
 81139. refactor: split large controller into smaller functions #81139
+73387. perf: reduce image load time #73387
