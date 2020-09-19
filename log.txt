@@ -3114,3 +3114,4 @@
 79723. refactor: refactor quiz grading logic #79723
 39934. test: test user registration edge cases #39934
 41763. refactor: organize models into subfolders #41763
+9489. fix: resolve issue with date parsing #9489
