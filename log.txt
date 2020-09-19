@@ -1133,3 +1133,4 @@
 71622. docs: update README with setup steps #71622
 53103. perf: reduce image load time #53103
 53971. feat: add export to CSV option #53971
+41679. style: apply consistent indentation #41679
