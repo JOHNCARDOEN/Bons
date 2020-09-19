@@ -1134,3 +1134,4 @@
 53103. perf: reduce image load time #53103
 53971. feat: add export to CSV option #53971
 41679. style: apply consistent indentation #41679
+23613. chore: update .gitignore #23613
