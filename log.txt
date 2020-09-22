@@ -114,3 +114,4 @@
 90112. chore: clean up unused files #90112
 77431. docs: document token refresh logic #77431
 35028. fix: fix null pointer exception on login #35028
+45482. perf: lazy-load components #45482
