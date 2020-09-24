@@ -2125,3 +2125,4 @@
 81139. refactor: split large controller into smaller functions #81139
 73387. perf: reduce image load time #73387
 55599. style: reformat files with black #55599
+77154. perf: lazy-load components #77154
