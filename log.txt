@@ -4127,3 +4127,4 @@
 48614. fix: correct typo in registration form #48614
 64080. style: standardize quote style #64080
 95460. test: add integration test for /submit endpoint #95460
+50174. fix: prevent crash on empty input #50174
