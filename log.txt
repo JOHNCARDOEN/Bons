@@ -5114,3 +5114,4 @@
 8528. refactor: split large controller into smaller functions #8528
 99189. docs: improve code comments in utils #99189
 2797. fix: resolve issue with date parsing #2797
+4471. fix: prevent crash on empty input #4471
