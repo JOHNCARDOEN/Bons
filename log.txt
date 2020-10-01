@@ -4130,3 +4130,4 @@
 50174. fix: prevent crash on empty input #50174
 28154. chore: rename env.example #28154
 29783. perf: reduce image load time #29783
+55307. chore: add GitHub actions badge #55307
