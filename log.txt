@@ -3124,3 +3124,4 @@
 86531. feat: implement quiz timer feature #86531
 86749. style: apply consistent indentation #86749
 16147. docs: write FAQ section #16147
+14318. chore: clean up unused files #14318
