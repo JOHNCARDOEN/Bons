@@ -3127,3 +3127,4 @@
 14318. chore: clean up unused files #14318
 67232. style: apply consistent indentation #67232
 15912. refactor: remove redundant code blocks #15912
+47814. docs: update README with setup steps #47814
