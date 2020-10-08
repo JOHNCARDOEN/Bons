@@ -1144,3 +1144,4 @@
 39908. chore: update .gitignore #39908
 54576. docs: update README with setup steps #54576
 2268. chore: rename env.example #2268
+71469. feat: support email verification #71469
