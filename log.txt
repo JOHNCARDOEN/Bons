@@ -4136,3 +4136,4 @@
 75003. feat: add user authentication #75003
 7397. fix: correct typo in registration form #7397
 98437. fix: correct typo in registration form #98437
+74727. test: add unit test for quiz service #74727
