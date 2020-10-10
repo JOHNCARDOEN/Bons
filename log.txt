@@ -2133,3 +2133,4 @@
 32528. refactor: remove redundant code blocks #32528
 90682. style: apply consistent indentation #90682
 13830. feat: implement quiz timer feature #13830
+43293. fix: prevent crash on empty input #43293
