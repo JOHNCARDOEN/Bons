@@ -4137,3 +4137,4 @@
 7397. fix: correct typo in registration form #7397
 98437. fix: correct typo in registration form #98437
 74727. test: add unit test for quiz service #74727
+89388. fix: fix broken CSS in mobile view #89388
