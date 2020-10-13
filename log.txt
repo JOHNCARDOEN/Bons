@@ -5123,3 +5123,4 @@
 58036. fix: resolve issue with date parsing #58036
 22451. docs: document token refresh logic #22451
 91924. perf: cache repeated calculations #91924
+26374. test: test user registration edge cases #26374
