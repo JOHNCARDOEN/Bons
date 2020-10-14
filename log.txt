@@ -4139,3 +4139,4 @@
 74727. test: add unit test for quiz service #74727
 89388. fix: fix broken CSS in mobile view #89388
 60541. perf: cache repeated calculations #60541
+83403. chore: bump dependencies #83403
