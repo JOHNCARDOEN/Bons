@@ -5125,3 +5125,4 @@
 91924. perf: cache repeated calculations #91924
 26374. test: test user registration edge cases #26374
 50933. chore: clean up unused files #50933
+85211. perf: lazy-load components #85211
