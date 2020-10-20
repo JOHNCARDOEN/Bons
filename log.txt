@@ -2137,3 +2137,4 @@
 74255. style: apply consistent indentation #74255
 60768. perf: cache repeated calculations #60768
 43382. refactor: clean up auth middleware #43382
+56722. feat: support email verification #56722
