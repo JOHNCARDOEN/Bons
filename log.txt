@@ -2138,3 +2138,4 @@
 60768. perf: cache repeated calculations #60768
 43382. refactor: clean up auth middleware #43382
 56722. feat: support email verification #56722
+33739. refactor: split large controller into smaller functions #33739
