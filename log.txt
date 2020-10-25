@@ -129,3 +129,4 @@
 91789. chore: bump dependencies #91789
 23396. chore: add GitHub actions badge #23396
 21222. test: add unit test for quiz service #21222
+32278. perf: optimize database query for quiz results #32278
