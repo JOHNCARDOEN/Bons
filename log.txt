@@ -2140,3 +2140,4 @@
 56722. feat: support email verification #56722
 33739. refactor: split large controller into smaller functions #33739
 44857. docs: document token refresh logic #44857
+88222. style: reformat files with black #88222
