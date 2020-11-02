@@ -1157,3 +1157,4 @@
 27883. feat: implement quiz timer feature #27883
 71046. docs: add API usage examples #71046
 10840. fix: correct typo in registration form #10840
+15780. fix: prevent crash on empty input #15780
