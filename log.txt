@@ -5132,3 +5132,4 @@
 11133. test: increase coverage on auth module #11133
 92725. perf: lazy-load components #92725
 61757. test: test user registration edge cases #61757
+86435. perf: reduce image load time #86435
