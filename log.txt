@@ -4144,3 +4144,4 @@
 28638. fix: prevent crash on empty input #28638
 63758. style: apply consistent indentation #63758
 33058. perf: cache repeated calculations #33058
+0984. feat: add export to CSV option #984
