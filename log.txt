@@ -3139,3 +3139,4 @@
 62866. refactor: organize models into subfolders #62866
 76390. test: add integration test for /submit endpoint #76390
 86195. style: standardize quote style #86195
+40976. fix: fix broken CSS in mobile view #40976
