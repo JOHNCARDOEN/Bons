@@ -3140,3 +3140,4 @@
 76390. test: add integration test for /submit endpoint #76390
 86195. style: standardize quote style #86195
 40976. fix: fix broken CSS in mobile view #40976
+11238. test: test user registration edge cases #11238
