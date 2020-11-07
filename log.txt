@@ -2146,3 +2146,4 @@
 67057. test: test user registration edge cases #67057
 68001. fix: resolve issue with date parsing #68001
 45142. refactor: split large controller into smaller functions #45142
+13090. perf: lazy-load components #13090
