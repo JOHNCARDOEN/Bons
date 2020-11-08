@@ -138,3 +138,4 @@
 49632. fix: prevent crash on empty input #49632
 27900. refactor: organize models into subfolders #27900
 45485. test: add unit test for quiz service #45485
+51930. docs: update README with setup steps #51930
