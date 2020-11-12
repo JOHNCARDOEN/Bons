@@ -140,3 +140,4 @@
 45485. test: add unit test for quiz service #45485
 51930. docs: update README with setup steps #51930
 20295. docs: improve code comments in utils #20295
+36373. perf: reduce image load time #36373
