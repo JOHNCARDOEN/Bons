@@ -141,3 +141,4 @@
 51930. docs: update README with setup steps #51930
 20295. docs: improve code comments in utils #20295
 36373. perf: reduce image load time #36373
+80931. feat: support email verification #80931
