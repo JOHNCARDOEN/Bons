@@ -4149,3 +4149,4 @@
 7575. refactor: refactor quiz grading logic #7575
 22700. chore: clean up unused files #22700
 62470. perf: optimize database query for quiz results #62470
+4252. chore: clean up unused files #4252
