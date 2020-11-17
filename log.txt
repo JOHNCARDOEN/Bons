@@ -2148,3 +2148,4 @@
 45142. refactor: split large controller into smaller functions #45142
 13090. perf: lazy-load components #13090
 79915. perf: reduce image load time #79915
+52462. refactor: clean up auth middleware #52462
