@@ -144,3 +144,4 @@
 80931. feat: support email verification #80931
 75501. test: test user registration edge cases #75501
 42338. docs: write FAQ section #42338
+2778. test: test user registration edge cases #2778
