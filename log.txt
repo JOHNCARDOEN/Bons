@@ -5143,3 +5143,4 @@
 30375. docs: write FAQ section #30375
 40891. feat: add export to CSV option #40891
 62868. style: standardize quote style #62868
+0382. perf: optimize database query for quiz results #382
