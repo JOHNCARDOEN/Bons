@@ -1164,3 +1164,4 @@
 19410. feat: support email verification #19410
 30975. fix: fix null pointer exception on login #30975
 1564. feat: add export to CSV option #1564
+56550. perf: cache repeated calculations #56550
