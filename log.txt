@@ -146,3 +146,4 @@
 42338. docs: write FAQ section #42338
 2778. test: test user registration edge cases #2778
 40188. perf: lazy-load components #40188
+65396. perf: lazy-load components #65396
