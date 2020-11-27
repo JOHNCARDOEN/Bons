@@ -3146,3 +3146,4 @@
 8419. perf: reduce image load time #8419
 41500. test: increase coverage on auth module #41500
 46179. docs: add API usage examples #46179
+52850. docs: update README with setup steps #52850
