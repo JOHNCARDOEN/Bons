@@ -1167,3 +1167,4 @@
 56550. perf: cache repeated calculations #56550
 4760. test: test user registration edge cases #4760
 89228. test: test user registration edge cases #89228
+22973. chore: clean up unused files #22973
