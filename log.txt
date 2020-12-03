@@ -5148,3 +5148,4 @@
 2497. docs: update README with setup steps #2497
 33131. test: increase coverage on auth module #33131
 21007. perf: reduce image load time #21007
+8408. fix: correct typo in registration form #8408
