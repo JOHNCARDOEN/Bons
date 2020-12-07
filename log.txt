@@ -151,3 +151,4 @@
 13758. style: remove trailing whitespace #13758
 26233. fix: correct typo in registration form #26233
 30400. perf: reduce image load time #30400
+84808. test: add unit test for quiz service #84808
