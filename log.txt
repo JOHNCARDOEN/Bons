@@ -153,3 +153,4 @@
 30400. perf: reduce image load time #30400
 84808. test: add unit test for quiz service #84808
 20036. perf: optimize database query for quiz results #20036
+45831. test: add unit test for quiz service #45831
