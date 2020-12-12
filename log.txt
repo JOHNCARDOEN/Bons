@@ -4166,3 +4166,4 @@
 33330. style: apply consistent indentation #33330
 69281. feat: add export to CSV option #69281
 18223. style: rename variables for clarity #18223
+56359. docs: document token refresh logic #56359
