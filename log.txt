@@ -155,3 +155,4 @@
 20036. perf: optimize database query for quiz results #20036
 45831. test: add unit test for quiz service #45831
 46238. style: reformat files with black #46238
+58706. test: mock database connection in test suite #58706
