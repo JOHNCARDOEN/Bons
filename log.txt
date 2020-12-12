@@ -1175,3 +1175,4 @@
 42500. test: test user registration edge cases #42500
 7175. refactor: organize models into subfolders #7175
 10412. style: apply consistent indentation #10412
+19591. docs: update README with setup steps #19591
