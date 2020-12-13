@@ -5157,3 +5157,4 @@
 41712. perf: optimize database query for quiz results #41712
 37825. fix: fix broken CSS in mobile view #37825
 88386. perf: optimize database query for quiz results #88386
+81418. style: apply consistent indentation #81418
