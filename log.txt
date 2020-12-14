@@ -5158,3 +5158,4 @@
 37825. fix: fix broken CSS in mobile view #37825
 88386. perf: optimize database query for quiz results #88386
 81418. style: apply consistent indentation #81418
+89100. test: add integration test for /submit endpoint #89100
