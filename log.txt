@@ -156,3 +156,4 @@
 45831. test: add unit test for quiz service #45831
 46238. style: reformat files with black #46238
 58706. test: mock database connection in test suite #58706
+9760. style: apply consistent indentation #9760
