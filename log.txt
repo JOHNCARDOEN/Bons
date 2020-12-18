@@ -4168,3 +4168,4 @@
 18223. style: rename variables for clarity #18223
 56359. docs: document token refresh logic #56359
 88634. fix: correct typo in registration form #88634
+41394. chore: add GitHub actions badge #41394
