@@ -1177,3 +1177,4 @@
 10412. style: apply consistent indentation #10412
 19591. docs: update README with setup steps #19591
 99509. feat: add user authentication #99509
+90210. docs: document token refresh logic #90210
