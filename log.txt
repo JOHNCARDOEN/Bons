@@ -159,3 +159,4 @@
 9760. style: apply consistent indentation #9760
 72365. style: reformat files with black #72365
 84206. test: add unit test for quiz service #84206
+44944. feat: enable dark mode toggle #44944
