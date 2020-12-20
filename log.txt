@@ -3153,3 +3153,4 @@
 20001. style: remove trailing whitespace #20001
 20544. docs: document token refresh logic #20544
 34211. test: add unit test for quiz service #34211
+45975. test: add integration test for /submit endpoint #45975
