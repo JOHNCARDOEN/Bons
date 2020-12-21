@@ -5161,3 +5161,4 @@
 89100. test: add integration test for /submit endpoint #89100
 17672. test: test user registration edge cases #17672
 46038. chore: add GitHub actions badge #46038
+6056. docs: document token refresh logic #6056
