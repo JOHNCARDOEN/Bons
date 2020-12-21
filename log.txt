@@ -1181,3 +1181,4 @@
 47441. perf: lazy-load components #47441
 64027. chore: bump dependencies #64027
 81983. fix: fix broken CSS in mobile view #81983
+63608. style: standardize quote style #63608
