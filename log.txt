@@ -4170,3 +4170,4 @@
 88634. fix: correct typo in registration form #88634
 41394. chore: add GitHub actions badge #41394
 86724. feat: enable dark mode toggle #86724
+77753. perf: lazy-load components #77753
