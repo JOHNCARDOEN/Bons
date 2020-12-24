@@ -5162,3 +5162,4 @@
 17672. test: test user registration edge cases #17672
 46038. chore: add GitHub actions badge #46038
 6056. docs: document token refresh logic #6056
+58196. fix: resolve issue with date parsing #58196
