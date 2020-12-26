@@ -1183,3 +1183,4 @@
 81983. fix: fix broken CSS in mobile view #81983
 63608. style: standardize quote style #63608
 29771. feat: implement quiz timer feature #29771
+64900. test: test user registration edge cases #64900
