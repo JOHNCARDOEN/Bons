@@ -1184,3 +1184,4 @@
 63608. style: standardize quote style #63608
 29771. feat: implement quiz timer feature #29771
 64900. test: test user registration edge cases #64900
+97577. chore: add GitHub actions badge #97577
