@@ -4172,3 +4172,4 @@
 86724. feat: enable dark mode toggle #86724
 77753. perf: lazy-load components #77753
 49916. docs: add API usage examples #49916
+26945. chore: bump dependencies #26945
