@@ -1187,3 +1187,4 @@
 97577. chore: add GitHub actions badge #97577
 23655. refactor: clean up auth middleware #23655
 20087. refactor: split large controller into smaller functions #20087
+69179. feat: enable dark mode toggle #69179
