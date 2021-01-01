@@ -162,3 +162,4 @@
 44944. feat: enable dark mode toggle #44944
 75126. style: remove trailing whitespace #75126
 5677. refactor: remove redundant code blocks #5677
+75304. feat: create admin dashboard #75304
