@@ -1189,3 +1189,4 @@
 20087. refactor: split large controller into smaller functions #20087
 69179. feat: enable dark mode toggle #69179
 9640. test: mock database connection in test suite #9640
+16769. test: increase coverage on auth module #16769
