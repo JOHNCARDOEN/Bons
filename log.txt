@@ -165,3 +165,4 @@
 75304. feat: create admin dashboard #75304
 69815. refactor: remove redundant code blocks #69815
 65326. feat: implement quiz timer feature #65326
+28712. fix: correct typo in registration form #28712
