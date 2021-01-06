@@ -5164,3 +5164,4 @@
 6056. docs: document token refresh logic #6056
 58196. fix: resolve issue with date parsing #58196
 62516. chore: rename env.example #62516
+22915. feat: support email verification #22915
