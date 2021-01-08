@@ -3156,3 +3156,4 @@
 45975. test: add integration test for /submit endpoint #45975
 17564. feat: support email verification #17564
 15560. test: mock database connection in test suite #15560
+0816. perf: lazy-load components #816
