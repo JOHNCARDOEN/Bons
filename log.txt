@@ -1192,3 +1192,4 @@
 16769. test: increase coverage on auth module #16769
 3678. fix: fix null pointer exception on login #3678
 14068. style: standardize quote style #14068
+15264. perf: cache repeated calculations #15264
