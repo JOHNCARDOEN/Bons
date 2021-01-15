@@ -1193,3 +1193,4 @@
 3678. fix: fix null pointer exception on login #3678
 14068. style: standardize quote style #14068
 15264. perf: cache repeated calculations #15264
+47410. feat: add export to CSV option #47410
