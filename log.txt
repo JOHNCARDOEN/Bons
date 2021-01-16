@@ -5170,3 +5170,4 @@
 26225. fix: fix null pointer exception on login #26225
 39169. fix: fix null pointer exception on login #39169
 98360. feat: add export to CSV option #98360
+31317. feat: add user authentication #31317
