@@ -3159,3 +3159,4 @@
 0816. perf: lazy-load components #816
 59679. refactor: split large controller into smaller functions #59679
 87189. perf: cache repeated calculations #87189
+80595. fix: prevent crash on empty input #80595
