@@ -5173,3 +5173,4 @@
 31317. feat: add user authentication #31317
 36529. test: mock database connection in test suite #36529
 53296. style: standardize quote style #53296
+33852. test: add integration test for /submit endpoint #33852
