@@ -4189,3 +4189,4 @@
 58624. refactor: clean up auth middleware #58624
 82654. refactor: split large controller into smaller functions #82654
 85849. style: apply consistent indentation #85849
+17952. docs: update README with setup steps #17952
