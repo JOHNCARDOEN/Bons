@@ -3164,3 +3164,4 @@
 38747. chore: add GitHub actions badge #38747
 75916. test: add unit test for quiz service #75916
 8337. chore: rename env.example #8337
+92872. fix: fix null pointer exception on login #92872
