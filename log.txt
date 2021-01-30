@@ -4194,3 +4194,4 @@
 95770. fix: handle 500 error in quiz API #95770
 26002. docs: clarify environment setup #26002
 24971. perf: reduce image load time #24971
+93580. test: test user registration edge cases #93580
