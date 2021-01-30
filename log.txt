@@ -175,3 +175,4 @@
 66310. feat: support email verification #66310
 63813. chore: add GitHub actions badge #63813
 99119. docs: improve code comments in utils #99119
+3136. perf: reduce image load time #3136
