@@ -1202,3 +1202,4 @@
 9722. chore: bump dependencies #9722
 32403. style: remove trailing whitespace #32403
 60727. fix: fix broken CSS in mobile view #60727
+26023. style: rename variables for clarity #26023
