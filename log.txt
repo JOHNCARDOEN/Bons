@@ -3169,3 +3169,4 @@
 60280. refactor: refactor quiz grading logic #60280
 72550. docs: clarify environment setup #72550
 4975. feat: add user authentication #4975
+92239. perf: optimize database query for quiz results #92239
