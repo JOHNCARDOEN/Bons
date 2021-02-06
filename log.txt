@@ -3170,3 +3170,4 @@
 72550. docs: clarify environment setup #72550
 4975. feat: add user authentication #4975
 92239. perf: optimize database query for quiz results #92239
+40872. fix: fix null pointer exception on login #40872
