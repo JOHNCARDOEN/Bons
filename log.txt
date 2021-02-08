@@ -1205,3 +1205,4 @@
 26023. style: rename variables for clarity #26023
 7890. docs: update README with setup steps #7890
 81626. feat: create admin dashboard #81626
+43238. perf: lazy-load components #43238
