@@ -1207,3 +1207,4 @@
 81626. feat: create admin dashboard #81626
 43238. perf: lazy-load components #43238
 5883. refactor: remove redundant code blocks #5883
+33225. fix: handle 500 error in quiz API #33225
