@@ -1209,3 +1209,4 @@
 5883. refactor: remove redundant code blocks #5883
 33225. fix: handle 500 error in quiz API #33225
 35545. docs: update README with setup steps #35545
+73646. test: mock database connection in test suite #73646
