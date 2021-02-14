@@ -3172,3 +3172,4 @@
 92239. perf: optimize database query for quiz results #92239
 40872. fix: fix null pointer exception on login #40872
 82789. test: add integration test for /submit endpoint #82789
+70662. fix: fix broken CSS in mobile view #70662
