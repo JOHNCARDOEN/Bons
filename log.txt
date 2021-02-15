@@ -2184,3 +2184,4 @@
 18808. fix: fix broken CSS in mobile view #18808
 36685. feat: support email verification #36685
 23027. feat: create admin dashboard #23027
+45895. docs: write FAQ section #45895
