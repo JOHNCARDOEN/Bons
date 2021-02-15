@@ -181,3 +181,4 @@
 31272. fix: resolve issue with date parsing #31272
 55336. style: reformat files with black #55336
 91602. docs: clarify environment setup #91602
+54372. refactor: clean up auth middleware #54372
