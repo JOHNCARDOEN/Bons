@@ -2185,3 +2185,4 @@
 36685. feat: support email verification #36685
 23027. feat: create admin dashboard #23027
 45895. docs: write FAQ section #45895
+18527. refactor: split large controller into smaller functions #18527
