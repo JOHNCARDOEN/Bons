@@ -5179,3 +5179,4 @@
 78680. chore: update .gitignore #78680
 36359. fix: resolve issue with date parsing #36359
 2865. chore: rename env.example #2865
+47864. chore: add GitHub actions badge #47864
