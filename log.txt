@@ -1212,3 +1212,4 @@
 73646. test: mock database connection in test suite #73646
 70168. refactor: refactor quiz grading logic #70168
 46618. feat: add user authentication #46618
+90786. test: mock database connection in test suite #90786
