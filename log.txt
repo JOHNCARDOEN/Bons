@@ -182,3 +182,4 @@
 55336. style: reformat files with black #55336
 91602. docs: clarify environment setup #91602
 54372. refactor: clean up auth middleware #54372
+2605. feat: create admin dashboard #2605
