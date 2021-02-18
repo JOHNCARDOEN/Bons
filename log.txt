@@ -184,3 +184,4 @@
 54372. refactor: clean up auth middleware #54372
 2605. feat: create admin dashboard #2605
 83632. docs: add API usage examples #83632
+46838. docs: document token refresh logic #46838
