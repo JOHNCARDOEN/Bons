@@ -4201,3 +4201,4 @@
 74982. style: apply consistent indentation #74982
 44632. fix: prevent crash on empty input #44632
 58793. refactor: split large controller into smaller functions #58793
+85465. feat: support email verification #85465
