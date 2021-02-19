@@ -1215,3 +1215,4 @@
 90786. test: mock database connection in test suite #90786
 6150. style: reformat files with black #6150
 47038. style: remove trailing whitespace #47038
+0870. refactor: clean up auth middleware #870
