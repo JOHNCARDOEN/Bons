@@ -3175,3 +3175,4 @@
 70662. fix: fix broken CSS in mobile view #70662
 47585. style: standardize quote style #47585
 54711. test: test user registration edge cases #54711
+8341. fix: resolve issue with date parsing #8341
