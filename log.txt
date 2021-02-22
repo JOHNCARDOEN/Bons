@@ -5184,3 +5184,4 @@
 75935. chore: rename env.example #75935
 55107. fix: resolve issue with date parsing #55107
 9104. refactor: remove redundant code blocks #9104
+56720. feat: add user authentication #56720
