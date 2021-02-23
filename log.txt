@@ -5186,3 +5186,4 @@
 9104. refactor: remove redundant code blocks #9104
 56720. feat: add user authentication #56720
 13050. test: add integration test for /submit endpoint #13050
+96748. fix: correct typo in registration form #96748
