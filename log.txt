@@ -1221,3 +1221,4 @@
 48713. chore: bump dependencies #48713
 73894. perf: cache repeated calculations #73894
 15153. refactor: clean up auth middleware #15153
+50729. feat: add user authentication #50729
