@@ -1219,3 +1219,4 @@
 22792. style: reformat files with black #22792
 82589. fix: prevent crash on empty input #82589
 48713. chore: bump dependencies #48713
+73894. perf: cache repeated calculations #73894
