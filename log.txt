@@ -191,3 +191,4 @@
 83462. fix: resolve issue with date parsing #83462
 78283. fix: handle 500 error in quiz API #78283
 14636. test: add integration test for /submit endpoint #14636
+2322. refactor: clean up auth middleware #2322
