@@ -193,3 +193,4 @@
 14636. test: add integration test for /submit endpoint #14636
 2322. refactor: clean up auth middleware #2322
 65531. style: apply consistent indentation #65531
+86568. fix: fix broken CSS in mobile view #86568
