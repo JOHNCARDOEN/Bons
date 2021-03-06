@@ -2191,3 +2191,4 @@
 53495. feat: enable dark mode toggle #53495
 78309. docs: update README with setup steps #78309
 48867. docs: clarify environment setup #48867
+89050. feat: enable dark mode toggle #89050
