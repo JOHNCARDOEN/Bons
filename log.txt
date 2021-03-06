@@ -4204,3 +4204,4 @@
 85465. feat: support email verification #85465
 94312. perf: cache repeated calculations #94312
 82875. feat: add export to CSV option #82875
+33573. refactor: clean up auth middleware #33573
