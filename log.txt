@@ -5191,3 +5191,4 @@
 50728. style: rename variables for clarity #50728
 74153. chore: add GitHub actions badge #74153
 80634. chore: rename env.example #80634
+78248. refactor: clean up auth middleware #78248
