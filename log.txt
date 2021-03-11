@@ -3177,3 +3177,4 @@
 54711. test: test user registration edge cases #54711
 8341. fix: resolve issue with date parsing #8341
 87985. feat: enable dark mode toggle #87985
+75189. fix: fix null pointer exception on login #75189
