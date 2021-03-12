@@ -4209,3 +4209,4 @@
 98440. style: apply consistent indentation #98440
 48154. style: rename variables for clarity #48154
 77815. fix: handle 500 error in quiz API #77815
+95962. style: standardize quote style #95962
