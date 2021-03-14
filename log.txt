@@ -5193,3 +5193,4 @@
 80634. chore: rename env.example #80634
 78248. refactor: clean up auth middleware #78248
 19341. fix: correct typo in registration form #19341
+70364. fix: prevent crash on empty input #70364
