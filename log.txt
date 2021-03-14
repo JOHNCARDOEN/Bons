@@ -200,3 +200,4 @@
 14518. feat: add export to CSV option #14518
 92765. style: rename variables for clarity #92765
 65620. style: rename variables for clarity #65620
+58414. feat: enable dark mode toggle #58414
