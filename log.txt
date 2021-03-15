@@ -3183,3 +3183,4 @@
 23861. docs: update README with setup steps #23861
 68426. test: mock database connection in test suite #68426
 75720. test: test user registration edge cases #75720
+86021. docs: add API usage examples #86021
