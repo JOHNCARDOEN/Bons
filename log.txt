@@ -4211,3 +4211,4 @@
 77815. fix: handle 500 error in quiz API #77815
 95962. style: standardize quote style #95962
 49724. chore: add GitHub actions badge #49724
+70171. test: test user registration edge cases #70171
