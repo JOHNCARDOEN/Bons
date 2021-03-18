@@ -5195,3 +5195,4 @@
 19341. fix: correct typo in registration form #19341
 70364. fix: prevent crash on empty input #70364
 37117. perf: optimize database query for quiz results #37117
+83594. chore: clean up unused files #83594
