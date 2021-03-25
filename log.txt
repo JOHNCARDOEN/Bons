@@ -4214,3 +4214,4 @@
 70171. test: test user registration edge cases #70171
 32574. docs: write FAQ section #32574
 27749. test: increase coverage on auth module #27749
+5053. perf: reduce image load time #5053
