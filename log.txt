@@ -3188,3 +3188,4 @@
 75261. feat: support email verification #75261
 15244. style: remove trailing whitespace #15244
 74993. refactor: split large controller into smaller functions #74993
+87988. fix: fix null pointer exception on login #87988
