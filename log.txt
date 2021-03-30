@@ -209,3 +209,4 @@
 39862. style: reformat files with black #39862
 39515. chore: rename env.example #39515
 49855. chore: update .gitignore #49855
+68143. test: increase coverage on auth module #68143
