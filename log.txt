@@ -1233,3 +1233,4 @@
 5639. style: reformat files with black #5639
 88502. feat: add export to CSV option #88502
 78914. style: apply consistent indentation #78914
+9031. perf: cache repeated calculations #9031
