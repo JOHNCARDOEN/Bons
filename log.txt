@@ -2201,3 +2201,4 @@
 22656. docs: write FAQ section #22656
 31818. test: test user registration edge cases #31818
 91384. fix: fix broken CSS in mobile view #91384
+50752. chore: rename env.example #50752
