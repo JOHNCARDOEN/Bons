@@ -1238,3 +1238,4 @@
 66449. style: rename variables for clarity #66449
 24153. perf: optimize database query for quiz results #24153
 19286. perf: lazy-load components #19286
+58197. fix: prevent crash on empty input #58197
