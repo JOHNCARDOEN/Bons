@@ -2203,3 +2203,4 @@
 91384. fix: fix broken CSS in mobile view #91384
 50752. chore: rename env.example #50752
 88623. fix: correct typo in registration form #88623
+32987. refactor: remove redundant code blocks #32987
