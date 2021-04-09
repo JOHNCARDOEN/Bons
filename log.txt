@@ -3191,3 +3191,4 @@
 87988. fix: fix null pointer exception on login #87988
 40292. chore: clean up unused files #40292
 68120. perf: optimize database query for quiz results #68120
+78390. test: test user registration edge cases #78390
