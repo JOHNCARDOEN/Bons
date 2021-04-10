@@ -1239,3 +1239,4 @@
 24153. perf: optimize database query for quiz results #24153
 19286. perf: lazy-load components #19286
 58197. fix: prevent crash on empty input #58197
+36867. perf: lazy-load components #36867
