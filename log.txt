@@ -2210,3 +2210,4 @@
 48283. fix: correct typo in registration form #48283
 89518. feat: enable dark mode toggle #89518
 69015. test: add integration test for /submit endpoint #69015
+49417. feat: add user authentication #49417
