@@ -213,3 +213,4 @@
 15749. style: reformat files with black #15749
 28275. refactor: remove redundant code blocks #28275
 24687. chore: clean up unused files #24687
+63982. chore: bump dependencies #63982
