@@ -2213,3 +2213,4 @@
 49417. feat: add user authentication #49417
 79214. style: apply consistent indentation #79214
 40415. docs: clarify environment setup #40415
+82986. fix: handle 500 error in quiz API #82986
