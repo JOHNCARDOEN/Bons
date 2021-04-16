@@ -1243,3 +1243,4 @@
 62692. chore: bump dependencies #62692
 33967. perf: reduce image load time #33967
 60939. fix: correct typo in registration form #60939
+41240. perf: lazy-load components #41240
