@@ -5213,3 +5213,4 @@
 72150. docs: clarify environment setup #72150
 11227. perf: cache repeated calculations #11227
 45954. test: increase coverage on auth module #45954
+39084. docs: update README with setup steps #39084
