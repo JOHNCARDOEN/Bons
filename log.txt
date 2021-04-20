@@ -216,3 +216,4 @@
 63982. chore: bump dependencies #63982
 37758. style: remove trailing whitespace #37758
 91250. refactor: split large controller into smaller functions #91250
+21358. fix: handle 500 error in quiz API #21358
