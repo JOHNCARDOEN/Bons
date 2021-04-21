@@ -1245,3 +1245,4 @@
 60939. fix: correct typo in registration form #60939
 41240. perf: lazy-load components #41240
 31869. perf: cache repeated calculations #31869
+60740. style: apply consistent indentation #60740
