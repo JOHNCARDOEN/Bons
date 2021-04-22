@@ -2216,3 +2216,4 @@
 82986. fix: handle 500 error in quiz API #82986
 0164. perf: cache repeated calculations #164
 73237. test: test user registration edge cases #73237
+2956. test: mock database connection in test suite #2956
