@@ -1248,3 +1248,4 @@
 60740. style: apply consistent indentation #60740
 49069. style: apply consistent indentation #49069
 58747. perf: optimize database query for quiz results #58747
+50516. refactor: refactor quiz grading logic #50516
