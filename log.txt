@@ -4229,3 +4229,4 @@
 71332. refactor: organize models into subfolders #71332
 44114. feat: create admin dashboard #44114
 20652. test: add unit test for quiz service #20652
+60012. feat: enable dark mode toggle #60012
