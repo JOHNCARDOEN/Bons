@@ -220,3 +220,4 @@
 30606. fix: fix null pointer exception on login #30606
 27164. docs: update README with setup steps #27164
 46601. fix: fix null pointer exception on login #46601
+54928. perf: optimize database query for quiz results #54928
