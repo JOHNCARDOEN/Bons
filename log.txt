@@ -4234,3 +4234,4 @@
 59091. chore: bump dependencies #59091
 15253. chore: rename env.example #15253
 33682. style: remove trailing whitespace #33682
+17875. chore: update .gitignore #17875
