@@ -5219,3 +5219,4 @@
 29547. chore: add GitHub actions badge #29547
 3180. chore: bump dependencies #3180
 93034. perf: reduce image load time #93034
+66123. feat: enable dark mode toggle #66123
