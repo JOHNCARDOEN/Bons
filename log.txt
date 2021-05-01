@@ -3202,3 +3202,4 @@
 46142. style: reformat files with black #46142
 66786. style: apply consistent indentation #66786
 72932. style: remove trailing whitespace #72932
+15666. refactor: remove redundant code blocks #15666
