@@ -223,3 +223,4 @@
 54928. perf: optimize database query for quiz results #54928
 8471. test: add unit test for quiz service #8471
 83323. fix: prevent crash on empty input #83323
+71879. chore: clean up unused files #71879
