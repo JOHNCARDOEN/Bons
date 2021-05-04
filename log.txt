@@ -4240,3 +4240,4 @@
 6757. docs: improve code comments in utils #6757
 57855. perf: lazy-load components #57855
 8929. style: apply consistent indentation #8929
+2772. docs: update README with setup steps #2772
