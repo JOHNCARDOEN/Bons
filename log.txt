@@ -3204,3 +3204,4 @@
 72932. style: remove trailing whitespace #72932
 15666. refactor: remove redundant code blocks #15666
 21184. test: increase coverage on auth module #21184
+20957. docs: update README with setup steps #20957
