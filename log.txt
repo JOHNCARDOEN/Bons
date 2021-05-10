@@ -2221,3 +2221,4 @@
 67086. chore: bump dependencies #67086
 0879. feat: create admin dashboard #879
 17093. docs: write FAQ section #17093
+60401. perf: optimize database query for quiz results #60401
