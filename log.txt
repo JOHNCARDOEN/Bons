@@ -3206,3 +3206,4 @@
 21184. test: increase coverage on auth module #21184
 20957. docs: update README with setup steps #20957
 25194. perf: cache repeated calculations #25194
+99158. docs: add API usage examples #99158
