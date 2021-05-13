@@ -5229,3 +5229,4 @@
 61857. perf: cache repeated calculations #61857
 41386. test: increase coverage on auth module #41386
 6813. fix: fix null pointer exception on login #6813
+26619. docs: document token refresh logic #26619
