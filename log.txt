@@ -3209,3 +3209,4 @@
 99158. docs: add API usage examples #99158
 13740. chore: clean up unused files #13740
 2161. fix: resolve issue with date parsing #2161
+5998. chore: add GitHub actions badge #5998
