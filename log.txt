@@ -4245,3 +4245,4 @@
 98601. style: reformat files with black #98601
 43228. style: reformat files with black #43228
 72945. refactor: clean up auth middleware #72945
+7616. fix: handle 500 error in quiz API #7616
