@@ -1255,3 +1255,4 @@
 24584. fix: prevent crash on empty input #24584
 67233. docs: document token refresh logic #67233
 49862. perf: cache repeated calculations #49862
+94420. fix: fix null pointer exception on login #94420
