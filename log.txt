@@ -3212,3 +3212,4 @@
 5998. chore: add GitHub actions badge #5998
 14956. style: remove trailing whitespace #14956
 68475. perf: optimize database query for quiz results #68475
+96030. test: add integration test for /submit endpoint #96030
