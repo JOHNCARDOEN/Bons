@@ -1256,3 +1256,4 @@
 67233. docs: document token refresh logic #67233
 49862. perf: cache repeated calculations #49862
 94420. fix: fix null pointer exception on login #94420
+0402. fix: handle 500 error in quiz API #402
