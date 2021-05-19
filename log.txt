@@ -3214,3 +3214,4 @@
 68475. perf: optimize database query for quiz results #68475
 96030. test: add integration test for /submit endpoint #96030
 40621. refactor: refactor quiz grading logic #40621
+39293. fix: fix null pointer exception on login #39293
