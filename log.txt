@@ -232,3 +232,4 @@
 28064. test: add unit test for quiz service #28064
 91981. docs: document token refresh logic #91981
 81782. feat: enable dark mode toggle #81782
+79038. feat: enable dark mode toggle #79038
