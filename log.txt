@@ -2226,3 +2226,4 @@
 85199. perf: cache repeated calculations #85199
 15260. test: add integration test for /submit endpoint #15260
 42850. refactor: split large controller into smaller functions #42850
+95338. fix: correct typo in registration form #95338
