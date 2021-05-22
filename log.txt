@@ -4252,3 +4252,4 @@
 25453. refactor: split large controller into smaller functions #25453
 51764. perf: cache repeated calculations #51764
 42638. perf: lazy-load components #42638
+66050. chore: add GitHub actions badge #66050
