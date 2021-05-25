@@ -4254,3 +4254,4 @@
 42638. perf: lazy-load components #42638
 66050. chore: add GitHub actions badge #66050
 50186. fix: fix broken CSS in mobile view #50186
+40808. fix: fix broken CSS in mobile view #40808
