@@ -234,3 +234,4 @@
 81782. feat: enable dark mode toggle #81782
 79038. feat: enable dark mode toggle #79038
 51781. fix: correct typo in registration form #51781
+38321. docs: write FAQ section #38321
