@@ -4255,3 +4255,4 @@
 66050. chore: add GitHub actions badge #66050
 50186. fix: fix broken CSS in mobile view #50186
 40808. fix: fix broken CSS in mobile view #40808
+92832. test: test user registration edge cases #92832
