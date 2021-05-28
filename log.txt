@@ -235,3 +235,4 @@
 79038. feat: enable dark mode toggle #79038
 51781. fix: correct typo in registration form #51781
 38321. docs: write FAQ section #38321
+49683. refactor: clean up auth middleware #49683
