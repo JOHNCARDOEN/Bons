@@ -4256,3 +4256,4 @@
 50186. fix: fix broken CSS in mobile view #50186
 40808. fix: fix broken CSS in mobile view #40808
 92832. test: test user registration edge cases #92832
+94274. fix: correct typo in registration form #94274
