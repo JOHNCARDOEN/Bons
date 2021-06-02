@@ -240,3 +240,4 @@
 60707. test: increase coverage on auth module #60707
 29291. refactor: refactor quiz grading logic #29291
 78981. fix: fix broken CSS in mobile view #78981
+86932. style: standardize quote style #86932
