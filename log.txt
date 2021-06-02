@@ -2232,3 +2232,4 @@
 11643. feat: create admin dashboard #11643
 91717. style: reformat files with black #91717
 93779. fix: fix null pointer exception on login #93779
+47200. refactor: clean up auth middleware #47200
