@@ -1264,3 +1264,4 @@
 94987. fix: correct typo in registration form #94987
 74373. feat: add export to CSV option #74373
 19447. perf: reduce image load time #19447
+66204. perf: reduce image load time #66204
