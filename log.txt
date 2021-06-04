@@ -241,3 +241,4 @@
 29291. refactor: refactor quiz grading logic #29291
 78981. fix: fix broken CSS in mobile view #78981
 86932. style: standardize quote style #86932
+89886. chore: add GitHub actions badge #89886
