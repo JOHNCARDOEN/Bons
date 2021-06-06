@@ -3217,3 +3217,4 @@
 39293. fix: fix null pointer exception on login #39293
 63388. test: test user registration edge cases #63388
 19444. feat: implement quiz timer feature #19444
+70113. docs: document token refresh logic #70113
