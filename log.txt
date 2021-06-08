@@ -5240,3 +5240,4 @@
 12951. style: rename variables for clarity #12951
 1815. style: remove trailing whitespace #1815
 2707. chore: update .gitignore #2707
+2182. test: test user registration edge cases #2182
