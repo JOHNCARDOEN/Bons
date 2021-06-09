@@ -4259,3 +4259,4 @@
 94274. fix: correct typo in registration form #94274
 81381. chore: bump dependencies #81381
 68581. style: apply consistent indentation #68581
+21671. fix: prevent crash on empty input #21671
