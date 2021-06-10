@@ -4260,3 +4260,4 @@
 81381. chore: bump dependencies #81381
 68581. style: apply consistent indentation #68581
 21671. fix: prevent crash on empty input #21671
+69006. style: remove trailing whitespace #69006
