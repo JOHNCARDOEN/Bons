@@ -2238,3 +2238,4 @@
 30211. perf: optimize database query for quiz results #30211
 84410. chore: rename env.example #84410
 69512. perf: lazy-load components #69512
+31817. perf: optimize database query for quiz results #31817
