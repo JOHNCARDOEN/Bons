@@ -3220,3 +3220,4 @@
 70113. docs: document token refresh logic #70113
 2104. chore: clean up unused files #2104
 52768. test: test user registration edge cases #52768
+43823. fix: fix null pointer exception on login #43823
