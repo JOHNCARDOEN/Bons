@@ -1268,3 +1268,4 @@
 90523. docs: add API usage examples #90523
 65977. chore: clean up unused files #65977
 34995. perf: reduce image load time #34995
+83345. perf: reduce image load time #83345
