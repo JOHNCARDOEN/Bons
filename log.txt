@@ -1269,3 +1269,4 @@
 65977. chore: clean up unused files #65977
 34995. perf: reduce image load time #34995
 83345. perf: reduce image load time #83345
+18355. fix: handle 500 error in quiz API #18355
