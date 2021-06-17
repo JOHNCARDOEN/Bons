@@ -1272,3 +1272,4 @@
 18355. fix: handle 500 error in quiz API #18355
 75496. refactor: split large controller into smaller functions #75496
 96484. refactor: clean up auth middleware #96484
+41573. test: add integration test for /submit endpoint #41573
