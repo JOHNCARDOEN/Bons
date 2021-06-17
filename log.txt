@@ -1273,3 +1273,4 @@
 75496. refactor: split large controller into smaller functions #75496
 96484. refactor: clean up auth middleware #96484
 41573. test: add integration test for /submit endpoint #41573
+78395. test: test user registration edge cases #78395
