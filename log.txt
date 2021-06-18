@@ -4265,3 +4265,4 @@
 92399. docs: update README with setup steps #92399
 74579. fix: prevent crash on empty input #74579
 5745. refactor: split large controller into smaller functions #5745
+46324. fix: prevent crash on empty input #46324
