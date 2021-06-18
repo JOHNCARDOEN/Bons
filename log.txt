@@ -3224,3 +3224,4 @@
 45894. fix: handle 500 error in quiz API #45894
 3550. docs: add API usage examples #3550
 26482. docs: improve code comments in utils #26482
+54618. test: test user registration edge cases #54618
