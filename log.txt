@@ -2241,3 +2241,4 @@
 31817. perf: optimize database query for quiz results #31817
 62012. test: add integration test for /submit endpoint #62012
 35248. docs: document token refresh logic #35248
+62951. perf: optimize database query for quiz results #62951
