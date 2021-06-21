@@ -4266,3 +4266,4 @@
 74579. fix: prevent crash on empty input #74579
 5745. refactor: split large controller into smaller functions #5745
 46324. fix: prevent crash on empty input #46324
+53324. test: add integration test for /submit endpoint #53324
