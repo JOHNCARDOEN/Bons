@@ -5252,3 +5252,4 @@
 14388. perf: optimize database query for quiz results #14388
 77360. docs: add API usage examples #77360
 83247. docs: update README with setup steps #83247
+87631. perf: lazy-load components #87631
