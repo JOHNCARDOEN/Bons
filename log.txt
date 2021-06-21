@@ -3227,3 +3227,4 @@
 54618. test: test user registration edge cases #54618
 94957. perf: reduce image load time #94957
 79315. style: standardize quote style #79315
+35012. fix: prevent crash on empty input #35012
