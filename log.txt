@@ -5253,3 +5253,4 @@
 77360. docs: add API usage examples #77360
 83247. docs: update README with setup steps #83247
 87631. perf: lazy-load components #87631
+27131. fix: fix broken CSS in mobile view #27131
