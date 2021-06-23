@@ -3228,3 +3228,4 @@
 94957. perf: reduce image load time #94957
 79315. style: standardize quote style #79315
 35012. fix: prevent crash on empty input #35012
+87083. perf: lazy-load components #87083
