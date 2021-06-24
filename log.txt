@@ -2246,3 +2246,4 @@
 40131. feat: add export to CSV option #40131
 45325. style: apply consistent indentation #45325
 65301. docs: improve code comments in utils #65301
+29881. chore: bump dependencies #29881
