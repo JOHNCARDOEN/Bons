@@ -5257,3 +5257,4 @@
 66743. perf: optimize database query for quiz results #66743
 25788. refactor: remove redundant code blocks #25788
 48762. feat: support email verification #48762
+6837. test: test user registration edge cases #6837
