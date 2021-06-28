@@ -1281,3 +1281,4 @@
 96975. docs: update README with setup steps #96975
 4316. feat: add export to CSV option #4316
 67467. feat: support email verification #67467
+68462. perf: lazy-load components #68462
