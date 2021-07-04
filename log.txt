@@ -252,3 +252,4 @@
 80353. refactor: organize models into subfolders #80353
 68332. test: mock database connection in test suite #68332
 62796. fix: fix broken CSS in mobile view #62796
+93952. style: remove trailing whitespace #93952
