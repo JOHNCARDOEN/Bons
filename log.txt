@@ -3235,3 +3235,4 @@
 88912. fix: correct typo in registration form #88912
 75045. style: remove trailing whitespace #75045
 55059. feat: create admin dashboard #55059
+69879. style: standardize quote style #69879
