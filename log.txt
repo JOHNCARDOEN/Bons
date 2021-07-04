@@ -5260,3 +5260,4 @@
 6837. test: test user registration edge cases #6837
 71576. chore: rename env.example #71576
 40451. style: rename variables for clarity #40451
+30123. test: increase coverage on auth module #30123
