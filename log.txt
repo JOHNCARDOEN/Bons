@@ -3236,3 +3236,4 @@
 75045. style: remove trailing whitespace #75045
 55059. feat: create admin dashboard #55059
 69879. style: standardize quote style #69879
+69420. chore: rename env.example #69420
