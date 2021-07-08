@@ -256,3 +256,4 @@
 96125. feat: enable dark mode toggle #96125
 62638. docs: add API usage examples #62638
 14614. fix: correct typo in registration form #14614
+26412. feat: add export to CSV option #26412
