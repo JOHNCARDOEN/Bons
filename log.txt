@@ -3238,3 +3238,4 @@
 69879. style: standardize quote style #69879
 69420. chore: rename env.example #69420
 4738. perf: reduce image load time #4738
+99897. test: test user registration edge cases #99897
