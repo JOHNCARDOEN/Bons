@@ -4276,3 +4276,4 @@
 53328. feat: implement quiz timer feature #53328
 25643. fix: prevent crash on empty input #25643
 16737. fix: prevent crash on empty input #16737
+20513. test: increase coverage on auth module #20513
