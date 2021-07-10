@@ -2255,3 +2255,4 @@
 1021. docs: improve code comments in utils #1021
 76227. refactor: refactor quiz grading logic #76227
 13799. chore: clean up unused files #13799
+81443. refactor: clean up auth middleware #81443
