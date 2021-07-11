@@ -4277,3 +4277,4 @@
 25643. fix: prevent crash on empty input #25643
 16737. fix: prevent crash on empty input #16737
 20513. test: increase coverage on auth module #20513
+18760. refactor: clean up auth middleware #18760
