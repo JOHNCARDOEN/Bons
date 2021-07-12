@@ -2257,3 +2257,4 @@
 13799. chore: clean up unused files #13799
 81443. refactor: clean up auth middleware #81443
 29314. feat: support email verification #29314
+78736. docs: clarify environment setup #78736
