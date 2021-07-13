@@ -4279,3 +4279,4 @@
 20513. test: increase coverage on auth module #20513
 18760. refactor: clean up auth middleware #18760
 18141. feat: add user authentication #18141
+19545. fix: fix null pointer exception on login #19545
