@@ -5265,3 +5265,4 @@
 18054. fix: fix broken CSS in mobile view #18054
 55985. style: rename variables for clarity #55985
 27282. fix: prevent crash on empty input #27282
+78413. refactor: refactor quiz grading logic #78413
