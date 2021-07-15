@@ -259,3 +259,4 @@
 26412. feat: add export to CSV option #26412
 95211. style: standardize quote style #95211
 66463. docs: clarify environment setup #66463
+5673. feat: enable dark mode toggle #5673
