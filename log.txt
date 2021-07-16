@@ -3241,3 +3241,4 @@
 99897. test: test user registration edge cases #99897
 51548. test: increase coverage on auth module #51548
 18600. docs: update README with setup steps #18600
+77755. chore: clean up unused files #77755
