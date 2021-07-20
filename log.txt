@@ -3244,3 +3244,4 @@
 77755. chore: clean up unused files #77755
 14039. docs: add API usage examples #14039
 77542. perf: optimize database query for quiz results #77542
+66853. fix: fix null pointer exception on login #66853
