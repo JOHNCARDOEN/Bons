@@ -3245,3 +3245,4 @@
 14039. docs: add API usage examples #14039
 77542. perf: optimize database query for quiz results #77542
 66853. fix: fix null pointer exception on login #66853
+9878. perf: optimize database query for quiz results #9878
