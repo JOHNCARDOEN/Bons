@@ -4283,3 +4283,4 @@
 54913. docs: write FAQ section #54913
 57891. chore: rename env.example #57891
 3676. style: remove trailing whitespace #3676
+89879. feat: support email verification #89879
