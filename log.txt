@@ -262,3 +262,4 @@
 5673. feat: enable dark mode toggle #5673
 21673. refactor: split large controller into smaller functions #21673
 80092. feat: create admin dashboard #80092
+12623. chore: update .gitignore #12623
