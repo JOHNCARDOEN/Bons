@@ -2262,3 +2262,4 @@
 97298. refactor: clean up auth middleware #97298
 91546. style: apply consistent indentation #91546
 33288. feat: support email verification #33288
+1625. test: test user registration edge cases #1625
