@@ -2265,3 +2265,4 @@
 1625. test: test user registration edge cases #1625
 38175. style: apply consistent indentation #38175
 56512. style: remove trailing whitespace #56512
+22979. chore: bump dependencies #22979
