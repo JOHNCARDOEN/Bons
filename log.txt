@@ -2266,3 +2266,4 @@
 38175. style: apply consistent indentation #38175
 56512. style: remove trailing whitespace #56512
 22979. chore: bump dependencies #22979
+27005. docs: write FAQ section #27005
