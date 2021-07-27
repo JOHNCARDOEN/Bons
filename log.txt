@@ -265,3 +265,4 @@
 12623. chore: update .gitignore #12623
 13768. test: add unit test for quiz service #13768
 32116. docs: improve code comments in utils #32116
+72204. test: mock database connection in test suite #72204
