@@ -1286,3 +1286,4 @@
 60882. fix: fix broken CSS in mobile view #60882
 49656. feat: enable dark mode toggle #49656
 27606. style: standardize quote style #27606
+0528. fix: correct typo in registration form #528
