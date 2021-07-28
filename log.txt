@@ -1288,3 +1288,4 @@
 27606. style: standardize quote style #27606
 0528. fix: correct typo in registration form #528
 25879. style: standardize quote style #25879
+38548. test: mock database connection in test suite #38548
