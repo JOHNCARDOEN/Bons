@@ -5271,3 +5271,4 @@
 63920. docs: clarify environment setup #63920
 28492. style: rename variables for clarity #28492
 73292. fix: fix null pointer exception on login #73292
+55490. feat: support email verification #55490
