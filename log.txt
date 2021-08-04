@@ -1291,3 +1291,4 @@
 38548. test: mock database connection in test suite #38548
 24064. chore: clean up unused files #24064
 16570. test: mock database connection in test suite #16570
+81135. fix: fix null pointer exception on login #81135
