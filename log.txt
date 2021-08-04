@@ -270,3 +270,4 @@
 19773. refactor: split large controller into smaller functions #19773
 38081. chore: rename env.example #38081
 54353. perf: optimize database query for quiz results #54353
+49551. feat: support email verification #49551
