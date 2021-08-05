@@ -5273,3 +5273,4 @@
 73292. fix: fix null pointer exception on login #73292
 55490. feat: support email verification #55490
 69924. feat: support email verification #69924
+3267. perf: cache repeated calculations #3267
