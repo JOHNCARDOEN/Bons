@@ -2268,3 +2268,4 @@
 22979. chore: bump dependencies #22979
 27005. docs: write FAQ section #27005
 34367. test: add unit test for quiz service #34367
+9765. test: add integration test for /submit endpoint #9765
