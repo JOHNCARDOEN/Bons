@@ -271,3 +271,4 @@
 38081. chore: rename env.example #38081
 54353. perf: optimize database query for quiz results #54353
 49551. feat: support email verification #49551
+96288. fix: fix broken CSS in mobile view #96288
