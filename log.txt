@@ -1294,3 +1294,4 @@
 81135. fix: fix null pointer exception on login #81135
 6893. style: rename variables for clarity #6893
 84412. perf: cache repeated calculations #84412
+57984. refactor: remove redundant code blocks #57984
