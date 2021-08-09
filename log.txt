@@ -5275,3 +5275,4 @@
 69924. feat: support email verification #69924
 3267. perf: cache repeated calculations #3267
 40746. perf: cache repeated calculations #40746
+67966. refactor: clean up auth middleware #67966
