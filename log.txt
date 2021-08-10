@@ -3254,3 +3254,4 @@
 48854. chore: add GitHub actions badge #48854
 87271. docs: add API usage examples #87271
 8079. style: rename variables for clarity #8079
+96763. docs: update README with setup steps #96763
