@@ -3256,3 +3256,4 @@
 8079. style: rename variables for clarity #8079
 96763. docs: update README with setup steps #96763
 54601. fix: resolve issue with date parsing #54601
+11288. fix: fix broken CSS in mobile view #11288
