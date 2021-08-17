@@ -5277,3 +5277,4 @@
 40746. perf: cache repeated calculations #40746
 67966. refactor: clean up auth middleware #67966
 29723. feat: create admin dashboard #29723
+3875. feat: add user authentication #3875
