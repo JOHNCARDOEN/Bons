@@ -1296,3 +1296,4 @@
 84412. perf: cache repeated calculations #84412
 57984. refactor: remove redundant code blocks #57984
 75186. perf: reduce image load time #75186
+55004. style: standardize quote style #55004
