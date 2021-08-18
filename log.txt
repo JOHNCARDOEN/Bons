@@ -275,3 +275,4 @@
 49093. perf: cache repeated calculations #49093
 26691. docs: add API usage examples #26691
 41891. style: remove trailing whitespace #41891
+28887. perf: lazy-load components #28887
