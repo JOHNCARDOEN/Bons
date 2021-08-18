@@ -3259,3 +3259,4 @@
 11288. fix: fix broken CSS in mobile view #11288
 45123. docs: update README with setup steps #45123
 36734. perf: lazy-load components #36734
+52079. test: add integration test for /submit endpoint #52079
