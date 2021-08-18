@@ -2274,3 +2274,4 @@
 36344. feat: enable dark mode toggle #36344
 31117. refactor: organize models into subfolders #31117
 6604. chore: clean up unused files #6604
+65680. feat: support email verification #65680
