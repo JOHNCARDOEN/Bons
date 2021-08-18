@@ -4289,3 +4289,4 @@
 23378. refactor: remove redundant code blocks #23378
 92453. docs: document token refresh logic #92453
 8017. feat: add user authentication #8017
+62492. fix: correct typo in registration form #62492
