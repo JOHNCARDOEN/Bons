@@ -277,3 +277,4 @@
 41891. style: remove trailing whitespace #41891
 28887. perf: lazy-load components #28887
 78076. style: remove trailing whitespace #78076
+45123. docs: update README with setup steps #45123
