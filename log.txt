@@ -2276,3 +2276,4 @@
 6604. chore: clean up unused files #6604
 65680. feat: support email verification #65680
 17207. feat: create admin dashboard #17207
+85628. fix: correct typo in registration form #85628
