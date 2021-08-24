@@ -278,3 +278,4 @@
 28887. perf: lazy-load components #28887
 78076. style: remove trailing whitespace #78076
 45123. docs: update README with setup steps #45123
+21470. fix: prevent crash on empty input #21470
