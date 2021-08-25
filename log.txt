@@ -1301,3 +1301,4 @@
 13290. refactor: refactor quiz grading logic #13290
 69592. test: test user registration edge cases #69592
 37644. chore: add GitHub actions badge #37644
+9992. docs: update README with setup steps #9992
