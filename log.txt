@@ -3263,3 +3263,4 @@
 5557. test: add integration test for /submit endpoint #5557
 36386. style: reformat files with black #36386
 32043. style: reformat files with black #32043
+42150. perf: optimize database query for quiz results #42150
