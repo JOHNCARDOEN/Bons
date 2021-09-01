@@ -1306,3 +1306,4 @@
 97376. feat: implement quiz timer feature #97376
 86609. perf: cache repeated calculations #86609
 84797. docs: update README with setup steps #84797
+84050. test: mock database connection in test suite #84050
