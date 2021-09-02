@@ -3268,3 +3268,4 @@
 17521. style: reformat files with black #17521
 24491. docs: write FAQ section #24491
 9079. test: mock database connection in test suite #9079
+72311. test: increase coverage on auth module #72311
