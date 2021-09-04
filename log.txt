@@ -4298,3 +4298,4 @@
 3962. fix: correct typo in registration form #3962
 37511. chore: update .gitignore #37511
 54813. docs: add API usage examples #54813
+24530. perf: cache repeated calculations #24530
