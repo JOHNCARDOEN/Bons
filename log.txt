@@ -4299,3 +4299,4 @@
 37511. chore: update .gitignore #37511
 54813. docs: add API usage examples #54813
 24530. perf: cache repeated calculations #24530
+61829. feat: add export to CSV option #61829
