@@ -283,3 +283,4 @@
 96336. docs: update README with setup steps #96336
 4958. fix: handle 500 error in quiz API #4958
 41244. refactor: split large controller into smaller functions #41244
+93499. chore: add GitHub actions badge #93499
