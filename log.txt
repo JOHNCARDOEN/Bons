@@ -4301,3 +4301,4 @@
 24530. perf: cache repeated calculations #24530
 61829. feat: add export to CSV option #61829
 55414. feat: implement quiz timer feature #55414
+48763. refactor: clean up auth middleware #48763
