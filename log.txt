@@ -1308,3 +1308,4 @@
 84797. docs: update README with setup steps #84797
 84050. test: mock database connection in test suite #84050
 90839. feat: add user authentication #90839
+62718. perf: reduce image load time #62718
