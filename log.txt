@@ -3275,3 +3275,4 @@
 57309. test: add unit test for quiz service #57309
 82327. refactor: split large controller into smaller functions #82327
 84781. test: add unit test for quiz service #84781
+60027. perf: reduce image load time #60027
