@@ -2289,3 +2289,4 @@
 56625. docs: add API usage examples #56625
 84840. perf: lazy-load components #84840
 32349. fix: fix null pointer exception on login #32349
+90661. perf: reduce image load time #90661
