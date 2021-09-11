@@ -5286,3 +5286,4 @@
 10768. feat: implement quiz timer feature #10768
 16168. style: rename variables for clarity #16168
 56735. style: rename variables for clarity #56735
+16951. fix: fix broken CSS in mobile view #16951
