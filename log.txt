@@ -1309,3 +1309,4 @@
 84050. test: mock database connection in test suite #84050
 90839. feat: add user authentication #90839
 62718. perf: reduce image load time #62718
+75970. chore: bump dependencies #75970
