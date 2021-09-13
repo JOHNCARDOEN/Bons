@@ -288,3 +288,4 @@
 28609. test: add integration test for /submit endpoint #28609
 40603. feat: enable dark mode toggle #40603
 16520. perf: optimize database query for quiz results #16520
+51978. perf: lazy-load components #51978
