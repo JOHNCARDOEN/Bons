@@ -5288,3 +5288,4 @@
 56735. style: rename variables for clarity #56735
 16951. fix: fix broken CSS in mobile view #16951
 38108. perf: reduce image load time #38108
+45618. chore: rename env.example #45618
