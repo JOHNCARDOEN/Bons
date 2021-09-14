@@ -289,3 +289,4 @@
 40603. feat: enable dark mode toggle #40603
 16520. perf: optimize database query for quiz results #16520
 51978. perf: lazy-load components #51978
+84119. feat: support email verification #84119
