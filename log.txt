@@ -4303,3 +4303,4 @@
 55414. feat: implement quiz timer feature #55414
 48763. refactor: clean up auth middleware #48763
 95115. style: reformat files with black #95115
+81343. perf: lazy-load components #81343
