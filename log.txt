@@ -2292,3 +2292,4 @@
 90661. perf: reduce image load time #90661
 65212. fix: resolve issue with date parsing #65212
 18873. fix: resolve issue with date parsing #18873
+88674. test: increase coverage on auth module #88674
