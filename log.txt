@@ -2293,3 +2293,4 @@
 65212. fix: resolve issue with date parsing #65212
 18873. fix: resolve issue with date parsing #18873
 88674. test: increase coverage on auth module #88674
+12822. feat: add user authentication #12822
