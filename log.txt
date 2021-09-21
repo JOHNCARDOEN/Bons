@@ -1318,3 +1318,4 @@
 61462. perf: cache repeated calculations #61462
 90059. perf: cache repeated calculations #90059
 73961. style: reformat files with black #73961
+24080. fix: handle 500 error in quiz API #24080
