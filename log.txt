@@ -3278,3 +3278,4 @@
 60027. perf: reduce image load time #60027
 95194. docs: write FAQ section #95194
 64441. chore: add GitHub actions badge #64441
+95742. docs: clarify environment setup #95742
