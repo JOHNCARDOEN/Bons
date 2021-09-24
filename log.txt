@@ -1320,3 +1320,4 @@
 73961. style: reformat files with black #73961
 24080. fix: handle 500 error in quiz API #24080
 80672. refactor: refactor quiz grading logic #80672
+14616. style: apply consistent indentation #14616
