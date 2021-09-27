@@ -2296,3 +2296,4 @@
 12822. feat: add user authentication #12822
 52643. fix: fix broken CSS in mobile view #52643
 92532. fix: handle 500 error in quiz API #92532
+46827. docs: clarify environment setup #46827
