@@ -5294,3 +5294,4 @@
 39249. refactor: split large controller into smaller functions #39249
 39887. feat: enable dark mode toggle #39887
 74393. feat: add export to CSV option #74393
+16631. style: remove trailing whitespace #16631
