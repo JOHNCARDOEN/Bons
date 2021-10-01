@@ -5296,3 +5296,4 @@
 74393. feat: add export to CSV option #74393
 16631. style: remove trailing whitespace #16631
 53535. style: apply consistent indentation #53535
+40770. perf: optimize database query for quiz results #40770
