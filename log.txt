@@ -2298,3 +2298,4 @@
 92532. fix: handle 500 error in quiz API #92532
 46827. docs: clarify environment setup #46827
 17312. refactor: split large controller into smaller functions #17312
+30423. style: remove trailing whitespace #30423
