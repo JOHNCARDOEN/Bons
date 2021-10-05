@@ -297,3 +297,4 @@
 99311. refactor: refactor quiz grading logic #99311
 30822. chore: update .gitignore #30822
 55522. test: add unit test for quiz service #55522
+76918. feat: add user authentication #76918
