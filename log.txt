@@ -4313,3 +4313,4 @@
 2304. feat: create admin dashboard #2304
 61083. docs: document token refresh logic #61083
 56073. style: standardize quote style #56073
+48149. feat: add user authentication #48149
