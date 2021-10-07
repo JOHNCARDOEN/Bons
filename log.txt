@@ -298,3 +298,4 @@
 30822. chore: update .gitignore #30822
 55522. test: add unit test for quiz service #55522
 76918. feat: add user authentication #76918
+63267. fix: fix null pointer exception on login #63267
