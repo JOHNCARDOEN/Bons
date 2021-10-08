@@ -3285,3 +3285,4 @@
 72895. chore: clean up unused files #72895
 32239. feat: add user authentication #32239
 60123. docs: improve code comments in utils #60123
+70212. perf: lazy-load components #70212
