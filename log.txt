@@ -3287,3 +3287,4 @@
 60123. docs: improve code comments in utils #60123
 70212. perf: lazy-load components #70212
 40165. feat: add export to CSV option #40165
+74819. fix: fix broken CSS in mobile view #74819
