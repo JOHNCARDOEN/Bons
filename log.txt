@@ -3288,3 +3288,4 @@
 70212. perf: lazy-load components #70212
 40165. feat: add export to CSV option #40165
 74819. fix: fix broken CSS in mobile view #74819
+48204. style: reformat files with black #48204
