@@ -5300,3 +5300,4 @@
 15335. feat: enable dark mode toggle #15335
 17967. test: test user registration edge cases #17967
 88146. refactor: refactor quiz grading logic #88146
+63662. chore: clean up unused files #63662
