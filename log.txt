@@ -4316,3 +4316,4 @@
 48149. feat: add user authentication #48149
 1830. feat: support email verification #1830
 99979. refactor: clean up auth middleware #99979
+51571. chore: bump dependencies #51571
