@@ -5306,3 +5306,4 @@
 42162. docs: update README with setup steps #42162
 23302. perf: optimize database query for quiz results #23302
 31284. test: mock database connection in test suite #31284
+30009. refactor: clean up auth middleware #30009
