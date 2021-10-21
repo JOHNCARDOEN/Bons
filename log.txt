@@ -305,3 +305,4 @@
 15394. test: add unit test for quiz service #15394
 72896. docs: improve code comments in utils #72896
 20690. test: mock database connection in test suite #20690
+30684. docs: write FAQ section #30684
