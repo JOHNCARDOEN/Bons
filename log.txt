@@ -1329,3 +1329,4 @@
 56410. fix: fix broken CSS in mobile view #56410
 2673. fix: fix broken CSS in mobile view #2673
 25144. style: rename variables for clarity #25144
+43939. feat: create admin dashboard #43939
