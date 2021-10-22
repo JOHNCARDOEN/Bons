@@ -2309,3 +2309,4 @@
 13728. chore: update .gitignore #13728
 91701. chore: bump dependencies #91701
 78394. docs: clarify environment setup #78394
+92219. fix: fix broken CSS in mobile view #92219
