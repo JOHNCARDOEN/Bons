@@ -2312,3 +2312,4 @@
 92219. fix: fix broken CSS in mobile view #92219
 47595. chore: bump dependencies #47595
 91907. perf: optimize database query for quiz results #91907
+77308. test: increase coverage on auth module #77308
