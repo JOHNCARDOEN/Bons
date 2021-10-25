@@ -4319,3 +4319,4 @@
 51571. chore: bump dependencies #51571
 70763. perf: lazy-load components #70763
 66392. style: rename variables for clarity #66392
+8089. test: increase coverage on auth module #8089
