@@ -307,3 +307,4 @@
 20690. test: mock database connection in test suite #20690
 30684. docs: write FAQ section #30684
 52900. test: increase coverage on auth module #52900
+88505. refactor: remove redundant code blocks #88505
