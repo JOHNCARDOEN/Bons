@@ -1333,3 +1333,4 @@
 91333. test: test user registration edge cases #91333
 86312. feat: create admin dashboard #86312
 89375. docs: add API usage examples #89375
+4187. docs: write FAQ section #4187
