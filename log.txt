@@ -2315,3 +2315,4 @@
 77308. test: increase coverage on auth module #77308
 34818. fix: handle 500 error in quiz API #34818
 81232. test: increase coverage on auth module #81232
+67680. style: remove trailing whitespace #67680
