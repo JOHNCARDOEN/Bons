@@ -3304,3 +3304,4 @@
 25045. fix: handle 500 error in quiz API #25045
 81496. perf: optimize database query for quiz results #81496
 56313. refactor: clean up auth middleware #56313
+52621. feat: add user authentication #52621
