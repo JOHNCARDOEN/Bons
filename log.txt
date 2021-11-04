@@ -5309,3 +5309,4 @@
 30009. refactor: clean up auth middleware #30009
 72523. refactor: refactor quiz grading logic #72523
 56824. perf: optimize database query for quiz results #56824
+42984. test: increase coverage on auth module #42984
