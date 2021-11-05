@@ -1335,3 +1335,4 @@
 89375. docs: add API usage examples #89375
 4187. docs: write FAQ section #4187
 77653. style: remove trailing whitespace #77653
+2624. fix: prevent crash on empty input #2624
