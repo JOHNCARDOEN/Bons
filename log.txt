@@ -311,3 +311,4 @@
 30317. test: add integration test for /submit endpoint #30317
 72181. chore: update .gitignore #72181
 91060. refactor: remove redundant code blocks #91060
+6016. chore: add GitHub actions badge #6016
