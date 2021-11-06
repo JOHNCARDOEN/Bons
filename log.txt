@@ -1336,3 +1336,4 @@
 4187. docs: write FAQ section #4187
 77653. style: remove trailing whitespace #77653
 2624. fix: prevent crash on empty input #2624
+83450. test: mock database connection in test suite #83450
