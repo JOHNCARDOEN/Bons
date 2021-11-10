@@ -4324,3 +4324,4 @@
 52040. feat: enable dark mode toggle #52040
 54758. chore: bump dependencies #54758
 42577. perf: lazy-load components #42577
+8575. fix: fix broken CSS in mobile view #8575
