@@ -5311,3 +5311,4 @@
 56824. perf: optimize database query for quiz results #56824
 42984. test: increase coverage on auth module #42984
 79513. test: mock database connection in test suite #79513
+89159. test: increase coverage on auth module #89159
