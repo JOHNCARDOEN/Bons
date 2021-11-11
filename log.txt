@@ -1339,3 +1339,4 @@
 83450. test: mock database connection in test suite #83450
 27154. docs: improve code comments in utils #27154
 81219. fix: fix null pointer exception on login #81219
+71694. feat: add user authentication #71694
