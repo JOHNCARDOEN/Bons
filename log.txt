@@ -5313,3 +5313,4 @@
 79513. test: mock database connection in test suite #79513
 89159. test: increase coverage on auth module #89159
 40683. fix: handle 500 error in quiz API #40683
+50984. perf: reduce image load time #50984
