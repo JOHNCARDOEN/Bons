@@ -4326,3 +4326,4 @@
 42577. perf: lazy-load components #42577
 8575. fix: fix broken CSS in mobile view #8575
 74352. style: standardize quote style #74352
+90542. perf: lazy-load components #90542
