@@ -3309,3 +3309,4 @@
 70989. chore: bump dependencies #70989
 89940. docs: add API usage examples #89940
 95888. feat: add export to CSV option #95888
+84388. perf: lazy-load components #84388
