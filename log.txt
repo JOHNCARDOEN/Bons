@@ -4328,3 +4328,4 @@
 74352. style: standardize quote style #74352
 90542. perf: lazy-load components #90542
 58696. test: increase coverage on auth module #58696
+9498. test: mock database connection in test suite #9498
