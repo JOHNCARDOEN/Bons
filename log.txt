@@ -1344,3 +1344,4 @@
 19959. perf: optimize database query for quiz results #19959
 9953. fix: resolve issue with date parsing #9953
 14631. feat: create admin dashboard #14631
+6919. fix: handle 500 error in quiz API #6919
