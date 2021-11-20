@@ -1346,3 +1346,4 @@
 14631. feat: create admin dashboard #14631
 6919. fix: handle 500 error in quiz API #6919
 42142. test: mock database connection in test suite #42142
+24442. refactor: organize models into subfolders #24442
