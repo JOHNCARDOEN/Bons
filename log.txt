@@ -316,3 +316,4 @@
 2084. fix: resolve issue with date parsing #2084
 4370. chore: bump dependencies #4370
 74879. style: reformat files with black #74879
+50153. chore: update .gitignore #50153
