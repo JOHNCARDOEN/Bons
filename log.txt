@@ -5316,3 +5316,4 @@
 50984. perf: reduce image load time #50984
 99310. fix: fix broken CSS in mobile view #99310
 78072. chore: rename env.example #78072
+52061. style: apply consistent indentation #52061
