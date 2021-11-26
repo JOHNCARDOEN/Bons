@@ -320,3 +320,4 @@
 33071. docs: update README with setup steps #33071
 49147. style: standardize quote style #49147
 73514. fix: prevent crash on empty input #73514
+21134. docs: write FAQ section #21134
