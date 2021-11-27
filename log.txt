@@ -321,3 +321,4 @@
 49147. style: standardize quote style #49147
 73514. fix: prevent crash on empty input #73514
 21134. docs: write FAQ section #21134
+1284. fix: handle 500 error in quiz API #1284
