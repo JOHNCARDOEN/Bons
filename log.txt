@@ -1348,3 +1348,4 @@
 42142. test: mock database connection in test suite #42142
 24442. refactor: organize models into subfolders #24442
 34485. style: rename variables for clarity #34485
+30045. docs: clarify environment setup #30045
