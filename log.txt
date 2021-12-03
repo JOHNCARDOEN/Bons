@@ -1350,3 +1350,4 @@
 34485. style: rename variables for clarity #34485
 30045. docs: clarify environment setup #30045
 46981. feat: create admin dashboard #46981
+21652. test: increase coverage on auth module #21652
