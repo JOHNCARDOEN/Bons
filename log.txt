@@ -3315,3 +3315,4 @@
 4571. feat: add export to CSV option #4571
 41051. fix: correct typo in registration form #41051
 43131. perf: lazy-load components #43131
+68114. feat: add user authentication #68114
