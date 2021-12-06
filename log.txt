@@ -5318,3 +5318,4 @@
 78072. chore: rename env.example #78072
 52061. style: apply consistent indentation #52061
 17867. fix: fix broken CSS in mobile view #17867
+21500. perf: cache repeated calculations #21500
