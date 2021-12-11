@@ -3316,3 +3316,4 @@
 41051. fix: correct typo in registration form #41051
 43131. perf: lazy-load components #43131
 68114. feat: add user authentication #68114
+38651. docs: update README with setup steps #38651
