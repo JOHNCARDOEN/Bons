@@ -4336,3 +4336,4 @@
 26733. refactor: refactor quiz grading logic #26733
 78664. test: mock database connection in test suite #78664
 94623. feat: add user authentication #94623
+72822. perf: optimize database query for quiz results #72822
