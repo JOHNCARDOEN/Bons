@@ -4338,3 +4338,4 @@
 94623. feat: add user authentication #94623
 72822. perf: optimize database query for quiz results #72822
 23184. chore: bump dependencies #23184
+44531. fix: resolve issue with date parsing #44531
