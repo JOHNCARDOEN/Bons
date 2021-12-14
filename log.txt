@@ -5320,3 +5320,4 @@
 17867. fix: fix broken CSS in mobile view #17867
 21500. perf: cache repeated calculations #21500
 64920. test: mock database connection in test suite #64920
+14494. test: mock database connection in test suite #14494
