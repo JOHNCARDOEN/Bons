@@ -1356,3 +1356,4 @@
 63463. refactor: refactor quiz grading logic #63463
 77736. docs: add API usage examples #77736
 73288. docs: update README with setup steps #73288
+71031. feat: enable dark mode toggle #71031
