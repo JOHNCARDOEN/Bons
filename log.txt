@@ -4341,3 +4341,4 @@
 44531. fix: resolve issue with date parsing #44531
 89016. docs: update README with setup steps #89016
 90010. perf: cache repeated calculations #90010
+13538. refactor: clean up auth middleware #13538
