@@ -5322,3 +5322,4 @@
 64920. test: mock database connection in test suite #64920
 14494. test: mock database connection in test suite #14494
 23019. fix: correct typo in registration form #23019
+5503. fix: fix broken CSS in mobile view #5503
