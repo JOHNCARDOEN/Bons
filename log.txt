@@ -1359,3 +1359,4 @@
 71031. feat: enable dark mode toggle #71031
 38680. docs: add API usage examples #38680
 69851. style: rename variables for clarity #69851
+93380. docs: write FAQ section #93380
