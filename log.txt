@@ -1360,3 +1360,4 @@
 38680. docs: add API usage examples #38680
 69851. style: rename variables for clarity #69851
 93380. docs: write FAQ section #93380
+73835. fix: fix broken CSS in mobile view #73835
