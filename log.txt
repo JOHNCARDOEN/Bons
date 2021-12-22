@@ -5324,3 +5324,4 @@
 23019. fix: correct typo in registration form #23019
 5503. fix: fix broken CSS in mobile view #5503
 72192. feat: enable dark mode toggle #72192
+28062. fix: correct typo in registration form #28062
