@@ -5326,3 +5326,4 @@
 72192. feat: enable dark mode toggle #72192
 28062. fix: correct typo in registration form #28062
 9355. refactor: split large controller into smaller functions #9355
+35501. test: add integration test for /submit endpoint #35501
