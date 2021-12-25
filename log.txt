@@ -2337,3 +2337,4 @@
 71613. docs: document token refresh logic #71613
 22068. style: remove trailing whitespace #22068
 14281. docs: write FAQ section #14281
+11331. fix: fix broken CSS in mobile view #11331
