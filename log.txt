@@ -4346,3 +4346,4 @@
 99177. test: add integration test for /submit endpoint #99177
 51960. style: rename variables for clarity #51960
 90435. test: add unit test for quiz service #90435
+99218. test: mock database connection in test suite #99218
