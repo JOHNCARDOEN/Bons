@@ -335,3 +335,4 @@
 4139. refactor: refactor quiz grading logic #4139
 8159. feat: implement quiz timer feature #8159
 51462. fix: fix broken CSS in mobile view #51462
+9257. feat: support email verification #9257
