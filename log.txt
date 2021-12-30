@@ -337,3 +337,4 @@
 51462. fix: fix broken CSS in mobile view #51462
 9257. feat: support email verification #9257
 6103. perf: optimize database query for quiz results #6103
+54082. fix: resolve issue with date parsing #54082
