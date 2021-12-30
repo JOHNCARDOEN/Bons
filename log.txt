@@ -1364,3 +1364,4 @@
 51088. chore: update .gitignore #51088
 94547. fix: prevent crash on empty input #94547
 75219. chore: add GitHub actions badge #75219
+50814. docs: add API usage examples #50814
