@@ -4349,3 +4349,4 @@
 99218. test: mock database connection in test suite #99218
 19863. refactor: split large controller into smaller functions #19863
 2597. perf: cache repeated calculations #2597
+23794. fix: resolve issue with date parsing #23794
