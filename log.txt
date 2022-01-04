@@ -5332,3 +5332,4 @@
 8771. refactor: refactor quiz grading logic #8771
 45565. chore: rename env.example #45565
 44090. style: remove trailing whitespace #44090
+30539. feat: support email verification #30539
