@@ -1367,3 +1367,4 @@
 50814. docs: add API usage examples #50814
 30213. docs: clarify environment setup #30213
 95727. docs: write FAQ section #95727
+50468. style: remove trailing whitespace #50468
