@@ -4352,3 +4352,4 @@
 23794. fix: resolve issue with date parsing #23794
 36797. style: standardize quote style #36797
 30141. test: mock database connection in test suite #30141
+89366. perf: optimize database query for quiz results #89366
