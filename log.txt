@@ -2343,3 +2343,4 @@
 65774. chore: update .gitignore #65774
 41395. style: reformat files with black #41395
 31104. docs: update README with setup steps #31104
+70164. fix: fix broken CSS in mobile view #70164
