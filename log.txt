@@ -344,3 +344,4 @@
 49550. refactor: clean up auth middleware #49550
 99233. docs: add API usage examples #99233
 67907. feat: enable dark mode toggle #67907
+61678. fix: prevent crash on empty input #61678
