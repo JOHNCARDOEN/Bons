@@ -4353,3 +4353,4 @@
 36797. style: standardize quote style #36797
 30141. test: mock database connection in test suite #30141
 89366. perf: optimize database query for quiz results #89366
+87497. fix: fix null pointer exception on login #87497
