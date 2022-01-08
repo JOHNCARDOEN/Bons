@@ -1369,3 +1369,4 @@
 95727. docs: write FAQ section #95727
 50468. style: remove trailing whitespace #50468
 80794. refactor: refactor quiz grading logic #80794
+85522. docs: update README with setup steps #85522
