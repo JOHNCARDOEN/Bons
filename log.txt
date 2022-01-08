@@ -4355,3 +4355,4 @@
 89366. perf: optimize database query for quiz results #89366
 87497. fix: fix null pointer exception on login #87497
 94792. test: test user registration edge cases #94792
+99750. test: test user registration edge cases #99750
