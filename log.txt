@@ -4356,3 +4356,4 @@
 87497. fix: fix null pointer exception on login #87497
 94792. test: test user registration edge cases #94792
 99750. test: test user registration edge cases #99750
+96171. refactor: refactor quiz grading logic #96171
