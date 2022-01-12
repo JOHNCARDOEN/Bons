@@ -4357,3 +4357,4 @@
 94792. test: test user registration edge cases #94792
 99750. test: test user registration edge cases #99750
 96171. refactor: refactor quiz grading logic #96171
+5585. style: remove trailing whitespace #5585
