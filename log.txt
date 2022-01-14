@@ -2350,3 +2350,4 @@
 34330. chore: add GitHub actions badge #34330
 85753. test: add integration test for /submit endpoint #85753
 76275. docs: add API usage examples #76275
+83703. perf: lazy-load components #83703
