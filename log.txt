@@ -5334,3 +5334,4 @@
 44090. style: remove trailing whitespace #44090
 30539. feat: support email verification #30539
 66981. style: rename variables for clarity #66981
+15835. chore: update .gitignore #15835
