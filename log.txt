@@ -4359,3 +4359,4 @@
 96171. refactor: refactor quiz grading logic #96171
 5585. style: remove trailing whitespace #5585
 38964. style: remove trailing whitespace #38964
+20000. fix: fix broken CSS in mobile view #20000
