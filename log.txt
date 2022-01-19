@@ -3339,3 +3339,4 @@
 73373. fix: resolve issue with date parsing #73373
 64389. refactor: organize models into subfolders #64389
 3085. perf: reduce image load time #3085
+83567. feat: add export to CSV option #83567
