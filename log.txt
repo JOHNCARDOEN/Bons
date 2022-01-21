@@ -4362,3 +4362,4 @@
 20000. fix: fix broken CSS in mobile view #20000
 30930. docs: improve code comments in utils #30930
 63874. perf: reduce image load time #63874
+93092. feat: enable dark mode toggle #93092
