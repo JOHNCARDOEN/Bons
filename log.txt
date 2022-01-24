@@ -1381,3 +1381,4 @@
 73229. perf: lazy-load components #73229
 30417. chore: update .gitignore #30417
 87756. refactor: split large controller into smaller functions #87756
+17870. fix: prevent crash on empty input #17870
