@@ -350,3 +350,4 @@
 52837. docs: improve code comments in utils #52837
 91543. chore: bump dependencies #91543
 47727. perf: lazy-load components #47727
+5859. style: remove trailing whitespace #5859
