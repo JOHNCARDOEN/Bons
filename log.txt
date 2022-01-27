@@ -352,3 +352,4 @@
 47727. perf: lazy-load components #47727
 5859. style: remove trailing whitespace #5859
 7524. test: increase coverage on auth module #7524
+25133. chore: update .gitignore #25133
