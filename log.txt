@@ -4364,3 +4364,4 @@
 63874. perf: reduce image load time #63874
 93092. feat: enable dark mode toggle #93092
 40975. fix: handle 500 error in quiz API #40975
+18427. docs: document token refresh logic #18427
