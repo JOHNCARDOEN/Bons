@@ -4366,3 +4366,4 @@
 40975. fix: handle 500 error in quiz API #40975
 18427. docs: document token refresh logic #18427
 48611. refactor: split large controller into smaller functions #48611
+74677. chore: add GitHub actions badge #74677
