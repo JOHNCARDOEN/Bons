@@ -354,3 +354,4 @@
 7524. test: increase coverage on auth module #7524
 25133. chore: update .gitignore #25133
 77895. docs: clarify environment setup #77895
+18808. fix: fix broken CSS in mobile view #18808
