@@ -4368,3 +4368,4 @@
 48611. refactor: split large controller into smaller functions #48611
 74677. chore: add GitHub actions badge #74677
 41044. chore: rename env.example #41044
+76724. test: test user registration edge cases #76724
