@@ -5346,3 +5346,4 @@
 97493. style: rename variables for clarity #97493
 17399. perf: reduce image load time #17399
 21231. chore: update .gitignore #21231
+89605. chore: bump dependencies #89605
