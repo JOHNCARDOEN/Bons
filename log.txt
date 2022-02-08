@@ -3348,3 +3348,4 @@
 53228. refactor: refactor quiz grading logic #53228
 64630. fix: resolve issue with date parsing #64630
 88958. refactor: clean up auth middleware #88958
+98127. perf: optimize database query for quiz results #98127
