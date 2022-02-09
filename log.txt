@@ -3351,3 +3351,4 @@
 98127. perf: optimize database query for quiz results #98127
 40803. refactor: split large controller into smaller functions #40803
 62123. perf: cache repeated calculations #62123
+68713. chore: clean up unused files #68713
