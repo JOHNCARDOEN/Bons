@@ -4373,3 +4373,4 @@
 20595. docs: document token refresh logic #20595
 34907. docs: update README with setup steps #34907
 9798. chore: rename env.example #9798
+70031. fix: fix broken CSS in mobile view #70031
