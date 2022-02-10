@@ -5350,3 +5350,4 @@
 94995. fix: prevent crash on empty input #94995
 35211. refactor: refactor quiz grading logic #35211
 95596. perf: reduce image load time #95596
+89493. fix: prevent crash on empty input #89493
