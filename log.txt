@@ -4374,3 +4374,4 @@
 34907. docs: update README with setup steps #34907
 9798. chore: rename env.example #9798
 70031. fix: fix broken CSS in mobile view #70031
+34882. fix: resolve issue with date parsing #34882
