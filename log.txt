@@ -4376,3 +4376,4 @@
 70031. fix: fix broken CSS in mobile view #70031
 34882. fix: resolve issue with date parsing #34882
 89726. feat: implement quiz timer feature #89726
+75726. test: test user registration edge cases #75726
