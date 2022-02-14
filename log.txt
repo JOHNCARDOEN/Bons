@@ -359,3 +359,4 @@
 85766. chore: clean up unused files #85766
 7839. feat: enable dark mode toggle #7839
 90973. chore: update .gitignore #90973
+25496. style: apply consistent indentation #25496
