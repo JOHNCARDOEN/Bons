@@ -360,3 +360,4 @@
 7839. feat: enable dark mode toggle #7839
 90973. chore: update .gitignore #90973
 25496. style: apply consistent indentation #25496
+33217. perf: lazy-load components #33217
