@@ -4380,3 +4380,4 @@
 34871. chore: rename env.example #34871
 15280. fix: fix null pointer exception on login #15280
 21802. style: standardize quote style #21802
+76106. fix: fix broken CSS in mobile view #76106
