@@ -4382,3 +4382,4 @@
 21802. style: standardize quote style #21802
 76106. fix: fix broken CSS in mobile view #76106
 38952. refactor: split large controller into smaller functions #38952
+36582. feat: add export to CSV option #36582
