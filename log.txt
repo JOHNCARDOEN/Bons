@@ -5356,3 +5356,4 @@
 60578. test: test user registration edge cases #60578
 16247. fix: correct typo in registration form #16247
 77599. feat: add export to CSV option #77599
+62996. test: increase coverage on auth module #62996
