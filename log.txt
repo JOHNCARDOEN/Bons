@@ -2365,3 +2365,4 @@
 94373. perf: lazy-load components #94373
 68304. refactor: clean up auth middleware #68304
 31545. refactor: split large controller into smaller functions #31545
+52552. test: add unit test for quiz service #52552
