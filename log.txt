@@ -3361,3 +3361,4 @@
 9534. feat: create admin dashboard #9534
 19797. style: apply consistent indentation #19797
 41009. style: remove trailing whitespace #41009
+81584. style: remove trailing whitespace #81584
