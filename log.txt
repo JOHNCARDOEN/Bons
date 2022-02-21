@@ -3360,3 +3360,4 @@
 63123. chore: rename env.example #63123
 9534. feat: create admin dashboard #9534
 19797. style: apply consistent indentation #19797
+41009. style: remove trailing whitespace #41009
