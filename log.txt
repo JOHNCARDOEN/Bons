@@ -3362,3 +3362,4 @@
 19797. style: apply consistent indentation #19797
 41009. style: remove trailing whitespace #41009
 81584. style: remove trailing whitespace #81584
+30264. fix: handle 500 error in quiz API #30264
