@@ -1391,3 +1391,4 @@
 82703. chore: bump dependencies #82703
 2842. perf: optimize database query for quiz results #2842
 36313. perf: optimize database query for quiz results #36313
+14548. test: test user registration edge cases #14548
