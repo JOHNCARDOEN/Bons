@@ -2367,3 +2367,4 @@
 31545. refactor: split large controller into smaller functions #31545
 52552. test: add unit test for quiz service #52552
 80262. feat: implement quiz timer feature #80262
+52930. perf: reduce image load time #52930
