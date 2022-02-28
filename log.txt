@@ -1394,3 +1394,4 @@
 14548. test: test user registration edge cases #14548
 34942. fix: prevent crash on empty input #34942
 25104. docs: improve code comments in utils #25104
+77952. perf: lazy-load components #77952
