@@ -5362,3 +5362,4 @@
 34156. fix: resolve issue with date parsing #34156
 50463. perf: lazy-load components #50463
 33088. feat: create admin dashboard #33088
+1542. feat: add export to CSV option #1542
