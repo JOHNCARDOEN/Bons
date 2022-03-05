@@ -1395,3 +1395,4 @@
 34942. fix: prevent crash on empty input #34942
 25104. docs: improve code comments in utils #25104
 77952. perf: lazy-load components #77952
+69634. fix: fix broken CSS in mobile view #69634
