@@ -3366,3 +3366,4 @@
 75483. test: add integration test for /submit endpoint #75483
 90221. feat: create admin dashboard #90221
 40591. fix: fix broken CSS in mobile view #40591
+95603. perf: optimize database query for quiz results #95603
