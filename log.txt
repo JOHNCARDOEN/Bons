@@ -5367,3 +5367,4 @@
 32209. style: rename variables for clarity #32209
 89763. style: remove trailing whitespace #89763
 32128. feat: add export to CSV option #32128
+77367. perf: optimize database query for quiz results #77367
