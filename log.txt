@@ -3370,3 +3370,4 @@
 31791. refactor: split large controller into smaller functions #31791
 57085. perf: cache repeated calculations #57085
 31063. perf: reduce image load time #31063
+5371. test: test user registration edge cases #5371
