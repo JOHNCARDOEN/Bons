@@ -4392,3 +4392,4 @@
 37900. refactor: split large controller into smaller functions #37900
 29178. test: test user registration edge cases #29178
 18973. fix: resolve issue with date parsing #18973
+50417. chore: add GitHub actions badge #50417
