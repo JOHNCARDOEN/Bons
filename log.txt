@@ -2374,3 +2374,4 @@
 83536. style: reformat files with black #83536
 33876. feat: implement quiz timer feature #33876
 93770. refactor: clean up auth middleware #93770
+87768. test: add integration test for /submit endpoint #87768
