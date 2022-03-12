@@ -2375,3 +2375,4 @@
 33876. feat: implement quiz timer feature #33876
 93770. refactor: clean up auth middleware #93770
 87768. test: add integration test for /submit endpoint #87768
+36667. fix: fix broken CSS in mobile view #36667
