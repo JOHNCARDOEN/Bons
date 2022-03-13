@@ -2376,3 +2376,4 @@
 93770. refactor: clean up auth middleware #93770
 87768. test: add integration test for /submit endpoint #87768
 36667. fix: fix broken CSS in mobile view #36667
+52053. docs: update README with setup steps #52053
