@@ -2378,3 +2378,4 @@
 36667. fix: fix broken CSS in mobile view #36667
 52053. docs: update README with setup steps #52053
 42272. fix: resolve issue with date parsing #42272
+24968. perf: optimize database query for quiz results #24968
