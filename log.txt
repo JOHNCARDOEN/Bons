@@ -1399,3 +1399,4 @@
 9103. feat: add export to CSV option #9103
 63680. fix: correct typo in registration form #63680
 66002. test: test user registration edge cases #66002
+93953. perf: optimize database query for quiz results #93953
