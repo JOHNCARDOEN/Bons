@@ -1401,3 +1401,4 @@
 66002. test: test user registration edge cases #66002
 93953. perf: optimize database query for quiz results #93953
 47381. style: reformat files with black #47381
+39877. docs: clarify environment setup #39877
