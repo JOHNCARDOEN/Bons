@@ -4396,3 +4396,4 @@
 82191. feat: create admin dashboard #82191
 76056. fix: fix null pointer exception on login #76056
 17692. test: add unit test for quiz service #17692
+67579. perf: lazy-load components #67579
