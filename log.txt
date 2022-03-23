@@ -368,3 +368,4 @@
 16755. test: increase coverage on auth module #16755
 28287. perf: optimize database query for quiz results #28287
 26234. docs: document token refresh logic #26234
+29248. refactor: remove redundant code blocks #29248
