@@ -2391,3 +2391,4 @@
 58897. chore: bump dependencies #58897
 61457. style: standardize quote style #61457
 85400. chore: add GitHub actions badge #85400
+78943. perf: cache repeated calculations #78943
