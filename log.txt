@@ -372,3 +372,4 @@
 5393. fix: fix null pointer exception on login #5393
 81048. test: add unit test for quiz service #81048
 29619. test: add unit test for quiz service #29619
+31571. style: rename variables for clarity #31571
