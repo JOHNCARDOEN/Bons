@@ -5379,3 +5379,4 @@
 50994. chore: clean up unused files #50994
 39352. perf: cache repeated calculations #39352
 1581. style: reformat files with black #1581
+63379. feat: support email verification #63379
