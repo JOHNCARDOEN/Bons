@@ -378,3 +378,4 @@
 44935. fix: correct typo in registration form #44935
 17556. fix: resolve issue with date parsing #17556
 28778. chore: clean up unused files #28778
+40710. refactor: refactor quiz grading logic #40710
