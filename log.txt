@@ -380,3 +380,4 @@
 28778. chore: clean up unused files #28778
 40710. refactor: refactor quiz grading logic #40710
 52931. test: mock database connection in test suite #52931
+0777. feat: enable dark mode toggle #777
