@@ -3389,3 +3389,4 @@
 73715. fix: prevent crash on empty input #73715
 70218. fix: resolve issue with date parsing #70218
 99331. test: increase coverage on auth module #99331
+8292. fix: correct typo in registration form #8292
