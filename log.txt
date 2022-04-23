@@ -1410,3 +1410,4 @@
 28062. fix: correct typo in registration form #28062
 67319. feat: add user authentication #67319
 59743. test: increase coverage on auth module #59743
+47649. chore: add GitHub actions badge #47649
