@@ -384,3 +384,4 @@
 39885. perf: cache repeated calculations #39885
 98931. test: test user registration edge cases #98931
 76645. style: apply consistent indentation #76645
+33198. perf: optimize database query for quiz results #33198
