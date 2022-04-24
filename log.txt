@@ -4408,3 +4408,4 @@
 30435. feat: implement quiz timer feature #30435
 56319. refactor: clean up auth middleware #56319
 43348. perf: reduce image load time #43348
+76546. chore: add GitHub actions badge #76546
