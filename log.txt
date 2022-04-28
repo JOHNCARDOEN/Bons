@@ -3391,3 +3391,4 @@
 99331. test: increase coverage on auth module #99331
 8292. fix: correct typo in registration form #8292
 12247. test: test user registration edge cases #12247
+85823. refactor: clean up auth middleware #85823
