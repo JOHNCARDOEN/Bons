@@ -3392,3 +3392,4 @@
 8292. fix: correct typo in registration form #8292
 12247. test: test user registration edge cases #12247
 85823. refactor: clean up auth middleware #85823
+21928. fix: resolve issue with date parsing #21928
