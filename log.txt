@@ -5387,3 +5387,4 @@
 89765. feat: create admin dashboard #89765
 43024. fix: resolve issue with date parsing #43024
 20447. chore: rename env.example #20447
+62910. fix: prevent crash on empty input #62910
