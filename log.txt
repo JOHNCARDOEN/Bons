@@ -1411,3 +1411,4 @@
 67319. feat: add user authentication #67319
 59743. test: increase coverage on auth module #59743
 47649. chore: add GitHub actions badge #47649
+48610. fix: prevent crash on empty input #48610
