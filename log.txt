@@ -4410,3 +4410,4 @@
 43348. perf: reduce image load time #43348
 76546. chore: add GitHub actions badge #76546
 62563. docs: add API usage examples #62563
+8591. style: reformat files with black #8591
