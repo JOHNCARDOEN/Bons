@@ -3393,3 +3393,4 @@
 12247. test: test user registration edge cases #12247
 85823. refactor: clean up auth middleware #85823
 21928. fix: resolve issue with date parsing #21928
+40943. feat: support email verification #40943
