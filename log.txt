@@ -2408,3 +2408,4 @@
 48142. test: mock database connection in test suite #48142
 82801. test: add integration test for /submit endpoint #82801
 31873. style: apply consistent indentation #31873
+4391. test: increase coverage on auth module #4391
