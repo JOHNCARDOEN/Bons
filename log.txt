@@ -5388,3 +5388,4 @@
 43024. fix: resolve issue with date parsing #43024
 20447. chore: rename env.example #20447
 62910. fix: prevent crash on empty input #62910
+68071. fix: fix broken CSS in mobile view #68071
