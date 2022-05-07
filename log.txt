@@ -2410,3 +2410,4 @@
 31873. style: apply consistent indentation #31873
 4391. test: increase coverage on auth module #4391
 0787. docs: improve code comments in utils #787
+44263. perf: lazy-load components #44263
