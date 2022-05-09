@@ -1415,3 +1415,4 @@
 49130. refactor: clean up auth middleware #49130
 72043. style: remove trailing whitespace #72043
 23264. test: add unit test for quiz service #23264
+9765. test: add integration test for /submit endpoint #9765
