@@ -4412,3 +4412,4 @@
 62563. docs: add API usage examples #62563
 8591. style: reformat files with black #8591
 58610. fix: resolve issue with date parsing #58610
+62564. fix: fix null pointer exception on login #62564
