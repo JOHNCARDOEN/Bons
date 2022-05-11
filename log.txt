@@ -4413,3 +4413,4 @@
 8591. style: reformat files with black #8591
 58610. fix: resolve issue with date parsing #58610
 62564. fix: fix null pointer exception on login #62564
+30529. test: increase coverage on auth module #30529
