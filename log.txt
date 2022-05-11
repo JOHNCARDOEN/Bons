@@ -391,3 +391,4 @@
 63138. fix: resolve issue with date parsing #63138
 23642. test: add integration test for /submit endpoint #23642
 65511. chore: clean up unused files #65511
+84735. fix: fix broken CSS in mobile view #84735
