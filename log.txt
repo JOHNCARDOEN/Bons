@@ -5391,3 +5391,4 @@
 68071. fix: fix broken CSS in mobile view #68071
 44679. refactor: refactor quiz grading logic #44679
 69613. chore: bump dependencies #69613
+88230. style: reformat files with black #88230
