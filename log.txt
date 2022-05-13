@@ -2413,3 +2413,4 @@
 44263. perf: lazy-load components #44263
 83514. style: remove trailing whitespace #83514
 21214. fix: resolve issue with date parsing #21214
+30732. chore: bump dependencies #30732
