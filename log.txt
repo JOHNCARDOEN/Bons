@@ -1416,3 +1416,4 @@
 72043. style: remove trailing whitespace #72043
 23264. test: add unit test for quiz service #23264
 9765. test: add integration test for /submit endpoint #9765
+3865. style: standardize quote style #3865
