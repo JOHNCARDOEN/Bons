@@ -1417,3 +1417,4 @@
 23264. test: add unit test for quiz service #23264
 9765. test: add integration test for /submit endpoint #9765
 3865. style: standardize quote style #3865
+6197. refactor: organize models into subfolders #6197
