@@ -4415,3 +4415,4 @@
 62564. fix: fix null pointer exception on login #62564
 30529. test: increase coverage on auth module #30529
 77259. perf: lazy-load components #77259
+40565. fix: resolve issue with date parsing #40565
