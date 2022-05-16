@@ -393,3 +393,4 @@
 65511. chore: clean up unused files #65511
 84735. fix: fix broken CSS in mobile view #84735
 41323. fix: fix broken CSS in mobile view #41323
+1074. fix: fix broken CSS in mobile view #1074
