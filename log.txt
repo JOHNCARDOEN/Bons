@@ -4421,3 +4421,4 @@
 74050. test: add integration test for /submit endpoint #74050
 58796. fix: prevent crash on empty input #58796
 11905. docs: clarify environment setup #11905
+64938. test: add integration test for /submit endpoint #64938
