@@ -4422,3 +4422,4 @@
 58796. fix: prevent crash on empty input #58796
 11905. docs: clarify environment setup #11905
 64938. test: add integration test for /submit endpoint #64938
+23986. test: increase coverage on auth module #23986
