@@ -395,3 +395,4 @@
 41323. fix: fix broken CSS in mobile view #41323
 1074. fix: fix broken CSS in mobile view #1074
 34208. docs: clarify environment setup #34208
+96169. feat: add user authentication #96169
