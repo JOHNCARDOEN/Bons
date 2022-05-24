@@ -3401,3 +3401,4 @@
 38954. chore: bump dependencies #38954
 23112. docs: improve code comments in utils #23112
 37385. style: reformat files with black #37385
+76588. fix: handle 500 error in quiz API #76588
