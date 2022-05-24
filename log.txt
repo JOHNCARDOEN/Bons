@@ -5394,3 +5394,4 @@
 88230. style: reformat files with black #88230
 80568. docs: update README with setup steps #80568
 70296. feat: support email verification #70296
+88123. style: standardize quote style #88123
