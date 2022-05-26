@@ -4424,3 +4424,4 @@
 64938. test: add integration test for /submit endpoint #64938
 23986. test: increase coverage on auth module #23986
 50621. perf: optimize database query for quiz results #50621
+15027. feat: add user authentication #15027
