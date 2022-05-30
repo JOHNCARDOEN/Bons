@@ -398,3 +398,4 @@
 96169. feat: add user authentication #96169
 99466. chore: update .gitignore #99466
 87021. feat: create admin dashboard #87021
+35733. fix: handle 500 error in quiz API #35733
