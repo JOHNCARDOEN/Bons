@@ -2422,3 +2422,4 @@
 73693. style: standardize quote style #73693
 54362. fix: prevent crash on empty input #54362
 89573. fix: resolve issue with date parsing #89573
+96071. perf: lazy-load components #96071
