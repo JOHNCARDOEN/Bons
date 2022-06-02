@@ -3405,3 +3405,4 @@
 17123. perf: optimize database query for quiz results #17123
 47946. refactor: refactor quiz grading logic #47946
 54753. refactor: refactor quiz grading logic #54753
+14884. perf: optimize database query for quiz results #14884
