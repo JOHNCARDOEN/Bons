@@ -5399,3 +5399,4 @@
 40802. feat: add export to CSV option #40802
 71799. style: remove trailing whitespace #71799
 48142. test: mock database connection in test suite #48142
+81011. refactor: clean up auth middleware #81011
