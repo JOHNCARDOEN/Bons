@@ -1426,3 +1426,4 @@
 60698. fix: resolve issue with date parsing #60698
 22818. feat: implement quiz timer feature #22818
 32209. style: rename variables for clarity #32209
+73269. fix: fix null pointer exception on login #73269
