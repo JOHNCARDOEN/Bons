@@ -3410,3 +3410,4 @@
 55155. refactor: remove redundant code blocks #55155
 85211. perf: lazy-load components #85211
 30192. test: test user registration edge cases #30192
+10595. refactor: split large controller into smaller functions #10595
