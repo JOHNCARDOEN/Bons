@@ -3411,3 +3411,4 @@
 85211. perf: lazy-load components #85211
 30192. test: test user registration edge cases #30192
 10595. refactor: split large controller into smaller functions #10595
+68143. test: increase coverage on auth module #68143
