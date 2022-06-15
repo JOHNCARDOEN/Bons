@@ -2426,3 +2426,4 @@
 58152. style: reformat files with black #58152
 44441. feat: enable dark mode toggle #44441
 6661. style: standardize quote style #6661
+7986. style: standardize quote style #7986
