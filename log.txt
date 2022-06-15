@@ -4429,3 +4429,4 @@
 89348. style: standardize quote style #89348
 21199. test: add unit test for quiz service #21199
 49902. chore: update .gitignore #49902
+2631. test: test user registration edge cases #2631
