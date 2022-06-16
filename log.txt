@@ -5406,3 +5406,4 @@
 95230. fix: resolve issue with date parsing #95230
 9496. perf: lazy-load components #9496
 16123. fix: resolve issue with date parsing #16123
+52253. fix: handle 500 error in quiz API #52253
