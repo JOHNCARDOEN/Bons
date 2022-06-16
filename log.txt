@@ -2427,3 +2427,4 @@
 44441. feat: enable dark mode toggle #44441
 6661. style: standardize quote style #6661
 7986. style: standardize quote style #7986
+50199. chore: add GitHub actions badge #50199
