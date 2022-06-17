@@ -5409,3 +5409,4 @@
 52253. fix: handle 500 error in quiz API #52253
 4596. refactor: organize models into subfolders #4596
 43702. test: add integration test for /submit endpoint #43702
+66983. test: test user registration edge cases #66983
