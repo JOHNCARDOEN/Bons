@@ -5411,3 +5411,4 @@
 43702. test: add integration test for /submit endpoint #43702
 66983. test: test user registration edge cases #66983
 95659. fix: fix null pointer exception on login #95659
+9656. refactor: remove redundant code blocks #9656
