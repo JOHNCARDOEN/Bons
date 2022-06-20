@@ -3414,3 +3414,4 @@
 68143. test: increase coverage on auth module #68143
 60962. style: standardize quote style #60962
 17712. feat: support email verification #17712
+60421. refactor: clean up auth middleware #60421
