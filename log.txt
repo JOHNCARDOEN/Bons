@@ -3416,3 +3416,4 @@
 17712. feat: support email verification #17712
 60421. refactor: clean up auth middleware #60421
 94291. chore: clean up unused files #94291
+35480. test: mock database connection in test suite #35480
