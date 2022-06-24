@@ -1432,3 +1432,4 @@
 75952. fix: resolve issue with date parsing #75952
 18947. fix: correct typo in registration form #18947
 57977. fix: prevent crash on empty input #57977
+99975. refactor: clean up auth middleware #99975
