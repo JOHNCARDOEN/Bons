@@ -2430,3 +2430,4 @@
 50199. chore: add GitHub actions badge #50199
 60444. chore: add GitHub actions badge #60444
 81738. perf: cache repeated calculations #81738
+36606. docs: add API usage examples #36606
