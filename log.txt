@@ -3420,3 +3420,4 @@
 58749. style: remove trailing whitespace #58749
 17812. test: add integration test for /submit endpoint #17812
 49227. perf: reduce image load time #49227
+56655. test: mock database connection in test suite #56655
