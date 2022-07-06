@@ -3423,3 +3423,4 @@
 56655. test: mock database connection in test suite #56655
 83963. fix: fix null pointer exception on login #83963
 76199. test: test user registration edge cases #76199
+49274. perf: reduce image load time #49274
