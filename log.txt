@@ -3425,3 +3425,4 @@
 76199. test: test user registration edge cases #76199
 49274. perf: reduce image load time #49274
 65385. fix: handle 500 error in quiz API #65385
+38970. test: add unit test for quiz service #38970
