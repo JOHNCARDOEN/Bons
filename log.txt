@@ -416,3 +416,4 @@
 5435. test: mock database connection in test suite #5435
 63651. feat: support email verification #63651
 66341. fix: prevent crash on empty input #66341
+36003. test: increase coverage on auth module #36003
