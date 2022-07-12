@@ -1441,3 +1441,4 @@
 26075. docs: improve code comments in utils #26075
 87198. feat: create admin dashboard #87198
 7650. feat: enable dark mode toggle #7650
+98104. style: reformat files with black #98104
