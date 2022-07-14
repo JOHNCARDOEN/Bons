@@ -3427,3 +3427,4 @@
 65385. fix: handle 500 error in quiz API #65385
 38970. test: add unit test for quiz service #38970
 62613. docs: write FAQ section #62613
+79982. perf: optimize database query for quiz results #79982
