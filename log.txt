@@ -5422,3 +5422,4 @@
 45318. feat: implement quiz timer feature #45318
 44318. style: rename variables for clarity #44318
 77407. feat: create admin dashboard #77407
+69319. chore: update .gitignore #69319
