@@ -1443,3 +1443,4 @@
 7650. feat: enable dark mode toggle #7650
 98104. style: reformat files with black #98104
 33410. docs: update README with setup steps #33410
+13675. perf: reduce image load time #13675
