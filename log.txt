@@ -1445,3 +1445,4 @@
 33410. docs: update README with setup steps #33410
 13675. perf: reduce image load time #13675
 76814. docs: add API usage examples #76814
+73423. chore: add GitHub actions badge #73423
