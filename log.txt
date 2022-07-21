@@ -2439,3 +2439,4 @@
 9700. test: test user registration edge cases #9700
 63928. refactor: split large controller into smaller functions #63928
 55134. chore: add GitHub actions badge #55134
+23519. feat: enable dark mode toggle #23519
