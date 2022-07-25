@@ -1446,3 +1446,4 @@
 13675. perf: reduce image load time #13675
 76814. docs: add API usage examples #76814
 73423. chore: add GitHub actions badge #73423
+86380. perf: optimize database query for quiz results #86380
