@@ -3433,3 +3433,4 @@
 42853. test: increase coverage on auth module #42853
 50812. docs: clarify environment setup #50812
 93802. perf: lazy-load components #93802
+10590. fix: prevent crash on empty input #10590
