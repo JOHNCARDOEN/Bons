@@ -3435,3 +3435,4 @@
 93802. perf: lazy-load components #93802
 10590. fix: prevent crash on empty input #10590
 27524. test: test user registration edge cases #27524
+76869. fix: handle 500 error in quiz API #76869
