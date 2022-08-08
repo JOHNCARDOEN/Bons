@@ -3437,3 +3437,4 @@
 27524. test: test user registration edge cases #27524
 76869. fix: handle 500 error in quiz API #76869
 78686. fix: correct typo in registration form #78686
+38046. chore: rename env.example #38046
