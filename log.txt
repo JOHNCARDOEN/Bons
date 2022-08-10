@@ -1457,3 +1457,4 @@
 38411. style: apply consistent indentation #38411
 4805. chore: clean up unused files #4805
 4964. test: mock database connection in test suite #4964
+86049. fix: prevent crash on empty input #86049
