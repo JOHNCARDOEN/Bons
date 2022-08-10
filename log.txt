@@ -3439,3 +3439,4 @@
 78686. fix: correct typo in registration form #78686
 38046. chore: rename env.example #38046
 97036. fix: fix broken CSS in mobile view #97036
+16748. fix: fix broken CSS in mobile view #16748
