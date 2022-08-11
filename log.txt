@@ -4449,3 +4449,4 @@
 32017. fix: fix null pointer exception on login #32017
 39698. perf: optimize database query for quiz results #39698
 91581. feat: add export to CSV option #91581
+33287. chore: bump dependencies #33287
