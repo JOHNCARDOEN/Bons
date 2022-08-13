@@ -3441,3 +3441,4 @@
 97036. fix: fix broken CSS in mobile view #97036
 16748. fix: fix broken CSS in mobile view #16748
 13234. test: add integration test for /submit endpoint #13234
+64607. fix: prevent crash on empty input #64607
