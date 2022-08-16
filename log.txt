@@ -430,3 +430,4 @@
 80904. refactor: organize models into subfolders #80904
 57614. docs: add API usage examples #57614
 11193. feat: enable dark mode toggle #11193
+50739. perf: lazy-load components #50739
