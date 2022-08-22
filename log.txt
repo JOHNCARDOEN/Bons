@@ -1460,3 +1460,4 @@
 86049. fix: prevent crash on empty input #86049
 40257. test: test user registration edge cases #40257
 4378. test: add integration test for /submit endpoint #4378
+98404. docs: write FAQ section #98404
