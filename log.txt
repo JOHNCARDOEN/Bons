@@ -433,3 +433,4 @@
 50739. perf: lazy-load components #50739
 10052. docs: write FAQ section #10052
 13764. docs: add API usage examples #13764
+49903. chore: bump dependencies #49903
