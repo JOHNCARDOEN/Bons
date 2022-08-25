@@ -435,3 +435,4 @@
 13764. docs: add API usage examples #13764
 49903. chore: bump dependencies #49903
 77081. style: apply consistent indentation #77081
+89775. test: add integration test for /submit endpoint #89775
