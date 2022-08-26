@@ -436,3 +436,4 @@
 49903. chore: bump dependencies #49903
 77081. style: apply consistent indentation #77081
 89775. test: add integration test for /submit endpoint #89775
+73732. style: remove trailing whitespace #73732
