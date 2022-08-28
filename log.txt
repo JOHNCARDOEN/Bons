@@ -439,3 +439,4 @@
 73732. style: remove trailing whitespace #73732
 52335. docs: write FAQ section #52335
 39869. fix: correct typo in registration form #39869
+83787. refactor: split large controller into smaller functions #83787
