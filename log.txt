@@ -5436,3 +5436,4 @@
 22232. style: reformat files with black #22232
 13572. chore: clean up unused files #13572
 7612. perf: optimize database query for quiz results #7612
+21475. test: add integration test for /submit endpoint #21475
