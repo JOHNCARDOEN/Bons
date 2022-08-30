@@ -2456,3 +2456,4 @@
 9924. docs: improve code comments in utils #9924
 92072. chore: bump dependencies #92072
 28224. style: rename variables for clarity #28224
+78219. test: increase coverage on auth module #78219
