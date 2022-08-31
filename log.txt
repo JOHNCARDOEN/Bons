@@ -2457,3 +2457,4 @@
 92072. chore: bump dependencies #92072
 28224. style: rename variables for clarity #28224
 78219. test: increase coverage on auth module #78219
+73141. test: mock database connection in test suite #73141
