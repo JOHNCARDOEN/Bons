@@ -4455,3 +4455,4 @@
 28439. perf: optimize database query for quiz results #28439
 10101. style: remove trailing whitespace #10101
 23002. chore: rename env.example #23002
+90273. style: remove trailing whitespace #90273
