@@ -442,3 +442,4 @@
 83787. refactor: split large controller into smaller functions #83787
 47046. perf: reduce image load time #47046
 60377. test: test user registration edge cases #60377
+36328. fix: prevent crash on empty input #36328
