@@ -5441,3 +5441,4 @@
 21106. feat: enable dark mode toggle #21106
 73757. style: reformat files with black #73757
 23011. fix: resolve issue with date parsing #23011
+77105. feat: create admin dashboard #77105
