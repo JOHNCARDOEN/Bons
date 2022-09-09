@@ -1466,3 +1466,4 @@
 23522. fix: handle 500 error in quiz API #23522
 50144. fix: prevent crash on empty input #50144
 73632. refactor: remove redundant code blocks #73632
+73549. chore: add GitHub actions badge #73549
