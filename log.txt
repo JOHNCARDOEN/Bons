@@ -1468,3 +1468,4 @@
 73632. refactor: remove redundant code blocks #73632
 73549. chore: add GitHub actions badge #73549
 58018. docs: add API usage examples #58018
+85589. feat: support email verification #85589
