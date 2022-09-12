@@ -4459,3 +4459,4 @@
 56513. fix: fix null pointer exception on login #56513
 34981. style: rename variables for clarity #34981
 0441. feat: create admin dashboard #441
+78446. feat: enable dark mode toggle #78446
