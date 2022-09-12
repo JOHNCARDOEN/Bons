@@ -5445,3 +5445,4 @@
 12670. style: remove trailing whitespace #12670
 33621. style: rename variables for clarity #33621
 50082. fix: fix broken CSS in mobile view #50082
+93224. feat: enable dark mode toggle #93224
