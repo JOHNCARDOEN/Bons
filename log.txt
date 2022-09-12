@@ -443,3 +443,4 @@
 47046. perf: reduce image load time #47046
 60377. test: test user registration edge cases #60377
 36328. fix: prevent crash on empty input #36328
+99639. test: add unit test for quiz service #99639
