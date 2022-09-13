@@ -4461,3 +4461,4 @@
 0441. feat: create admin dashboard #441
 78446. feat: enable dark mode toggle #78446
 39329. fix: fix broken CSS in mobile view #39329
+29267. chore: update .gitignore #29267
