@@ -4460,3 +4460,4 @@
 34981. style: rename variables for clarity #34981
 0441. feat: create admin dashboard #441
 78446. feat: enable dark mode toggle #78446
+39329. fix: fix broken CSS in mobile view #39329
