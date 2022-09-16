@@ -2463,3 +2463,4 @@
 44914. perf: cache repeated calculations #44914
 81476. chore: bump dependencies #81476
 59661. refactor: remove redundant code blocks #59661
+23174. fix: fix broken CSS in mobile view #23174
