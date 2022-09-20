@@ -4465,3 +4465,4 @@
 3143. perf: cache repeated calculations #3143
 3706. style: reformat files with black #3706
 36843. docs: update README with setup steps #36843
+77352. refactor: clean up auth middleware #77352
