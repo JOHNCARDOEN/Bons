@@ -445,3 +445,4 @@
 36328. fix: prevent crash on empty input #36328
 99639. test: add unit test for quiz service #99639
 8639. style: standardize quote style #8639
+49568. fix: fix broken CSS in mobile view #49568
