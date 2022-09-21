@@ -3453,3 +3453,4 @@
 51494. test: increase coverage on auth module #51494
 65485. chore: rename env.example #65485
 71283. chore: update .gitignore #71283
+46145. test: increase coverage on auth module #46145
