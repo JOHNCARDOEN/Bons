@@ -5448,3 +5448,4 @@
 93224. feat: enable dark mode toggle #93224
 28248. style: remove trailing whitespace #28248
 79938. test: add integration test for /submit endpoint #79938
+92539. docs: update README with setup steps #92539
