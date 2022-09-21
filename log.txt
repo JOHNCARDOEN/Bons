@@ -2466,3 +2466,4 @@
 23174. fix: fix broken CSS in mobile view #23174
 67999. refactor: clean up auth middleware #67999
 42134. docs: clarify environment setup #42134
+34804. test: add unit test for quiz service #34804
