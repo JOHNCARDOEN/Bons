@@ -4470,3 +4470,4 @@
 29320. test: add unit test for quiz service #29320
 46083. docs: add API usage examples #46083
 70106. perf: cache repeated calculations #70106
+0242. fix: prevent crash on empty input #242
