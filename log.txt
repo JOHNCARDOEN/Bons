@@ -2469,3 +2469,4 @@
 34804. test: add unit test for quiz service #34804
 36456. style: remove trailing whitespace #36456
 50836. fix: fix null pointer exception on login #50836
+36341. style: apply consistent indentation #36341
