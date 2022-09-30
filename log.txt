@@ -449,3 +449,4 @@
 20383. docs: document token refresh logic #20383
 4931. docs: add API usage examples #4931
 20404. docs: document token refresh logic #20404
+37908. test: test user registration edge cases #37908
