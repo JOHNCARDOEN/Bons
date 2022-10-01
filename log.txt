@@ -2471,3 +2471,4 @@
 50836. fix: fix null pointer exception on login #50836
 36341. style: apply consistent indentation #36341
 78490. perf: reduce image load time #78490
+81903. refactor: remove redundant code blocks #81903
