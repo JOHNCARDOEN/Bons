@@ -450,3 +450,4 @@
 4931. docs: add API usage examples #4931
 20404. docs: document token refresh logic #20404
 37908. test: test user registration edge cases #37908
+96754. test: increase coverage on auth module #96754
