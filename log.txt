@@ -2472,3 +2472,4 @@
 36341. style: apply consistent indentation #36341
 78490. perf: reduce image load time #78490
 81903. refactor: remove redundant code blocks #81903
+41919. refactor: split large controller into smaller functions #41919
