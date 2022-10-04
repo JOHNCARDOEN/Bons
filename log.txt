@@ -2473,3 +2473,4 @@
 78490. perf: reduce image load time #78490
 81903. refactor: remove redundant code blocks #81903
 41919. refactor: split large controller into smaller functions #41919
+9250. docs: document token refresh logic #9250
