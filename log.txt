@@ -1479,3 +1479,4 @@
 98546. feat: enable dark mode toggle #98546
 3799. style: rename variables for clarity #3799
 35092. chore: clean up unused files #35092
+96463. perf: reduce image load time #96463
