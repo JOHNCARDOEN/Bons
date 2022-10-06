@@ -1481,3 +1481,4 @@
 35092. chore: clean up unused files #35092
 96463. perf: reduce image load time #96463
 58709. refactor: clean up auth middleware #58709
+6497. docs: update README with setup steps #6497
