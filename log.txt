@@ -4474,3 +4474,4 @@
 29847. refactor: refactor quiz grading logic #29847
 56530. feat: add user authentication #56530
 49985. fix: fix broken CSS in mobile view #49985
+53581. test: increase coverage on auth module #53581
