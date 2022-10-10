@@ -5457,3 +5457,4 @@
 47846. feat: add export to CSV option #47846
 79401. feat: support email verification #79401
 70170. refactor: organize models into subfolders #70170
+77646. fix: handle 500 error in quiz API #77646
