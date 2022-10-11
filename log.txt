@@ -458,3 +458,4 @@
 19777. perf: reduce image load time #19777
 30489. perf: reduce image load time #30489
 33009. feat: add user authentication #33009
+32506. refactor: split large controller into smaller functions #32506
