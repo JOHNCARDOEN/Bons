@@ -4476,3 +4476,4 @@
 49985. fix: fix broken CSS in mobile view #49985
 53581. test: increase coverage on auth module #53581
 23563. feat: create admin dashboard #23563
+33836. feat: support email verification #33836
