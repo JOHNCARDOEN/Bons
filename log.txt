@@ -459,3 +459,4 @@
 30489. perf: reduce image load time #30489
 33009. feat: add user authentication #33009
 32506. refactor: split large controller into smaller functions #32506
+85365. perf: optimize database query for quiz results #85365
