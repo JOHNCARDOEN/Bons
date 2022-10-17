@@ -461,3 +461,4 @@
 32506. refactor: split large controller into smaller functions #32506
 85365. perf: optimize database query for quiz results #85365
 73445. feat: create admin dashboard #73445
+25614. feat: add user authentication #25614
