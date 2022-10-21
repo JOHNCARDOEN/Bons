@@ -1486,3 +1486,4 @@
 57468. test: test user registration edge cases #57468
 96380. style: standardize quote style #96380
 19875. chore: rename env.example #19875
+34489. style: remove trailing whitespace #34489
