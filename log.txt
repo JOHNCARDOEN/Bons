@@ -3466,3 +3466,4 @@
 86886. chore: update .gitignore #86886
 53607. refactor: split large controller into smaller functions #53607
 54275. feat: implement quiz timer feature #54275
+94701. fix: prevent crash on empty input #94701
