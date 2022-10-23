@@ -2482,3 +2482,4 @@
 31339. perf: cache repeated calculations #31339
 44707. feat: implement quiz timer feature #44707
 18022. docs: clarify environment setup #18022
+70869. refactor: clean up auth middleware #70869
