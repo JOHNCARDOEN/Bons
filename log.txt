@@ -2484,3 +2484,4 @@
 18022. docs: clarify environment setup #18022
 70869. refactor: clean up auth middleware #70869
 99194. docs: document token refresh logic #99194
+67379. test: increase coverage on auth module #67379
