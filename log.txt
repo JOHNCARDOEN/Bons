@@ -465,3 +465,4 @@
 7229. docs: clarify environment setup #7229
 0268. feat: enable dark mode toggle #268
 1749. fix: prevent crash on empty input #1749
+13245. chore: update .gitignore #13245
