@@ -3468,3 +3468,4 @@
 54275. feat: implement quiz timer feature #54275
 94701. fix: prevent crash on empty input #94701
 89362. docs: improve code comments in utils #89362
+74427. test: add integration test for /submit endpoint #74427
