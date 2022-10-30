@@ -3471,3 +3471,4 @@
 74427. test: add integration test for /submit endpoint #74427
 34020. feat: implement quiz timer feature #34020
 72419. feat: support email verification #72419
+62078. refactor: split large controller into smaller functions #62078
