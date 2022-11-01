@@ -2489,3 +2489,4 @@
 56222. chore: update .gitignore #56222
 86707. perf: cache repeated calculations #86707
 48874. style: rename variables for clarity #48874
+34784. fix: prevent crash on empty input #34784
