@@ -2488,3 +2488,4 @@
 86723. feat: add export to CSV option #86723
 56222. chore: update .gitignore #56222
 86707. perf: cache repeated calculations #86707
+48874. style: rename variables for clarity #48874
