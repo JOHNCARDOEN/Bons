@@ -470,3 +470,4 @@
 36447. refactor: refactor quiz grading logic #36447
 26035. perf: optimize database query for quiz results #26035
 69740. fix: fix broken CSS in mobile view #69740
+80595. fix: prevent crash on empty input #80595
