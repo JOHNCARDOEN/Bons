@@ -1491,3 +1491,4 @@
 30014. perf: reduce image load time #30014
 5398. chore: clean up unused files #5398
 64782. refactor: refactor quiz grading logic #64782
+19861. chore: update .gitignore #19861
