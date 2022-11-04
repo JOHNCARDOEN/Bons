@@ -471,3 +471,4 @@
 26035. perf: optimize database query for quiz results #26035
 69740. fix: fix broken CSS in mobile view #69740
 80595. fix: prevent crash on empty input #80595
+33589. perf: lazy-load components #33589
