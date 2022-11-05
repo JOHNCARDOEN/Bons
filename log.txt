@@ -5466,3 +5466,4 @@
 28187. feat: support email verification #28187
 14085. docs: update README with setup steps #14085
 62586. test: mock database connection in test suite #62586
+13213. test: increase coverage on auth module #13213
