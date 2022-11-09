@@ -2493,3 +2493,4 @@
 43478. docs: document token refresh logic #43478
 10616. test: test user registration edge cases #10616
 99965. chore: update .gitignore #99965
+79921. style: reformat files with black #79921
