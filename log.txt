@@ -5473,3 +5473,4 @@
 52479. perf: cache repeated calculations #52479
 41974. chore: add GitHub actions badge #41974
 32327. test: mock database connection in test suite #32327
+77469. docs: update README with setup steps #77469
