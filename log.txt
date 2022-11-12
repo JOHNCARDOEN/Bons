@@ -4484,3 +4484,4 @@
 70622. docs: improve code comments in utils #70622
 84741. perf: lazy-load components #84741
 85052. fix: fix broken CSS in mobile view #85052
+60100. style: rename variables for clarity #60100
