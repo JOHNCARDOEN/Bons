@@ -479,3 +479,4 @@
 94271. chore: bump dependencies #94271
 62929. feat: support email verification #62929
 56796. fix: prevent crash on empty input #56796
+76604. perf: cache repeated calculations #76604
