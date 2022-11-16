@@ -480,3 +480,4 @@
 62929. feat: support email verification #62929
 56796. fix: prevent crash on empty input #56796
 76604. perf: cache repeated calculations #76604
+90038. feat: add user authentication #90038
