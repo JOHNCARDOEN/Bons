@@ -3481,3 +3481,4 @@
 49374. feat: create admin dashboard #49374
 7303. perf: lazy-load components #7303
 40413. style: standardize quote style #40413
+5729. test: increase coverage on auth module #5729
