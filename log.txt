@@ -481,3 +481,4 @@
 56796. fix: prevent crash on empty input #56796
 76604. perf: cache repeated calculations #76604
 90038. feat: add user authentication #90038
+4172. docs: add API usage examples #4172
