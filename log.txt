@@ -5479,3 +5479,4 @@
 54906. refactor: remove redundant code blocks #54906
 27013. fix: fix broken CSS in mobile view #27013
 19572. chore: clean up unused files #19572
+49237. chore: update .gitignore #49237
