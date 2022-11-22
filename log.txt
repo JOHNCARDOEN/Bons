@@ -3484,3 +3484,4 @@
 5729. test: increase coverage on auth module #5729
 37135. feat: add user authentication #37135
 7221. feat: add export to CSV option #7221
+94748. test: mock database connection in test suite #94748
