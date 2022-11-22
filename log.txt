@@ -4487,3 +4487,4 @@
 60100. style: rename variables for clarity #60100
 37990. feat: create admin dashboard #37990
 19117. feat: create admin dashboard #19117
+72573. test: test user registration edge cases #72573
