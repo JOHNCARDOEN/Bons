@@ -4488,3 +4488,4 @@
 37990. feat: create admin dashboard #37990
 19117. feat: create admin dashboard #19117
 72573. test: test user registration edge cases #72573
+87796. perf: cache repeated calculations #87796
