@@ -2502,3 +2502,4 @@
 11893. docs: write FAQ section #11893
 58060. feat: implement quiz timer feature #58060
 52093. style: apply consistent indentation #52093
+53009. fix: handle 500 error in quiz API #53009
