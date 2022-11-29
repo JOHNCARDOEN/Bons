@@ -5483,3 +5483,4 @@
 53855. feat: add export to CSV option #53855
 27815. docs: update README with setup steps #27815
 19678. style: remove trailing whitespace #19678
+29245. perf: cache repeated calculations #29245
