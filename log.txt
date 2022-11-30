@@ -4490,3 +4490,4 @@
 72573. test: test user registration edge cases #72573
 87796. perf: cache repeated calculations #87796
 87565. chore: bump dependencies #87565
+80822. fix: handle 500 error in quiz API #80822
