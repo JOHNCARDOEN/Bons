@@ -485,3 +485,4 @@
 9256. perf: cache repeated calculations #9256
 57715. docs: improve code comments in utils #57715
 43506. feat: add export to CSV option #43506
+65011. chore: bump dependencies #65011
