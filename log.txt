@@ -4492,3 +4492,4 @@
 87565. chore: bump dependencies #87565
 80822. fix: handle 500 error in quiz API #80822
 75273. refactor: clean up auth middleware #75273
+85177. test: increase coverage on auth module #85177
