@@ -2505,3 +2505,4 @@
 53009. fix: handle 500 error in quiz API #53009
 56712. fix: prevent crash on empty input #56712
 14374. perf: optimize database query for quiz results #14374
+68702. perf: reduce image load time #68702
