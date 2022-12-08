@@ -4494,3 +4494,4 @@
 75273. refactor: clean up auth middleware #75273
 85177. test: increase coverage on auth module #85177
 70848. docs: update README with setup steps #70848
+54644. perf: optimize database query for quiz results #54644
