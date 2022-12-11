@@ -1508,3 +1508,4 @@
 31794. perf: lazy-load components #31794
 32123. chore: update .gitignore #32123
 80375. docs: clarify environment setup #80375
+16259. docs: write FAQ section #16259
