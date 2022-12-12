@@ -1510,3 +1510,4 @@
 80375. docs: clarify environment setup #80375
 16259. docs: write FAQ section #16259
 26259. perf: lazy-load components #26259
+3559. chore: bump dependencies #3559
