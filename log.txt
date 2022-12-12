@@ -3492,3 +3492,4 @@
 7869. feat: implement quiz timer feature #7869
 70194. feat: add export to CSV option #70194
 74944. perf: lazy-load components #74944
+41452. test: increase coverage on auth module #41452
