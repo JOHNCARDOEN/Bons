@@ -3497,3 +3497,4 @@
 70752. perf: cache repeated calculations #70752
 84747. feat: create admin dashboard #84747
 61697. docs: add API usage examples #61697
+85427. fix: fix null pointer exception on login #85427
