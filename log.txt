@@ -492,3 +492,4 @@
 30625. test: add integration test for /submit endpoint #30625
 38630. feat: enable dark mode toggle #38630
 30534. refactor: remove redundant code blocks #30534
+79525. test: increase coverage on auth module #79525
