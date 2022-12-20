@@ -3500,3 +3500,4 @@
 85427. fix: fix null pointer exception on login #85427
 7285. perf: reduce image load time #7285
 23934. docs: clarify environment setup #23934
+58306. test: mock database connection in test suite #58306
