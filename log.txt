@@ -3501,3 +3501,4 @@
 7285. perf: reduce image load time #7285
 23934. docs: clarify environment setup #23934
 58306. test: mock database connection in test suite #58306
+25532. test: increase coverage on auth module #25532
