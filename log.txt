@@ -497,3 +497,4 @@
 86957. feat: implement quiz timer feature #86957
 25010. docs: clarify environment setup #25010
 81487. test: increase coverage on auth module #81487
+1454. docs: write FAQ section #1454
