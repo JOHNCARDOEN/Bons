@@ -4502,3 +4502,4 @@
 40530. fix: fix broken CSS in mobile view #40530
 83760. docs: clarify environment setup #83760
 43491. refactor: organize models into subfolders #43491
+17702. perf: cache repeated calculations #17702
