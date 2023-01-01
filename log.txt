@@ -3508,3 +3508,4 @@
 71999. docs: write FAQ section #71999
 37718. perf: lazy-load components #37718
 27768. refactor: split large controller into smaller functions #27768
+24741. test: test user registration edge cases #24741
