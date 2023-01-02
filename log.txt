@@ -498,3 +498,4 @@
 25010. docs: clarify environment setup #25010
 81487. test: increase coverage on auth module #81487
 1454. docs: write FAQ section #1454
+35225. docs: update README with setup steps #35225
