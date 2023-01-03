@@ -1519,3 +1519,4 @@
 7028. chore: clean up unused files #7028
 33241. feat: enable dark mode toggle #33241
 61199. docs: document token refresh logic #61199
+60772. fix: handle 500 error in quiz API #60772
