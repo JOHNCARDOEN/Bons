@@ -4504,3 +4504,4 @@
 43491. refactor: organize models into subfolders #43491
 17702. perf: cache repeated calculations #17702
 48736. perf: lazy-load components #48736
+36733. test: test user registration edge cases #36733
