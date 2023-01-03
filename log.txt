@@ -2517,3 +2517,4 @@
 65392. fix: handle 500 error in quiz API #65392
 33259. refactor: organize models into subfolders #33259
 49090. docs: improve code comments in utils #49090
+24712. perf: lazy-load components #24712
