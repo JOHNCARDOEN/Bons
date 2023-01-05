@@ -4507,3 +4507,4 @@
 36733. test: test user registration edge cases #36733
 60192. style: rename variables for clarity #60192
 69698. test: add integration test for /submit endpoint #69698
+16755. test: increase coverage on auth module #16755
