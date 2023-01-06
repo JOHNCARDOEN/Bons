@@ -500,3 +500,4 @@
 1454. docs: write FAQ section #1454
 35225. docs: update README with setup steps #35225
 73715. fix: prevent crash on empty input #73715
+75470. perf: reduce image load time #75470
