@@ -501,3 +501,4 @@
 35225. docs: update README with setup steps #35225
 73715. fix: prevent crash on empty input #73715
 75470. perf: reduce image load time #75470
+62941. refactor: refactor quiz grading logic #62941
