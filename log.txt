@@ -1522,3 +1522,4 @@
 60772. fix: handle 500 error in quiz API #60772
 8676. perf: optimize database query for quiz results #8676
 50508. style: reformat files with black #50508
+34354. fix: fix broken CSS in mobile view #34354
