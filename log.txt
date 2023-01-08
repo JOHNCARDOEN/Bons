@@ -503,3 +503,4 @@
 75470. perf: reduce image load time #75470
 62941. refactor: refactor quiz grading logic #62941
 25820. feat: implement quiz timer feature #25820
+88618. fix: fix null pointer exception on login #88618
