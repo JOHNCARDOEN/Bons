@@ -504,3 +504,4 @@
 62941. refactor: refactor quiz grading logic #62941
 25820. feat: implement quiz timer feature #25820
 88618. fix: fix null pointer exception on login #88618
+60678. feat: add user authentication #60678
