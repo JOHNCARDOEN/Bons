@@ -506,3 +506,4 @@
 88618. fix: fix null pointer exception on login #88618
 60678. feat: add user authentication #60678
 39341. chore: bump dependencies #39341
+89149. docs: document token refresh logic #89149
