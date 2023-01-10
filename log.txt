@@ -3511,3 +3511,4 @@
 24741. test: test user registration edge cases #24741
 82657. refactor: split large controller into smaller functions #82657
 85909. docs: clarify environment setup #85909
+58123. chore: add GitHub actions badge #58123
