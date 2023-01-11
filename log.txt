@@ -1524,3 +1524,4 @@
 50508. style: reformat files with black #50508
 34354. fix: fix broken CSS in mobile view #34354
 44136. test: test user registration edge cases #44136
+72212. test: increase coverage on auth module #72212
