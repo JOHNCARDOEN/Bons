@@ -4512,3 +4512,4 @@
 44664. feat: create admin dashboard #44664
 62584. chore: bump dependencies #62584
 86678. test: test user registration edge cases #86678
+48420. feat: add user authentication #48420
