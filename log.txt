@@ -1525,3 +1525,4 @@
 34354. fix: fix broken CSS in mobile view #34354
 44136. test: test user registration edge cases #44136
 72212. test: increase coverage on auth module #72212
+40956. docs: improve code comments in utils #40956
