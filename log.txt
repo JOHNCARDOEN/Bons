@@ -1528,3 +1528,4 @@
 40956. docs: improve code comments in utils #40956
 84299. chore: clean up unused files #84299
 60682. fix: correct typo in registration form #60682
+26637. style: remove trailing whitespace #26637
