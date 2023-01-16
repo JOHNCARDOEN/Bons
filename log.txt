@@ -3513,3 +3513,4 @@
 85909. docs: clarify environment setup #85909
 58123. chore: add GitHub actions badge #58123
 87156. fix: handle 500 error in quiz API #87156
+41512. perf: reduce image load time #41512
