@@ -2524,3 +2524,4 @@
 57361. docs: write FAQ section #57361
 74435. feat: add user authentication #74435
 98139. perf: optimize database query for quiz results #98139
+14372. feat: add user authentication #14372
