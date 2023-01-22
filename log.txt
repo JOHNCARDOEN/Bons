@@ -3519,3 +3519,4 @@
 4936. feat: add export to CSV option #4936
 3460. chore: clean up unused files #3460
 29698. test: add integration test for /submit endpoint #29698
+82652. fix: resolve issue with date parsing #82652
