@@ -5502,3 +5502,4 @@
 18413. refactor: split large controller into smaller functions #18413
 77143. style: apply consistent indentation #77143
 54010. style: apply consistent indentation #54010
+82044. fix: correct typo in registration form #82044
