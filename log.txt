@@ -511,3 +511,4 @@
 86561. chore: rename env.example #86561
 66726. docs: improve code comments in utils #66726
 71104. feat: add export to CSV option #71104
+18967. feat: enable dark mode toggle #18967
