@@ -4520,3 +4520,4 @@
 77880. feat: enable dark mode toggle #77880
 14541. fix: handle 500 error in quiz API #14541
 86832. test: add unit test for quiz service #86832
+72047. chore: update .gitignore #72047
