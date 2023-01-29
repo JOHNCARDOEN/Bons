@@ -4518,3 +4518,4 @@
 0520. chore: update .gitignore #520
 41660. perf: reduce image load time #41660
 77880. feat: enable dark mode toggle #77880
+14541. fix: handle 500 error in quiz API #14541
