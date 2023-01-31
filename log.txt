@@ -515,3 +515,4 @@
 82466. refactor: clean up auth middleware #82466
 81068. feat: implement quiz timer feature #81068
 75893. perf: reduce image load time #75893
+24921. chore: clean up unused files #24921
