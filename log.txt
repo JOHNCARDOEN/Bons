@@ -514,3 +514,4 @@
 18967. feat: enable dark mode toggle #18967
 82466. refactor: clean up auth middleware #82466
 81068. feat: implement quiz timer feature #81068
+75893. perf: reduce image load time #75893
