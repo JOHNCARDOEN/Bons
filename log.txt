@@ -5506,3 +5506,4 @@
 38711. docs: document token refresh logic #38711
 67668. perf: reduce image load time #67668
 95733. perf: lazy-load components #95733
+91006. feat: add user authentication #91006
