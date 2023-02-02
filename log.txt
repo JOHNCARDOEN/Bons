@@ -1539,3 +1539,4 @@
 56768. style: reformat files with black #56768
 20744. test: add unit test for quiz service #20744
 28801. style: standardize quote style #28801
+92431. fix: handle 500 error in quiz API #92431
