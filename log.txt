@@ -1541,3 +1541,4 @@
 28801. style: standardize quote style #28801
 92431. fix: handle 500 error in quiz API #92431
 81411. feat: support email verification #81411
+4619. test: add integration test for /submit endpoint #4619
