@@ -5510,3 +5510,4 @@
 82131. refactor: remove redundant code blocks #82131
 70145. chore: clean up unused files #70145
 26427. refactor: split large controller into smaller functions #26427
+65222. fix: handle 500 error in quiz API #65222
