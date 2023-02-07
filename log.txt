@@ -2534,3 +2534,4 @@
 10782. style: reformat files with black #10782
 95104. style: standardize quote style #95104
 39687. refactor: split large controller into smaller functions #39687
+86215. feat: support email verification #86215
