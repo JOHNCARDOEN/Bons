@@ -5512,3 +5512,4 @@
 26427. refactor: split large controller into smaller functions #26427
 65222. fix: handle 500 error in quiz API #65222
 93990. test: mock database connection in test suite #93990
+37809. test: add integration test for /submit endpoint #37809
