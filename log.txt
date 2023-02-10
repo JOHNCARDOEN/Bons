@@ -2535,3 +2535,4 @@
 95104. style: standardize quote style #95104
 39687. refactor: split large controller into smaller functions #39687
 86215. feat: support email verification #86215
+79205. perf: reduce image load time #79205
