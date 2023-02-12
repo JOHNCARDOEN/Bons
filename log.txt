@@ -5514,3 +5514,4 @@
 93990. test: mock database connection in test suite #93990
 37809. test: add integration test for /submit endpoint #37809
 3662. refactor: split large controller into smaller functions #3662
+93406. chore: bump dependencies #93406
