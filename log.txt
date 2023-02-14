@@ -4523,3 +4523,4 @@
 72047. chore: update .gitignore #72047
 80791. docs: add API usage examples #80791
 3158. feat: support email verification #3158
+28532. perf: optimize database query for quiz results #28532
