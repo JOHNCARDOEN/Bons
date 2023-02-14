@@ -521,3 +521,4 @@
 9638. refactor: refactor quiz grading logic #9638
 67442. test: test user registration edge cases #67442
 8798. feat: implement quiz timer feature #8798
+26331. test: mock database connection in test suite #26331
