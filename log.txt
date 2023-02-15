@@ -4524,3 +4524,4 @@
 80791. docs: add API usage examples #80791
 3158. feat: support email verification #3158
 28532. perf: optimize database query for quiz results #28532
+4952. refactor: remove redundant code blocks #4952
