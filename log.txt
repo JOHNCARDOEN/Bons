@@ -523,3 +523,4 @@
 8798. feat: implement quiz timer feature #8798
 26331. test: mock database connection in test suite #26331
 98898. refactor: remove redundant code blocks #98898
+32106. test: test user registration edge cases #32106
