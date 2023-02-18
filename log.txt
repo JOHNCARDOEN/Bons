@@ -2542,3 +2542,4 @@
 0302. docs: clarify environment setup #302
 61461. feat: implement quiz timer feature #61461
 31307. feat: create admin dashboard #31307
+85593. feat: add user authentication #85593
