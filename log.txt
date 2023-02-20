@@ -4526,3 +4526,4 @@
 28532. perf: optimize database query for quiz results #28532
 4952. refactor: remove redundant code blocks #4952
 38203. fix: resolve issue with date parsing #38203
+5599. refactor: split large controller into smaller functions #5599
