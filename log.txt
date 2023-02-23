@@ -5521,3 +5521,4 @@
 68394. feat: implement quiz timer feature #68394
 9794. docs: add API usage examples #9794
 24598. chore: add GitHub actions badge #24598
+11652. refactor: clean up auth middleware #11652
