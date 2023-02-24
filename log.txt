@@ -527,3 +527,4 @@
 33121. refactor: clean up auth middleware #33121
 76813. perf: cache repeated calculations #76813
 48986. style: apply consistent indentation #48986
+88796. fix: correct typo in registration form #88796
