@@ -2547,3 +2547,4 @@
 99227. chore: update .gitignore #99227
 5954. test: add unit test for quiz service #5954
 96583. style: remove trailing whitespace #96583
+91560. test: test user registration edge cases #91560
