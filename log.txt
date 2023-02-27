@@ -529,3 +529,4 @@
 48986. style: apply consistent indentation #48986
 88796. fix: correct typo in registration form #88796
 59502. test: add integration test for /submit endpoint #59502
+27994. fix: prevent crash on empty input #27994
