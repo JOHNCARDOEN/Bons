@@ -1547,3 +1547,4 @@
 18311. docs: add API usage examples #18311
 50431. docs: improve code comments in utils #50431
 2185. fix: fix broken CSS in mobile view #2185
+60372. perf: lazy-load components #60372
