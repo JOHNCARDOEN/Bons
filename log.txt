@@ -5526,3 +5526,4 @@
 13872. style: standardize quote style #13872
 37422. perf: cache repeated calculations #37422
 56627. style: rename variables for clarity #56627
+23972. style: remove trailing whitespace #23972
