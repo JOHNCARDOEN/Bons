@@ -5528,3 +5528,4 @@
 56627. style: rename variables for clarity #56627
 23972. style: remove trailing whitespace #23972
 42211. perf: lazy-load components #42211
+10078. style: apply consistent indentation #10078
