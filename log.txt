@@ -5531,3 +5531,4 @@
 10078. style: apply consistent indentation #10078
 85661. feat: support email verification #85661
 19323. style: remove trailing whitespace #19323
+77422. docs: document token refresh logic #77422
