@@ -5532,3 +5532,4 @@
 85661. feat: support email verification #85661
 19323. style: remove trailing whitespace #19323
 77422. docs: document token refresh logic #77422
+84391. refactor: split large controller into smaller functions #84391
