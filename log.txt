@@ -2554,3 +2554,4 @@
 74795. refactor: refactor quiz grading logic #74795
 67433. feat: add export to CSV option #67433
 87777. feat: add export to CSV option #87777
+43866. fix: prevent crash on empty input #43866
