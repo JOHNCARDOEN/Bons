@@ -536,3 +536,4 @@
 92713. chore: clean up unused files #92713
 39524. refactor: split large controller into smaller functions #39524
 78644. chore: clean up unused files #78644
+18688. feat: add user authentication #18688
