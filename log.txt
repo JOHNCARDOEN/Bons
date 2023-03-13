@@ -3532,3 +3532,4 @@
 53335. test: add integration test for /submit endpoint #53335
 49172. feat: implement quiz timer feature #49172
 25489. perf: lazy-load components #25489
+59211. feat: enable dark mode toggle #59211
