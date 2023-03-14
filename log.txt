@@ -5535,3 +5535,4 @@
 84391. refactor: split large controller into smaller functions #84391
 97209. refactor: split large controller into smaller functions #97209
 8765. docs: update README with setup steps #8765
+64849. perf: optimize database query for quiz results #64849
