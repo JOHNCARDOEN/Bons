@@ -2558,3 +2558,4 @@
 19997. perf: optimize database query for quiz results #19997
 83161. perf: optimize database query for quiz results #83161
 16288. refactor: remove redundant code blocks #16288
+12731. perf: optimize database query for quiz results #12731
