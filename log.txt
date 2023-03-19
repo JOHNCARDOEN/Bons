@@ -3536,3 +3536,4 @@
 9510. test: test user registration edge cases #9510
 61860. fix: resolve issue with date parsing #61860
 11412. chore: bump dependencies #11412
+99784. fix: fix null pointer exception on login #99784
