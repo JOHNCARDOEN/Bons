@@ -4536,3 +4536,4 @@
 15070. feat: add export to CSV option #15070
 95124. style: reformat files with black #95124
 92684. test: test user registration edge cases #92684
+98426. style: remove trailing whitespace #98426
