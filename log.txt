@@ -2561,3 +2561,4 @@
 12731. perf: optimize database query for quiz results #12731
 75073. perf: cache repeated calculations #75073
 59474. test: increase coverage on auth module #59474
+17360. refactor: split large controller into smaller functions #17360
