@@ -3539,3 +3539,4 @@
 99784. fix: fix null pointer exception on login #99784
 0884. perf: optimize database query for quiz results #884
 91714. style: remove trailing whitespace #91714
+49616. test: add unit test for quiz service #49616
