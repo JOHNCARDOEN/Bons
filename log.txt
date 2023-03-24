@@ -5542,3 +5542,4 @@
 13570. docs: document token refresh logic #13570
 59192. chore: bump dependencies #59192
 61762. fix: fix null pointer exception on login #61762
+71333. test: mock database connection in test suite #71333
