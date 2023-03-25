@@ -2565,3 +2565,4 @@
 16825. test: increase coverage on auth module #16825
 40365. chore: update .gitignore #40365
 62278. chore: rename env.example #62278
+43703. style: reformat files with black #43703
