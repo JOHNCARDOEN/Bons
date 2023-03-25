@@ -2564,3 +2564,4 @@
 17360. refactor: split large controller into smaller functions #17360
 16825. test: increase coverage on auth module #16825
 40365. chore: update .gitignore #40365
+62278. chore: rename env.example #62278
