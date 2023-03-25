@@ -5543,3 +5543,4 @@
 59192. chore: bump dependencies #59192
 61762. fix: fix null pointer exception on login #61762
 71333. test: mock database connection in test suite #71333
+6031. refactor: split large controller into smaller functions #6031
