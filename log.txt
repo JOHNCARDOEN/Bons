@@ -4538,3 +4538,4 @@
 92684. test: test user registration edge cases #92684
 98426. style: remove trailing whitespace #98426
 63727. style: standardize quote style #63727
+9709. style: apply consistent indentation #9709
