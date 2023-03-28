@@ -544,3 +544,4 @@
 14215. style: apply consistent indentation #14215
 76286. docs: write FAQ section #76286
 39780. docs: add API usage examples #39780
+60590. docs: update README with setup steps #60590
