@@ -4545,3 +4545,4 @@
 28940. style: apply consistent indentation #28940
 73516. test: add unit test for quiz service #73516
 63181. chore: add GitHub actions badge #63181
+30496. fix: handle 500 error in quiz API #30496
