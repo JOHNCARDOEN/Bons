@@ -3542,3 +3542,4 @@
 49616. test: add unit test for quiz service #49616
 2320. refactor: clean up auth middleware #2320
 67990. docs: improve code comments in utils #67990
+55537. fix: fix broken CSS in mobile view #55537
