@@ -3544,3 +3544,4 @@
 67990. docs: improve code comments in utils #67990
 55537. fix: fix broken CSS in mobile view #55537
 23818. chore: update .gitignore #23818
+0591. fix: correct typo in registration form #591
