@@ -1555,3 +1555,4 @@
 37252. refactor: clean up auth middleware #37252
 16678. perf: cache repeated calculations #16678
 24319. test: increase coverage on auth module #24319
+7985. test: add integration test for /submit endpoint #7985
