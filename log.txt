@@ -2568,3 +2568,4 @@
 43703. style: reformat files with black #43703
 57902. perf: lazy-load components #57902
 46860. feat: enable dark mode toggle #46860
+26141. fix: fix null pointer exception on login #26141
