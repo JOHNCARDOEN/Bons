@@ -549,3 +549,4 @@
 65568. docs: write FAQ section #65568
 74464. docs: add API usage examples #74464
 18102. docs: improve code comments in utils #18102
+87039. docs: update README with setup steps #87039
