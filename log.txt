@@ -3546,3 +3546,4 @@
 23818. chore: update .gitignore #23818
 0591. fix: correct typo in registration form #591
 26053. fix: prevent crash on empty input #26053
+21786. refactor: clean up auth middleware #21786
