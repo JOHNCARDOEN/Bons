@@ -552,3 +552,4 @@
 87039. docs: update README with setup steps #87039
 52750. chore: add GitHub actions badge #52750
 67017. style: standardize quote style #67017
+44028. feat: enable dark mode toggle #44028
