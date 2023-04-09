@@ -553,3 +553,4 @@
 52750. chore: add GitHub actions badge #52750
 67017. style: standardize quote style #67017
 44028. feat: enable dark mode toggle #44028
+33939. fix: fix null pointer exception on login #33939
