@@ -5547,3 +5547,4 @@
 31625. chore: update .gitignore #31625
 29342. chore: bump dependencies #29342
 14683. perf: reduce image load time #14683
+71958. feat: support email verification #71958
