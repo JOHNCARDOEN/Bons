@@ -2570,3 +2570,4 @@
 46860. feat: enable dark mode toggle #46860
 26141. fix: fix null pointer exception on login #26141
 2173. fix: correct typo in registration form #2173
+61619. style: standardize quote style #61619
