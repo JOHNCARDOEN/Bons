@@ -1558,3 +1558,4 @@
 7985. test: add integration test for /submit endpoint #7985
 7734. feat: support email verification #7734
 48050. docs: clarify environment setup #48050
+70642. test: increase coverage on auth module #70642
