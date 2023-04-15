@@ -1564,3 +1564,4 @@
 91646. style: standardize quote style #91646
 42780. chore: update .gitignore #42780
 26543. test: increase coverage on auth module #26543
+86819. perf: lazy-load components #86819
