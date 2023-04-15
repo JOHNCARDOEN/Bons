@@ -5549,3 +5549,4 @@
 14683. perf: reduce image load time #14683
 71958. feat: support email verification #71958
 86873. style: rename variables for clarity #86873
+77077. refactor: clean up auth middleware #77077
