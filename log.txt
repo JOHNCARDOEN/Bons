@@ -4550,3 +4550,4 @@
 12617. fix: fix broken CSS in mobile view #12617
 15484. refactor: clean up auth middleware #15484
 0252. docs: improve code comments in utils #252
+19691. refactor: split large controller into smaller functions #19691
