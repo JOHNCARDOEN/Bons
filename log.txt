@@ -3556,3 +3556,4 @@
 42254. style: rename variables for clarity #42254
 11992. docs: clarify environment setup #11992
 7001. test: increase coverage on auth module #7001
+5682. docs: write FAQ section #5682
