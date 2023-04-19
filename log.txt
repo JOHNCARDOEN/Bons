@@ -5550,3 +5550,4 @@
 71958. feat: support email verification #71958
 86873. style: rename variables for clarity #86873
 77077. refactor: clean up auth middleware #77077
+5885. test: mock database connection in test suite #5885
