@@ -5551,3 +5551,4 @@
 86873. style: rename variables for clarity #86873
 77077. refactor: clean up auth middleware #77077
 5885. test: mock database connection in test suite #5885
+14102. fix: prevent crash on empty input #14102
