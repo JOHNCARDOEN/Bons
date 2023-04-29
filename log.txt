@@ -5555,3 +5555,4 @@
 13188. perf: reduce image load time #13188
 57677. refactor: remove redundant code blocks #57677
 15650. feat: implement quiz timer feature #15650
+90165. perf: reduce image load time #90165
