@@ -561,3 +561,4 @@
 79334. style: apply consistent indentation #79334
 4328. chore: rename env.example #4328
 12222. style: standardize quote style #12222
+46529. style: remove trailing whitespace #46529
