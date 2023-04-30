@@ -2579,3 +2579,4 @@
 51468. test: add integration test for /submit endpoint #51468
 69346. perf: optimize database query for quiz results #69346
 49726. chore: rename env.example #49726
+63857. perf: reduce image load time #63857
