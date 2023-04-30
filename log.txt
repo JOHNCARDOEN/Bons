@@ -4555,3 +4555,4 @@
 93446. fix: resolve issue with date parsing #93446
 63757. chore: clean up unused files #63757
 82852. docs: write FAQ section #82852
+11281. perf: optimize database query for quiz results #11281
