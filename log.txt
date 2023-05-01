@@ -2581,3 +2581,4 @@
 49726. chore: rename env.example #49726
 63857. perf: reduce image load time #63857
 17296. docs: clarify environment setup #17296
+64821. perf: lazy-load components #64821
