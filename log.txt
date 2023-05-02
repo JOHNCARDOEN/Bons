@@ -3559,3 +3559,4 @@
 5682. docs: write FAQ section #5682
 31978. fix: correct typo in registration form #31978
 90666. test: add integration test for /submit endpoint #90666
+1090. refactor: split large controller into smaller functions #1090
