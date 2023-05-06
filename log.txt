@@ -2585,3 +2585,4 @@
 83444. fix: correct typo in registration form #83444
 43150. style: apply consistent indentation #43150
 29821. style: remove trailing whitespace #29821
+18129. perf: reduce image load time #18129
