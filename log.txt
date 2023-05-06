@@ -3562,3 +3562,4 @@
 1090. refactor: split large controller into smaller functions #1090
 24431. perf: lazy-load components #24431
 50303. test: test user registration edge cases #50303
+91295. fix: fix null pointer exception on login #91295
