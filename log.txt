@@ -565,3 +565,4 @@
 16792. refactor: split large controller into smaller functions #16792
 31106. feat: add export to CSV option #31106
 50118. perf: lazy-load components #50118
+96643. feat: enable dark mode toggle #96643
