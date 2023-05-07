@@ -3563,3 +3563,4 @@
 24431. perf: lazy-load components #24431
 50303. test: test user registration edge cases #50303
 91295. fix: fix null pointer exception on login #91295
+56503. perf: lazy-load components #56503
