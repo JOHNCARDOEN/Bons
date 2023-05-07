@@ -566,3 +566,4 @@
 31106. feat: add export to CSV option #31106
 50118. perf: lazy-load components #50118
 96643. feat: enable dark mode toggle #96643
+61493. fix: fix null pointer exception on login #61493
