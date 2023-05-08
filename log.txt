@@ -3564,3 +3564,4 @@
 50303. test: test user registration edge cases #50303
 91295. fix: fix null pointer exception on login #91295
 56503. perf: lazy-load components #56503
+18808. fix: fix broken CSS in mobile view #18808
