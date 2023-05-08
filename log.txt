@@ -2588,3 +2588,4 @@
 18129. perf: reduce image load time #18129
 63373. test: add unit test for quiz service #63373
 31693. refactor: remove redundant code blocks #31693
+96779. test: increase coverage on auth module #96779
