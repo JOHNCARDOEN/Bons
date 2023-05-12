@@ -5559,3 +5559,4 @@
 4891. fix: correct typo in registration form #4891
 73206. style: rename variables for clarity #73206
 24834. refactor: split large controller into smaller functions #24834
+47766. style: remove trailing whitespace #47766
