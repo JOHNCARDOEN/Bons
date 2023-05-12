@@ -4560,3 +4560,4 @@
 97436. perf: optimize database query for quiz results #97436
 29399. style: standardize quote style #29399
 79743. docs: update README with setup steps #79743
+18030. feat: support email verification #18030
