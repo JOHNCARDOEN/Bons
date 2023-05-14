@@ -3567,3 +3567,4 @@
 18808. fix: fix broken CSS in mobile view #18808
 77799. fix: resolve issue with date parsing #77799
 68691. test: add unit test for quiz service #68691
+81687. style: standardize quote style #81687
