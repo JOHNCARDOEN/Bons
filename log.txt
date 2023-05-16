@@ -573,3 +573,4 @@
 31942. docs: clarify environment setup #31942
 1245. perf: cache repeated calculations #1245
 25580. perf: cache repeated calculations #25580
+32794. style: remove trailing whitespace #32794
