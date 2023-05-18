@@ -575,3 +575,4 @@
 25580. perf: cache repeated calculations #25580
 32794. style: remove trailing whitespace #32794
 32046. perf: optimize database query for quiz results #32046
+2148. test: add integration test for /submit endpoint #2148
