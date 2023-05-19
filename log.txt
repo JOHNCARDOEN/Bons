@@ -5563,3 +5563,4 @@
 56159. chore: rename env.example #56159
 43763. test: increase coverage on auth module #43763
 65734. docs: clarify environment setup #65734
+2045. docs: write FAQ section #2045
