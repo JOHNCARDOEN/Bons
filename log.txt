@@ -4562,3 +4562,4 @@
 79743. docs: update README with setup steps #79743
 18030. feat: support email verification #18030
 14221. fix: fix null pointer exception on login #14221
+90134. test: mock database connection in test suite #90134
