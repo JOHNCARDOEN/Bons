@@ -3573,3 +3573,4 @@
 29498. test: mock database connection in test suite #29498
 16989. chore: clean up unused files #16989
 29706. chore: add GitHub actions badge #29706
+91881. chore: bump dependencies #91881
