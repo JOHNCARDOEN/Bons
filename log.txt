@@ -4563,3 +4563,4 @@
 18030. feat: support email verification #18030
 14221. fix: fix null pointer exception on login #14221
 90134. test: mock database connection in test suite #90134
+46243. perf: optimize database query for quiz results #46243
