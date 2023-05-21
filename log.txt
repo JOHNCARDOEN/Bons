@@ -5564,3 +5564,4 @@
 43763. test: increase coverage on auth module #43763
 65734. docs: clarify environment setup #65734
 2045. docs: write FAQ section #2045
+36964. feat: support email verification #36964
