@@ -5565,3 +5565,4 @@
 65734. docs: clarify environment setup #65734
 2045. docs: write FAQ section #2045
 36964. feat: support email verification #36964
+66827. test: add unit test for quiz service #66827
