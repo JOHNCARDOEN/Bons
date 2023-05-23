@@ -1577,3 +1577,4 @@
 58170. style: apply consistent indentation #58170
 69364. chore: clean up unused files #69364
 70100. refactor: split large controller into smaller functions #70100
+79942. docs: document token refresh logic #79942
