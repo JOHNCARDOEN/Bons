@@ -5570,3 +5570,4 @@
 0063. docs: improve code comments in utils #63
 82508. fix: correct typo in registration form #82508
 99080. chore: update .gitignore #99080
+86677. feat: add export to CSV option #86677
