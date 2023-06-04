@@ -2601,3 +2601,4 @@
 80595. fix: prevent crash on empty input #80595
 57899. fix: fix broken CSS in mobile view #57899
 92328. docs: document token refresh logic #92328
+79089. perf: optimize database query for quiz results #79089
