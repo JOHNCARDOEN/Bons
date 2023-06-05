@@ -589,3 +589,4 @@
 53848. fix: resolve issue with date parsing #53848
 17477. style: rename variables for clarity #17477
 53553. fix: correct typo in registration form #53553
+26267. perf: optimize database query for quiz results #26267
