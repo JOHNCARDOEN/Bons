@@ -4573,3 +4573,4 @@
 25093. perf: optimize database query for quiz results #25093
 86980. perf: cache repeated calculations #86980
 19272. docs: document token refresh logic #19272
+88482. test: add unit test for quiz service #88482
