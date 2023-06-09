@@ -4575,3 +4575,4 @@
 19272. docs: document token refresh logic #19272
 88482. test: add unit test for quiz service #88482
 30403. fix: fix broken CSS in mobile view #30403
+76073. perf: lazy-load components #76073
