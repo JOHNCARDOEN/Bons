@@ -5576,3 +5576,4 @@
 88119. docs: write FAQ section #88119
 5633. fix: fix broken CSS in mobile view #5633
 72279. refactor: remove redundant code blocks #72279
+15486. refactor: clean up auth middleware #15486
