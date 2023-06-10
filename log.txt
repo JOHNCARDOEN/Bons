@@ -5574,3 +5574,4 @@
 24536. refactor: remove redundant code blocks #24536
 66194. style: standardize quote style #66194
 88119. docs: write FAQ section #88119
+5633. fix: fix broken CSS in mobile view #5633
