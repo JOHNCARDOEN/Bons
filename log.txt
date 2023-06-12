@@ -592,3 +592,4 @@
 26267. perf: optimize database query for quiz results #26267
 69373. style: rename variables for clarity #69373
 78485. docs: document token refresh logic #78485
+5548. perf: lazy-load components #5548
