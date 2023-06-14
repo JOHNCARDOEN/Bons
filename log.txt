@@ -2604,3 +2604,4 @@
 79089. perf: optimize database query for quiz results #79089
 21359. feat: add export to CSV option #21359
 58851. test: increase coverage on auth module #58851
+93274. chore: add GitHub actions badge #93274
