@@ -5578,3 +5578,4 @@
 72279. refactor: remove redundant code blocks #72279
 15486. refactor: clean up auth middleware #15486
 28724. refactor: refactor quiz grading logic #28724
+62598. fix: prevent crash on empty input #62598
