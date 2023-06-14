@@ -5577,3 +5577,4 @@
 5633. fix: fix broken CSS in mobile view #5633
 72279. refactor: remove redundant code blocks #72279
 15486. refactor: clean up auth middleware #15486
+28724. refactor: refactor quiz grading logic #28724
