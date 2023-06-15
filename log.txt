@@ -5579,3 +5579,4 @@
 15486. refactor: clean up auth middleware #15486
 28724. refactor: refactor quiz grading logic #28724
 62598. fix: prevent crash on empty input #62598
+44896. fix: correct typo in registration form #44896
