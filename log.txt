@@ -2607,3 +2607,4 @@
 93274. chore: add GitHub actions badge #93274
 25760. perf: cache repeated calculations #25760
 76885. fix: handle 500 error in quiz API #76885
+84107. test: add unit test for quiz service #84107
