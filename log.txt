@@ -1585,3 +1585,4 @@
 77103. fix: correct typo in registration form #77103
 55043. perf: cache repeated calculations #55043
 71507. feat: implement quiz timer feature #71507
+14086. docs: document token refresh logic #14086
