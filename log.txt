@@ -2611,3 +2611,4 @@
 71466. style: rename variables for clarity #71466
 86342. test: add integration test for /submit endpoint #86342
 82634. perf: reduce image load time #82634
+6998. perf: optimize database query for quiz results #6998
