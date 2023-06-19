@@ -3590,3 +3590,4 @@
 48329. feat: implement quiz timer feature #48329
 78074. fix: prevent crash on empty input #78074
 25792. feat: create admin dashboard #25792
+50332. fix: fix broken CSS in mobile view #50332
