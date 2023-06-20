@@ -1587,3 +1587,4 @@
 71507. feat: implement quiz timer feature #71507
 14086. docs: document token refresh logic #14086
 40556. test: add unit test for quiz service #40556
+86081. feat: support email verification #86081
