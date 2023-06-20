@@ -3591,3 +3591,4 @@
 78074. fix: prevent crash on empty input #78074
 25792. feat: create admin dashboard #25792
 50332. fix: fix broken CSS in mobile view #50332
+47792. fix: handle 500 error in quiz API #47792
