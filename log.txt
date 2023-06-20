@@ -1589,3 +1589,4 @@
 40556. test: add unit test for quiz service #40556
 86081. feat: support email verification #86081
 22499. chore: bump dependencies #22499
+79563. refactor: refactor quiz grading logic #79563
