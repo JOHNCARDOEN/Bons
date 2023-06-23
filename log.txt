@@ -5582,3 +5582,4 @@
 44896. fix: correct typo in registration form #44896
 78511. style: apply consistent indentation #78511
 30838. fix: fix null pointer exception on login #30838
+14338. style: rename variables for clarity #14338
