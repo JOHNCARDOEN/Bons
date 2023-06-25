@@ -5583,3 +5583,4 @@
 78511. style: apply consistent indentation #78511
 30838. fix: fix null pointer exception on login #30838
 14338. style: rename variables for clarity #14338
+98535. fix: fix broken CSS in mobile view #98535
