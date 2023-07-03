@@ -3598,3 +3598,4 @@
 61539. perf: optimize database query for quiz results #61539
 56657. chore: clean up unused files #56657
 4134. style: apply consistent indentation #4134
+46473. docs: write FAQ section #46473
