@@ -601,3 +601,4 @@
 37757. docs: clarify environment setup #37757
 49435. fix: correct typo in registration form #49435
 69412. chore: bump dependencies #69412
+47194. feat: add user authentication #47194
