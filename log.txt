@@ -1592,3 +1592,4 @@
 79563. refactor: refactor quiz grading logic #79563
 26892. style: reformat files with black #26892
 50647. feat: create admin dashboard #50647
+31780. style: standardize quote style #31780
