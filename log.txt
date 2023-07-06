@@ -4585,3 +4585,4 @@
 35118. feat: add export to CSV option #35118
 45690. fix: fix broken CSS in mobile view #45690
 32845. docs: update README with setup steps #32845
+41904. test: increase coverage on auth module #41904
