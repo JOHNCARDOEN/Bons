@@ -3601,3 +3601,4 @@
 46473. docs: write FAQ section #46473
 59967. style: apply consistent indentation #59967
 42300. test: test user registration edge cases #42300
+91016. docs: update README with setup steps #91016
