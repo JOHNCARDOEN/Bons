@@ -3605,3 +3605,4 @@
 3072. refactor: organize models into subfolders #3072
 53522. style: rename variables for clarity #53522
 5490. docs: write FAQ section #5490
+12735. fix: handle 500 error in quiz API #12735
