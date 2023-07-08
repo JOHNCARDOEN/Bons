@@ -602,3 +602,4 @@
 49435. fix: correct typo in registration form #49435
 69412. chore: bump dependencies #69412
 47194. feat: add user authentication #47194
+9491. style: apply consistent indentation #9491
