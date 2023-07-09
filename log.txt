@@ -3606,3 +3606,4 @@
 53522. style: rename variables for clarity #53522
 5490. docs: write FAQ section #5490
 12735. fix: handle 500 error in quiz API #12735
+12107. style: reformat files with black #12107
