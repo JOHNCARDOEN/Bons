@@ -605,3 +605,4 @@
 9491. style: apply consistent indentation #9491
 82833. chore: update .gitignore #82833
 24369. fix: fix broken CSS in mobile view #24369
+57888. docs: clarify environment setup #57888
