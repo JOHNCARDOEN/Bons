@@ -2616,3 +2616,4 @@
 13548. feat: implement quiz timer feature #13548
 98397. perf: optimize database query for quiz results #98397
 14435. fix: fix broken CSS in mobile view #14435
+86367. perf: lazy-load components #86367
