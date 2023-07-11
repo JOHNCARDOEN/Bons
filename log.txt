@@ -1595,3 +1595,4 @@
 31780. style: standardize quote style #31780
 18775. chore: add GitHub actions badge #18775
 62250. perf: lazy-load components #62250
+70712. feat: create admin dashboard #70712
