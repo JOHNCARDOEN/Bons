@@ -3607,3 +3607,4 @@
 5490. docs: write FAQ section #5490
 12735. fix: handle 500 error in quiz API #12735
 12107. style: reformat files with black #12107
+16463. test: mock database connection in test suite #16463
