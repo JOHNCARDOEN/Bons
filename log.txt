@@ -3609,3 +3609,4 @@
 12107. style: reformat files with black #12107
 16463. test: mock database connection in test suite #16463
 9209. fix: handle 500 error in quiz API #9209
+45264. docs: add API usage examples #45264
