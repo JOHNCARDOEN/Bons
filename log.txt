@@ -4587,3 +4587,4 @@
 32845. docs: update README with setup steps #32845
 41904. test: increase coverage on auth module #41904
 23871. chore: bump dependencies #23871
+48978. docs: clarify environment setup #48978
