@@ -2622,3 +2622,4 @@
 87884. chore: bump dependencies #87884
 16905. fix: fix broken CSS in mobile view #16905
 58424. test: test user registration edge cases #58424
+16131. fix: correct typo in registration form #16131
