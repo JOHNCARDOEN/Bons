@@ -3611,3 +3611,4 @@
 9209. fix: handle 500 error in quiz API #9209
 45264. docs: add API usage examples #45264
 32977. chore: add GitHub actions badge #32977
+38802. feat: enable dark mode toggle #38802
