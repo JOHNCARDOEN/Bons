@@ -5598,3 +5598,4 @@
 14940. docs: clarify environment setup #14940
 29961. test: mock database connection in test suite #29961
 24110. docs: document token refresh logic #24110
+24847. perf: optimize database query for quiz results #24847
