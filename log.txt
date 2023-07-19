@@ -4589,3 +4589,4 @@
 23871. chore: bump dependencies #23871
 48978. docs: clarify environment setup #48978
 67531. chore: update .gitignore #67531
+66129. perf: optimize database query for quiz results #66129
