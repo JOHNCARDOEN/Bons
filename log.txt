@@ -3612,3 +3612,4 @@
 45264. docs: add API usage examples #45264
 32977. chore: add GitHub actions badge #32977
 38802. feat: enable dark mode toggle #38802
+96631. chore: rename env.example #96631
