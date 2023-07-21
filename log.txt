@@ -2624,3 +2624,4 @@
 58424. test: test user registration edge cases #58424
 16131. fix: correct typo in registration form #16131
 39622. chore: bump dependencies #39622
+12527. test: test user registration edge cases #12527
