@@ -613,3 +613,4 @@
 49926. feat: add export to CSV option #49926
 80528. feat: enable dark mode toggle #80528
 16601. test: test user registration edge cases #16601
+1575. test: test user registration edge cases #1575
