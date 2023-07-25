@@ -5601,3 +5601,4 @@
 24847. perf: optimize database query for quiz results #24847
 23374. chore: bump dependencies #23374
 57353. chore: clean up unused files #57353
+22029. feat: enable dark mode toggle #22029
