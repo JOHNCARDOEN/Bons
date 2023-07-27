@@ -614,3 +614,4 @@
 80528. feat: enable dark mode toggle #80528
 16601. test: test user registration edge cases #16601
 1575. test: test user registration edge cases #1575
+47364. test: test user registration edge cases #47364
