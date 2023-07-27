@@ -3614,3 +3614,4 @@
 38802. feat: enable dark mode toggle #38802
 96631. chore: rename env.example #96631
 6709. feat: support email verification #6709
+3113. docs: improve code comments in utils #3113
