@@ -1601,3 +1601,4 @@
 1716. fix: fix broken CSS in mobile view #1716
 21252. refactor: remove redundant code blocks #21252
 98035. feat: create admin dashboard #98035
+21103. docs: write FAQ section #21103
