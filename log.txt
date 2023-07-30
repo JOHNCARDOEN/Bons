@@ -617,3 +617,4 @@
 47364. test: test user registration edge cases #47364
 60625. test: mock database connection in test suite #60625
 66839. chore: bump dependencies #66839
+86940. test: mock database connection in test suite #86940
