@@ -3616,3 +3616,4 @@
 6709. feat: support email verification #6709
 3113. docs: improve code comments in utils #3113
 83313. refactor: refactor quiz grading logic #83313
+38483. feat: support email verification #38483
