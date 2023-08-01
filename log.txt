@@ -1602,3 +1602,4 @@
 21252. refactor: remove redundant code blocks #21252
 98035. feat: create admin dashboard #98035
 21103. docs: write FAQ section #21103
+43988. docs: update README with setup steps #43988
