@@ -4593,3 +4593,4 @@
 48283. fix: correct typo in registration form #48283
 63023. refactor: split large controller into smaller functions #63023
 25630. chore: rename env.example #25630
+58311. docs: document token refresh logic #58311
