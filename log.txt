@@ -620,3 +620,4 @@
 86940. test: mock database connection in test suite #86940
 55991. chore: clean up unused files #55991
 21965. fix: fix broken CSS in mobile view #21965
+31828. docs: update README with setup steps #31828
