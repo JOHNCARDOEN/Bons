@@ -1603,3 +1603,4 @@
 98035. feat: create admin dashboard #98035
 21103. docs: write FAQ section #21103
 43988. docs: update README with setup steps #43988
+24181. test: mock database connection in test suite #24181
