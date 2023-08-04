@@ -621,3 +621,4 @@
 55991. chore: clean up unused files #55991
 21965. fix: fix broken CSS in mobile view #21965
 31828. docs: update README with setup steps #31828
+45224. chore: rename env.example #45224
