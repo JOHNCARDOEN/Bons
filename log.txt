@@ -622,3 +622,4 @@
 21965. fix: fix broken CSS in mobile view #21965
 31828. docs: update README with setup steps #31828
 45224. chore: rename env.example #45224
+35023. style: standardize quote style #35023
