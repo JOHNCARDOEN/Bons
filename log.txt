@@ -1605,3 +1605,4 @@
 43988. docs: update README with setup steps #43988
 24181. test: mock database connection in test suite #24181
 33307. feat: create admin dashboard #33307
+24075. fix: correct typo in registration form #24075
