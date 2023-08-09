@@ -1606,3 +1606,4 @@
 24181. test: mock database connection in test suite #24181
 33307. feat: create admin dashboard #33307
 24075. fix: correct typo in registration form #24075
+49194. perf: reduce image load time #49194
