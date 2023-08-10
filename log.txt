@@ -1607,3 +1607,4 @@
 33307. feat: create admin dashboard #33307
 24075. fix: correct typo in registration form #24075
 49194. perf: reduce image load time #49194
+99828. test: test user registration edge cases #99828
