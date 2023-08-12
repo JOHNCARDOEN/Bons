@@ -4597,3 +4597,4 @@
 45806. refactor: organize models into subfolders #45806
 24009. feat: add user authentication #24009
 3998. docs: document token refresh logic #3998
+74332. fix: handle 500 error in quiz API #74332
