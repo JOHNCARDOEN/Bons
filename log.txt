@@ -2637,3 +2637,4 @@
 83901. style: remove trailing whitespace #83901
 62715. perf: reduce image load time #62715
 91789. chore: bump dependencies #91789
+28213. chore: add GitHub actions badge #28213
