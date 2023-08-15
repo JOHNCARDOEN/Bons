@@ -4599,3 +4599,4 @@
 3998. docs: document token refresh logic #3998
 74332. fix: handle 500 error in quiz API #74332
 30288. chore: bump dependencies #30288
+24645. refactor: clean up auth middleware #24645
