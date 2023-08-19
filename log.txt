@@ -4601,3 +4601,4 @@
 30288. chore: bump dependencies #30288
 24645. refactor: clean up auth middleware #24645
 75766. feat: implement quiz timer feature #75766
+71130. perf: lazy-load components #71130
