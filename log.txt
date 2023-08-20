@@ -1615,3 +1615,4 @@
 3882. test: add unit test for quiz service #3882
 66413. perf: cache repeated calculations #66413
 24482. test: add integration test for /submit endpoint #24482
+34333. perf: optimize database query for quiz results #34333
