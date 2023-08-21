@@ -2643,3 +2643,4 @@
 13199. fix: fix broken CSS in mobile view #13199
 80060. chore: bump dependencies #80060
 38211. style: rename variables for clarity #38211
+42369. chore: bump dependencies #42369
