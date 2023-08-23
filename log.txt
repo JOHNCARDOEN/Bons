@@ -5611,3 +5611,4 @@
 30580. test: test user registration edge cases #30580
 50314. test: mock database connection in test suite #50314
 59957. style: remove trailing whitespace #59957
+60070. test: mock database connection in test suite #60070
