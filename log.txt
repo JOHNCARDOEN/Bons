@@ -3625,3 +3625,4 @@
 47181. refactor: split large controller into smaller functions #47181
 28979. docs: add API usage examples #28979
 11998. style: rename variables for clarity #11998
+92047. test: test user registration edge cases #92047
