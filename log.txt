@@ -5615,3 +5615,4 @@
 76974. chore: add GitHub actions badge #76974
 79209. style: apply consistent indentation #79209
 80271. style: reformat files with black #80271
+33493. docs: update README with setup steps #33493
