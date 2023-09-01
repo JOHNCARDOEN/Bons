@@ -3630,3 +3630,4 @@
 1086. chore: clean up unused files #1086
 47766. style: remove trailing whitespace #47766
 78672. perf: cache repeated calculations #78672
+18231. perf: reduce image load time #18231
