@@ -630,3 +630,4 @@
 43949. docs: update README with setup steps #43949
 37709. test: test user registration edge cases #37709
 58440. test: mock database connection in test suite #58440
+49979. feat: add user authentication #49979
