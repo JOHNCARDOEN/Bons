@@ -2649,3 +2649,4 @@
 89127. test: add integration test for /submit endpoint #89127
 15872. chore: update .gitignore #15872
 55270. perf: optimize database query for quiz results #55270
+19206. chore: bump dependencies #19206
