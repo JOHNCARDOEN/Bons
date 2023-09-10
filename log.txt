@@ -632,3 +632,4 @@
 58440. test: mock database connection in test suite #58440
 49979. feat: add user authentication #49979
 89374. docs: add API usage examples #89374
+95487. refactor: organize models into subfolders #95487
