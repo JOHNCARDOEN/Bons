@@ -5626,3 +5626,4 @@
 55180. fix: correct typo in registration form #55180
 69404. feat: create admin dashboard #69404
 43166. feat: create admin dashboard #43166
+1669. chore: add GitHub actions badge #1669
