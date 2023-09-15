@@ -5628,3 +5628,4 @@
 43166. feat: create admin dashboard #43166
 1669. chore: add GitHub actions badge #1669
 2813. fix: handle 500 error in quiz API #2813
+35369. test: mock database connection in test suite #35369
