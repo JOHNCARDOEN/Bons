@@ -1624,3 +1624,4 @@
 16996. perf: cache repeated calculations #16996
 15607. perf: lazy-load components #15607
 70490. test: add unit test for quiz service #70490
+84994. feat: add export to CSV option #84994
