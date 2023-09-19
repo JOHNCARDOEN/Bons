@@ -3639,3 +3639,4 @@
 40779. test: mock database connection in test suite #40779
 21569. chore: update .gitignore #21569
 58740. style: remove trailing whitespace #58740
+3429. style: apply consistent indentation #3429
