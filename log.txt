@@ -3638,3 +3638,4 @@
 66463. docs: clarify environment setup #66463
 40779. test: mock database connection in test suite #40779
 21569. chore: update .gitignore #21569
+58740. style: remove trailing whitespace #58740
