@@ -3640,3 +3640,4 @@
 21569. chore: update .gitignore #21569
 58740. style: remove trailing whitespace #58740
 3429. style: apply consistent indentation #3429
+99906. refactor: organize models into subfolders #99906
