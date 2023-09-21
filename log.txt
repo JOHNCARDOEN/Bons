@@ -1629,3 +1629,4 @@
 47900. fix: correct typo in registration form #47900
 28813. feat: add export to CSV option #28813
 11660. chore: clean up unused files #11660
+54514. style: reformat files with black #54514
