@@ -5631,3 +5631,4 @@
 35369. test: mock database connection in test suite #35369
 6294. docs: document token refresh logic #6294
 81339. style: standardize quote style #81339
+12783. perf: optimize database query for quiz results #12783
