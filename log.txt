@@ -5633,3 +5633,4 @@
 81339. style: standardize quote style #81339
 12783. perf: optimize database query for quiz results #12783
 62882. fix: correct typo in registration form #62882
+60450. chore: add GitHub actions badge #60450
