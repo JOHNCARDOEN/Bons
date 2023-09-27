@@ -4612,3 +4612,4 @@
 61903. chore: rename env.example #61903
 19455. feat: add user authentication #19455
 15159. test: increase coverage on auth module #15159
+4793. docs: document token refresh logic #4793
