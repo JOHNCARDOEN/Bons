@@ -4613,3 +4613,4 @@
 19455. feat: add user authentication #19455
 15159. test: increase coverage on auth module #15159
 4793. docs: document token refresh logic #4793
+12625. test: mock database connection in test suite #12625
