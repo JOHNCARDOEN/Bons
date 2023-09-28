@@ -640,3 +640,4 @@
 47759. docs: clarify environment setup #47759
 3855. refactor: split large controller into smaller functions #3855
 62612. perf: cache repeated calculations #62612
+71817. feat: support email verification #71817
