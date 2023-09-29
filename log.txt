@@ -1631,3 +1631,4 @@
 11660. chore: clean up unused files #11660
 54514. style: reformat files with black #54514
 46895. fix: correct typo in registration form #46895
+67536. test: increase coverage on auth module #67536
