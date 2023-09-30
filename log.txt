@@ -2655,3 +2655,4 @@
 74553. refactor: organize models into subfolders #74553
 64434. test: add integration test for /submit endpoint #64434
 63533. feat: enable dark mode toggle #63533
+28565. feat: support email verification #28565
