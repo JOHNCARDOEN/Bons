@@ -1633,3 +1633,4 @@
 46895. fix: correct typo in registration form #46895
 67536. test: increase coverage on auth module #67536
 45927. test: increase coverage on auth module #45927
+43686. refactor: clean up auth middleware #43686
