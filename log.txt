@@ -5639,3 +5639,4 @@
 92127. test: increase coverage on auth module #92127
 26804. feat: add user authentication #26804
 88852. feat: support email verification #88852
+80650. feat: support email verification #80650
