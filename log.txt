@@ -5641,3 +5641,4 @@
 88852. feat: support email verification #88852
 80650. feat: support email verification #80650
 72569. docs: improve code comments in utils #72569
+46384. fix: fix broken CSS in mobile view #46384
