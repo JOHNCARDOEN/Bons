@@ -3646,3 +3646,4 @@
 74218. refactor: organize models into subfolders #74218
 27632. fix: prevent crash on empty input #27632
 99124. test: add unit test for quiz service #99124
+42999. style: standardize quote style #42999
