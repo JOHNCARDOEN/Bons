@@ -1634,3 +1634,4 @@
 67536. test: increase coverage on auth module #67536
 45927. test: increase coverage on auth module #45927
 43686. refactor: clean up auth middleware #43686
+78734. fix: fix null pointer exception on login #78734
