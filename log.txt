@@ -1636,3 +1636,4 @@
 43686. refactor: clean up auth middleware #43686
 78734. fix: fix null pointer exception on login #78734
 94765. style: reformat files with black #94765
+87457. test: test user registration edge cases #87457
