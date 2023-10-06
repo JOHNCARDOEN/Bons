@@ -3649,3 +3649,4 @@
 42999. style: standardize quote style #42999
 83373. docs: update README with setup steps #83373
 73926. fix: fix null pointer exception on login #73926
+76006. test: increase coverage on auth module #76006
