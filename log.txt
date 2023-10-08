@@ -2659,3 +2659,4 @@
 53423. chore: bump dependencies #53423
 74577. style: apply consistent indentation #74577
 17828. feat: enable dark mode toggle #17828
+46818. refactor: organize models into subfolders #46818
