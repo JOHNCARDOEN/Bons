@@ -1638,3 +1638,4 @@
 94765. style: reformat files with black #94765
 87457. test: test user registration edge cases #87457
 59361. fix: correct typo in registration form #59361
+67387. refactor: split large controller into smaller functions #67387
