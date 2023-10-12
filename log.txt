@@ -2662,3 +2662,4 @@
 46818. refactor: organize models into subfolders #46818
 16673. test: test user registration edge cases #16673
 30964. fix: resolve issue with date parsing #30964
+69338. test: increase coverage on auth module #69338
