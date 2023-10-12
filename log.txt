@@ -4620,3 +4620,4 @@
 56631. chore: clean up unused files #56631
 68951. style: apply consistent indentation #68951
 13665. fix: prevent crash on empty input #13665
+2877. chore: add GitHub actions badge #2877
