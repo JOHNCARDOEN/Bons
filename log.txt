@@ -2664,3 +2664,4 @@
 30964. fix: resolve issue with date parsing #30964
 69338. test: increase coverage on auth module #69338
 78871. perf: reduce image load time #78871
+35824. fix: fix broken CSS in mobile view #35824
