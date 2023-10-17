@@ -2665,3 +2665,4 @@
 69338. test: increase coverage on auth module #69338
 78871. perf: reduce image load time #78871
 35824. fix: fix broken CSS in mobile view #35824
+65631. test: test user registration edge cases #65631
