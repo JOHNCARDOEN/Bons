@@ -2667,3 +2667,4 @@
 35824. fix: fix broken CSS in mobile view #35824
 65631. test: test user registration edge cases #65631
 27044. docs: update README with setup steps #27044
+82153. chore: update .gitignore #82153
