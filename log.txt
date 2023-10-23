@@ -5653,3 +5653,4 @@
 23116. style: rename variables for clarity #23116
 14070. style: reformat files with black #14070
 35398. style: remove trailing whitespace #35398
+27949. test: test user registration edge cases #27949
