@@ -648,3 +648,4 @@
 8293. test: test user registration edge cases #8293
 97885. chore: rename env.example #97885
 44069. chore: rename env.example #44069
+83255. fix: correct typo in registration form #83255
