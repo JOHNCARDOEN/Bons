@@ -649,3 +649,4 @@
 97885. chore: rename env.example #97885
 44069. chore: rename env.example #44069
 83255. fix: correct typo in registration form #83255
+46142. style: reformat files with black #46142
