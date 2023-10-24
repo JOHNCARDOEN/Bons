@@ -3654,3 +3654,4 @@
 85983. refactor: split large controller into smaller functions #85983
 92585. style: standardize quote style #92585
 88625. perf: reduce image load time #88625
+2678. test: add integration test for /submit endpoint #2678
