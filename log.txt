@@ -2668,3 +2668,4 @@
 65631. test: test user registration edge cases #65631
 27044. docs: update README with setup steps #27044
 82153. chore: update .gitignore #82153
+26640. perf: optimize database query for quiz results #26640
