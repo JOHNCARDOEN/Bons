@@ -4624,3 +4624,4 @@
 36012. test: mock database connection in test suite #36012
 34774. chore: clean up unused files #34774
 18256. chore: clean up unused files #18256
+98881. fix: prevent crash on empty input #98881
