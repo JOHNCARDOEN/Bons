@@ -3658,3 +3658,4 @@
 88834. test: add unit test for quiz service #88834
 50679. docs: update README with setup steps #50679
 69414. style: rename variables for clarity #69414
+54600. test: mock database connection in test suite #54600
