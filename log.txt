@@ -651,3 +651,4 @@
 83255. fix: correct typo in registration form #83255
 46142. style: reformat files with black #46142
 96683. chore: rename env.example #96683
+57575. test: add integration test for /submit endpoint #57575
