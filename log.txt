@@ -1654,3 +1654,4 @@
 70208. docs: document token refresh logic #70208
 87370. perf: optimize database query for quiz results #87370
 5888. refactor: split large controller into smaller functions #5888
+96370. test: test user registration edge cases #96370
