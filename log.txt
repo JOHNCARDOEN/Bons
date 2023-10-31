@@ -3661,3 +3661,4 @@
 54600. test: mock database connection in test suite #54600
 55266. perf: reduce image load time #55266
 42112. feat: create admin dashboard #42112
+57868. docs: write FAQ section #57868
