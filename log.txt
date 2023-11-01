@@ -3662,3 +3662,4 @@
 55266. perf: reduce image load time #55266
 42112. feat: create admin dashboard #42112
 57868. docs: write FAQ section #57868
+40352. fix: fix broken CSS in mobile view #40352
