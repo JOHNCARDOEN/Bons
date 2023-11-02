@@ -4626,3 +4626,4 @@
 18256. chore: clean up unused files #18256
 98881. fix: prevent crash on empty input #98881
 29713. test: mock database connection in test suite #29713
+39105. test: add integration test for /submit endpoint #39105
