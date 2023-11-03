@@ -654,3 +654,4 @@
 57575. test: add integration test for /submit endpoint #57575
 19330. feat: implement quiz timer feature #19330
 83991. perf: reduce image load time #83991
+52525. test: increase coverage on auth module #52525
