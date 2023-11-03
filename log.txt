@@ -5657,3 +5657,4 @@
 65038. fix: prevent crash on empty input #65038
 25107. style: apply consistent indentation #25107
 84362. style: remove trailing whitespace #84362
+22230. feat: add export to CSV option #22230
