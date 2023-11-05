@@ -2675,3 +2675,4 @@
 21689. refactor: clean up auth middleware #21689
 87578. style: standardize quote style #87578
 93049. docs: update README with setup steps #93049
+35362. docs: add API usage examples #35362
