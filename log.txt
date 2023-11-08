@@ -4629,3 +4629,4 @@
 39105. test: add integration test for /submit endpoint #39105
 94497. refactor: organize models into subfolders #94497
 45224. chore: rename env.example #45224
+12710. feat: add user authentication #12710
