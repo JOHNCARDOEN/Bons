@@ -656,3 +656,4 @@
 83991. perf: reduce image load time #83991
 52525. test: increase coverage on auth module #52525
 22825. style: remove trailing whitespace #22825
+84943. perf: lazy-load components #84943
