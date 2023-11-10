@@ -3665,3 +3665,4 @@
 40352. fix: fix broken CSS in mobile view #40352
 53699. docs: update README with setup steps #53699
 74783. refactor: refactor quiz grading logic #74783
+54126. perf: reduce image load time #54126
