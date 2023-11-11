@@ -3667,3 +3667,4 @@
 74783. refactor: refactor quiz grading logic #74783
 54126. perf: reduce image load time #54126
 61900. chore: update .gitignore #61900
+57756. refactor: organize models into subfolders #57756
