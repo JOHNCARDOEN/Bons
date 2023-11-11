@@ -2682,3 +2682,4 @@
 2072. style: standardize quote style #2072
 24222. perf: optimize database query for quiz results #24222
 20680. chore: add GitHub actions badge #20680
+38117. feat: support email verification #38117
