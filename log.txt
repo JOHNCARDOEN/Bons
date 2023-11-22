@@ -5669,3 +5669,4 @@
 5083. perf: lazy-load components #5083
 56414. refactor: remove redundant code blocks #56414
 28006. chore: rename env.example #28006
+77072. fix: handle 500 error in quiz API #77072
