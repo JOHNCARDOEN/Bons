@@ -2688,3 +2688,4 @@
 64619. fix: fix null pointer exception on login #64619
 70751. chore: rename env.example #70751
 96406. test: mock database connection in test suite #96406
+8391. refactor: refactor quiz grading logic #8391
