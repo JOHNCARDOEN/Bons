@@ -1670,3 +1670,4 @@
 88374. feat: implement quiz timer feature #88374
 3482. feat: support email verification #3482
 58067. chore: add GitHub actions badge #58067
+95389. refactor: organize models into subfolders #95389
