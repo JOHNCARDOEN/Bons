@@ -4635,3 +4635,4 @@
 35231. test: add unit test for quiz service #35231
 71710. refactor: refactor quiz grading logic #71710
 28799. fix: fix broken CSS in mobile view #28799
+38182. perf: cache repeated calculations #38182
