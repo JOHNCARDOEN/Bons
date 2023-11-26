@@ -667,3 +667,4 @@
 47076. chore: clean up unused files #47076
 96489. fix: handle 500 error in quiz API #96489
 80052. feat: create admin dashboard #80052
+24427. perf: cache repeated calculations #24427
