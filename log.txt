@@ -1673,3 +1673,4 @@
 95389. refactor: organize models into subfolders #95389
 32254. test: increase coverage on auth module #32254
 48046. perf: cache repeated calculations #48046
+13101. fix: fix null pointer exception on login #13101
