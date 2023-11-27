@@ -4637,3 +4637,4 @@
 28799. fix: fix broken CSS in mobile view #28799
 38182. perf: cache repeated calculations #38182
 88188. docs: clarify environment setup #88188
+44415. docs: document token refresh logic #44415
