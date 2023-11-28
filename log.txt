@@ -3670,3 +3670,4 @@
 57756. refactor: organize models into subfolders #57756
 17884. test: add integration test for /submit endpoint #17884
 2000. feat: create admin dashboard #2000
+20984. refactor: clean up auth middleware #20984
