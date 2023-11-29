@@ -4638,3 +4638,4 @@
 38182. perf: cache repeated calculations #38182
 88188. docs: clarify environment setup #88188
 44415. docs: document token refresh logic #44415
+63991. feat: support email verification #63991
