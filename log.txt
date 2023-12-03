@@ -5674,3 +5674,4 @@
 63223. feat: implement quiz timer feature #63223
 28025. docs: add API usage examples #28025
 40428. chore: update .gitignore #40428
+36716. perf: optimize database query for quiz results #36716
