@@ -1677,3 +1677,4 @@
 80355. test: increase coverage on auth module #80355
 27353. style: apply consistent indentation #27353
 89838. test: add integration test for /submit endpoint #89838
+15596. perf: optimize database query for quiz results #15596
