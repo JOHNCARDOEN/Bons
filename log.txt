@@ -672,3 +672,4 @@
 99047. chore: bump dependencies #99047
 91956. refactor: organize models into subfolders #91956
 78940. perf: cache repeated calculations #78940
+87799. fix: fix broken CSS in mobile view #87799
