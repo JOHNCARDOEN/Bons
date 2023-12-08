@@ -1680,3 +1680,4 @@
 15596. perf: optimize database query for quiz results #15596
 85658. refactor: remove redundant code blocks #85658
 67139. refactor: clean up auth middleware #67139
+28338. refactor: split large controller into smaller functions #28338
