@@ -4640,3 +4640,4 @@
 44415. docs: document token refresh logic #44415
 63991. feat: support email verification #63991
 37844. chore: add GitHub actions badge #37844
+73280. style: rename variables for clarity #73280
