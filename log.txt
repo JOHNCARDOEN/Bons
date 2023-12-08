@@ -5677,3 +5677,4 @@
 36716. perf: optimize database query for quiz results #36716
 23685. feat: add user authentication #23685
 46873. refactor: split large controller into smaller functions #46873
+84687. fix: fix null pointer exception on login #84687
