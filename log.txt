@@ -4642,3 +4642,4 @@
 37844. chore: add GitHub actions badge #37844
 73280. style: rename variables for clarity #73280
 91164. chore: add GitHub actions badge #91164
+71734. perf: lazy-load components #71734
