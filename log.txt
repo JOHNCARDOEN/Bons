@@ -1682,3 +1682,4 @@
 67139. refactor: clean up auth middleware #67139
 28338. refactor: split large controller into smaller functions #28338
 24718. perf: cache repeated calculations #24718
+2781. chore: clean up unused files #2781
