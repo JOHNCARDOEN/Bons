@@ -5678,3 +5678,4 @@
 23685. feat: add user authentication #23685
 46873. refactor: split large controller into smaller functions #46873
 84687. fix: fix null pointer exception on login #84687
+35315. test: add integration test for /submit endpoint #35315
