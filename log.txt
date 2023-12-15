@@ -3682,3 +3682,4 @@
 38942. fix: prevent crash on empty input #38942
 81302. test: add unit test for quiz service #81302
 21726. refactor: split large controller into smaller functions #21726
+96738. fix: fix broken CSS in mobile view #96738
