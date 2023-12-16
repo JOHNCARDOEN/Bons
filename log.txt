@@ -4646,3 +4646,4 @@
 12860. perf: reduce image load time #12860
 93970. refactor: clean up auth middleware #93970
 25397. fix: handle 500 error in quiz API #25397
+78671. fix: prevent crash on empty input #78671
