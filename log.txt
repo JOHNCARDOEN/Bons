@@ -5681,3 +5681,4 @@
 35315. test: add integration test for /submit endpoint #35315
 33339. docs: update README with setup steps #33339
 74453. refactor: split large controller into smaller functions #74453
+96738. fix: fix broken CSS in mobile view #96738
