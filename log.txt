@@ -2695,3 +2695,4 @@
 60945. perf: optimize database query for quiz results #60945
 30347. fix: handle 500 error in quiz API #30347
 75332. refactor: organize models into subfolders #75332
+51999. feat: add user authentication #51999
