@@ -3685,3 +3685,4 @@
 96738. fix: fix broken CSS in mobile view #96738
 77362. feat: add user authentication #77362
 16149. fix: fix null pointer exception on login #16149
+55293. test: increase coverage on auth module #55293
