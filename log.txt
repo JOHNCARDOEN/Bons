@@ -1688,3 +1688,4 @@
 52601. feat: create admin dashboard #52601
 26760. style: apply consistent indentation #26760
 52043. test: test user registration edge cases #52043
+78837. refactor: refactor quiz grading logic #78837
