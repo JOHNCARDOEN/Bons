@@ -5682,3 +5682,4 @@
 33339. docs: update README with setup steps #33339
 74453. refactor: split large controller into smaller functions #74453
 96738. fix: fix broken CSS in mobile view #96738
+79717. refactor: clean up auth middleware #79717
