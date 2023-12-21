@@ -1690,3 +1690,4 @@
 52043. test: test user registration edge cases #52043
 78837. refactor: refactor quiz grading logic #78837
 39701. fix: correct typo in registration form #39701
+67433. feat: add export to CSV option #67433
