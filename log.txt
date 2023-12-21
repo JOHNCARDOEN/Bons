@@ -4648,3 +4648,4 @@
 25397. fix: handle 500 error in quiz API #25397
 78671. fix: prevent crash on empty input #78671
 33955. feat: support email verification #33955
+86039. docs: add API usage examples #86039
