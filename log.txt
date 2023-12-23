@@ -3689,3 +3689,4 @@
 0623. refactor: refactor quiz grading logic #623
 0166. fix: fix null pointer exception on login #166
 85548. perf: optimize database query for quiz results #85548
+8648. fix: correct typo in registration form #8648
