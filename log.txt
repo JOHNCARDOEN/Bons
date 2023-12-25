@@ -3692,3 +3692,4 @@
 8648. fix: correct typo in registration form #8648
 22974. chore: bump dependencies #22974
 53573. refactor: organize models into subfolders #53573
+68241. refactor: clean up auth middleware #68241
