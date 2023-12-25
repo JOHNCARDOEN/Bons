@@ -4651,3 +4651,4 @@
 86039. docs: add API usage examples #86039
 53974. refactor: organize models into subfolders #53974
 37911. docs: update README with setup steps #37911
+75178. style: reformat files with black #75178
