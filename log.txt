@@ -2697,3 +2697,4 @@
 75332. refactor: organize models into subfolders #75332
 51999. feat: add user authentication #51999
 60828. style: remove trailing whitespace #60828
+76934. refactor: remove redundant code blocks #76934
