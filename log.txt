@@ -1692,3 +1692,4 @@
 39701. fix: correct typo in registration form #39701
 67433. feat: add export to CSV option #67433
 18490. docs: update README with setup steps #18490
+52770. test: test user registration edge cases #52770
