@@ -4657,3 +4657,4 @@
 55590. perf: cache repeated calculations #55590
 8179. fix: handle 500 error in quiz API #8179
 38603. test: add unit test for quiz service #38603
+2640. refactor: clean up auth middleware #2640
