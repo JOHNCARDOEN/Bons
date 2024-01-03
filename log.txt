@@ -2698,3 +2698,4 @@
 51999. feat: add user authentication #51999
 60828. style: remove trailing whitespace #60828
 76934. refactor: remove redundant code blocks #76934
+77432. refactor: split large controller into smaller functions #77432
