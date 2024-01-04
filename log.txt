@@ -5688,3 +5688,4 @@
 95443. style: standardize quote style #95443
 58364. refactor: clean up auth middleware #58364
 62528. chore: rename env.example #62528
+48131. fix: prevent crash on empty input #48131
