@@ -3696,3 +3696,4 @@
 77007. refactor: split large controller into smaller functions #77007
 14203. fix: fix null pointer exception on login #14203
 54371. refactor: clean up auth middleware #54371
+28584. fix: fix broken CSS in mobile view #28584
