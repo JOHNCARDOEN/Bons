@@ -5690,3 +5690,4 @@
 62528. chore: rename env.example #62528
 48131. fix: prevent crash on empty input #48131
 59749. refactor: refactor quiz grading logic #59749
+63519. fix: prevent crash on empty input #63519
