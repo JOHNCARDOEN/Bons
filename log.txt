@@ -3699,3 +3699,4 @@
 28584. fix: fix broken CSS in mobile view #28584
 81114. perf: reduce image load time #81114
 84493. refactor: organize models into subfolders #84493
+79942. docs: document token refresh logic #79942
