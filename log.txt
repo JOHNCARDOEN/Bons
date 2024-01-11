@@ -685,3 +685,4 @@
 89515. docs: write FAQ section #89515
 30507. style: standardize quote style #30507
 26141. fix: fix null pointer exception on login #26141
+52062. refactor: organize models into subfolders #52062
