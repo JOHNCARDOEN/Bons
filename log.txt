@@ -2705,3 +2705,4 @@
 76510. refactor: remove redundant code blocks #76510
 15862. chore: add GitHub actions badge #15862
 29150. style: rename variables for clarity #29150
+71278. test: increase coverage on auth module #71278
