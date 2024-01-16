@@ -4667,3 +4667,4 @@
 19263. fix: fix broken CSS in mobile view #19263
 19542. perf: cache repeated calculations #19542
 26402. fix: resolve issue with date parsing #26402
+89913. docs: write FAQ section #89913
