@@ -3707,3 +3707,4 @@
 97840. refactor: split large controller into smaller functions #97840
 83872. chore: bump dependencies #83872
 91203. style: apply consistent indentation #91203
+79904. perf: reduce image load time #79904
