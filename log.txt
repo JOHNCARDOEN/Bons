@@ -1702,3 +1702,4 @@
 79344. fix: prevent crash on empty input #79344
 96737. chore: rename env.example #96737
 24546. docs: clarify environment setup #24546
+32742. fix: prevent crash on empty input #32742
