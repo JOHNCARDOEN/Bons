@@ -693,3 +693,4 @@
 13540. docs: update README with setup steps #13540
 63264. perf: optimize database query for quiz results #63264
 22480. style: standardize quote style #22480
+55705. chore: update .gitignore #55705
