@@ -2714,3 +2714,4 @@
 3922. perf: cache repeated calculations #3922
 3960. fix: handle 500 error in quiz API #3960
 16835. chore: add GitHub actions badge #16835
+32981. refactor: clean up auth middleware #32981
