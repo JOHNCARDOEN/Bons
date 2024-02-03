@@ -3712,3 +3712,4 @@
 66254. feat: create admin dashboard #66254
 20910. fix: handle 500 error in quiz API #20910
 75145. style: reformat files with black #75145
+27148. chore: update .gitignore #27148
