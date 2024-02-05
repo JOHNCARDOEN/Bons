@@ -698,3 +698,4 @@
 0765. test: add unit test for quiz service #765
 87481. style: reformat files with black #87481
 64469. test: add integration test for /submit endpoint #64469
+85914. perf: optimize database query for quiz results #85914
