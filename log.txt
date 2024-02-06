@@ -5704,3 +5704,4 @@
 62220. chore: clean up unused files #62220
 67561. style: reformat files with black #67561
 0191. feat: enable dark mode toggle #191
+66285. feat: create admin dashboard #66285
