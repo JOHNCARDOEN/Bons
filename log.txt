@@ -5705,3 +5705,4 @@
 67561. style: reformat files with black #67561
 0191. feat: enable dark mode toggle #191
 66285. feat: create admin dashboard #66285
+46626. style: apply consistent indentation #46626
