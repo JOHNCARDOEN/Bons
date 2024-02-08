@@ -701,3 +701,4 @@
 85914. perf: optimize database query for quiz results #85914
 47600. feat: implement quiz timer feature #47600
 24680. feat: enable dark mode toggle #24680
+66546. fix: fix null pointer exception on login #66546
