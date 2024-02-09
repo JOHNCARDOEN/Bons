@@ -3714,3 +3714,4 @@
 75145. style: reformat files with black #75145
 27148. chore: update .gitignore #27148
 22500. docs: add API usage examples #22500
+30710. perf: cache repeated calculations #30710
