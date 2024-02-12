@@ -705,3 +705,4 @@
 84055. chore: add GitHub actions badge #84055
 90336. perf: reduce image load time #90336
 15121. chore: update .gitignore #15121
+49201. style: apply consistent indentation #49201
