@@ -2717,3 +2717,4 @@
 32981. refactor: clean up auth middleware #32981
 20822. feat: support email verification #20822
 94489. style: remove trailing whitespace #94489
+22936. perf: reduce image load time #22936
