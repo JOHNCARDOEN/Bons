@@ -707,3 +707,4 @@
 15121. chore: update .gitignore #15121
 49201. style: apply consistent indentation #49201
 9235. fix: fix null pointer exception on login #9235
+61597. test: increase coverage on auth module #61597
