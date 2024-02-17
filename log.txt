@@ -2718,3 +2718,4 @@
 20822. feat: support email verification #20822
 94489. style: remove trailing whitespace #94489
 22936. perf: reduce image load time #22936
+79476. fix: prevent crash on empty input #79476
