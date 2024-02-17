@@ -5710,3 +5710,4 @@
 70398. refactor: split large controller into smaller functions #70398
 79758. style: reformat files with black #79758
 21665. test: add integration test for /submit endpoint #21665
+26163. docs: document token refresh logic #26163
