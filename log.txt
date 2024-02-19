@@ -3716,3 +3716,4 @@
 22500. docs: add API usage examples #22500
 30710. perf: cache repeated calculations #30710
 37802. chore: bump dependencies #37802
+42956. test: increase coverage on auth module #42956
