@@ -709,3 +709,4 @@
 9235. fix: fix null pointer exception on login #9235
 61597. test: increase coverage on auth module #61597
 42704. chore: bump dependencies #42704
+19481. refactor: organize models into subfolders #19481
