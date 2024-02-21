@@ -3717,3 +3717,4 @@
 30710. perf: cache repeated calculations #30710
 37802. chore: bump dependencies #37802
 42956. test: increase coverage on auth module #42956
+16905. fix: fix broken CSS in mobile view #16905
