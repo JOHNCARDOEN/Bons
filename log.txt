@@ -4673,3 +4673,4 @@
 46208. fix: prevent crash on empty input #46208
 16908. feat: add user authentication #16908
 47764. docs: update README with setup steps #47764
+60315. refactor: organize models into subfolders #60315
