@@ -3719,3 +3719,4 @@
 42956. test: increase coverage on auth module #42956
 16905. fix: fix broken CSS in mobile view #16905
 7456. refactor: remove redundant code blocks #7456
+64575. test: test user registration edge cases #64575
