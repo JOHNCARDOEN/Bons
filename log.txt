@@ -5718,3 +5718,4 @@
 80800. test: add unit test for quiz service #80800
 63021. refactor: remove redundant code blocks #63021
 41418. style: remove trailing whitespace #41418
+59384. feat: add user authentication #59384
