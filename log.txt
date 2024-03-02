@@ -4678,3 +4678,4 @@
 78132. perf: optimize database query for quiz results #78132
 34185. style: rename variables for clarity #34185
 50929. feat: support email verification #50929
+92750. refactor: clean up auth middleware #92750
