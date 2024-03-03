@@ -1716,3 +1716,4 @@
 73763. feat: support email verification #73763
 71423. chore: bump dependencies #71423
 10341. fix: fix broken CSS in mobile view #10341
+76314. refactor: clean up auth middleware #76314
