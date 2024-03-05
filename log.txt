@@ -5720,3 +5720,4 @@
 41418. style: remove trailing whitespace #41418
 59384. feat: add user authentication #59384
 75003. feat: add user authentication #75003
+20528. fix: correct typo in registration form #20528
