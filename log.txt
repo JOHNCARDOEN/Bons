@@ -5721,3 +5721,4 @@
 59384. feat: add user authentication #59384
 75003. feat: add user authentication #75003
 20528. fix: correct typo in registration form #20528
+92750. refactor: clean up auth middleware #92750
