@@ -1718,3 +1718,4 @@
 10341. fix: fix broken CSS in mobile view #10341
 76314. refactor: clean up auth middleware #76314
 83619. refactor: refactor quiz grading logic #83619
+40225. perf: reduce image load time #40225
