@@ -4683,3 +4683,4 @@
 28872. chore: clean up unused files #28872
 4552. feat: enable dark mode toggle #4552
 19503. chore: clean up unused files #19503
+97953. style: rename variables for clarity #97953
