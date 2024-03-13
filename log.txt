@@ -3730,3 +3730,4 @@
 23656. docs: clarify environment setup #23656
 18195. docs: update README with setup steps #18195
 58243. refactor: refactor quiz grading logic #58243
+57560. feat: support email verification #57560
