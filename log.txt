@@ -3728,3 +3728,4 @@
 51514. chore: rename env.example #51514
 79952. fix: correct typo in registration form #79952
 23656. docs: clarify environment setup #23656
+18195. docs: update README with setup steps #18195
