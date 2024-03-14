@@ -5722,3 +5722,4 @@
 75003. feat: add user authentication #75003
 20528. fix: correct typo in registration form #20528
 92750. refactor: clean up auth middleware #92750
+12487. refactor: split large controller into smaller functions #12487
