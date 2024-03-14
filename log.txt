@@ -5723,3 +5723,4 @@
 20528. fix: correct typo in registration form #20528
 92750. refactor: clean up auth middleware #92750
 12487. refactor: split large controller into smaller functions #12487
+98410. feat: create admin dashboard #98410
