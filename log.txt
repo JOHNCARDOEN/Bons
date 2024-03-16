@@ -716,3 +716,4 @@
 73244. test: mock database connection in test suite #73244
 59944. feat: create admin dashboard #59944
 36386. style: reformat files with black #36386
+12592. style: standardize quote style #12592
