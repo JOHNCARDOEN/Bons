@@ -2733,3 +2733,4 @@
 26363. feat: implement quiz timer feature #26363
 94082. refactor: refactor quiz grading logic #94082
 42439. docs: write FAQ section #42439
+91018. perf: lazy-load components #91018
