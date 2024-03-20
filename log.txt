@@ -5727,3 +5727,4 @@
 79056. fix: resolve issue with date parsing #79056
 29049. chore: clean up unused files #29049
 70138. perf: cache repeated calculations #70138
+97944. perf: lazy-load components #97944
