@@ -4690,3 +4690,4 @@
 69100. style: rename variables for clarity #69100
 67699. fix: fix broken CSS in mobile view #67699
 67780. chore: clean up unused files #67780
+30642. fix: handle 500 error in quiz API #30642
