@@ -4693,3 +4693,4 @@
 30642. fix: handle 500 error in quiz API #30642
 50360. test: add integration test for /submit endpoint #50360
 27992. chore: rename env.example #27992
+52658. test: increase coverage on auth module #52658
