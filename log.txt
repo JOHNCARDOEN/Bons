@@ -4691,3 +4691,4 @@
 67699. fix: fix broken CSS in mobile view #67699
 67780. chore: clean up unused files #67780
 30642. fix: handle 500 error in quiz API #30642
+50360. test: add integration test for /submit endpoint #50360
