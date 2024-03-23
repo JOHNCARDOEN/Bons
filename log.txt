@@ -5729,3 +5729,4 @@
 70138. perf: cache repeated calculations #70138
 97944. perf: lazy-load components #97944
 88992. docs: document token refresh logic #88992
+23580. chore: update .gitignore #23580
