@@ -4694,3 +4694,4 @@
 50360. test: add integration test for /submit endpoint #50360
 27992. chore: rename env.example #27992
 52658. test: increase coverage on auth module #52658
+70525. perf: lazy-load components #70525
