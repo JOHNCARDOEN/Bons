@@ -5730,3 +5730,4 @@
 97944. perf: lazy-load components #97944
 88992. docs: document token refresh logic #88992
 23580. chore: update .gitignore #23580
+15027. feat: add user authentication #15027
