@@ -721,3 +721,4 @@
 55101. docs: document token refresh logic #55101
 23909. docs: update README with setup steps #23909
 73504. style: apply consistent indentation #73504
+54338. test: test user registration edge cases #54338
