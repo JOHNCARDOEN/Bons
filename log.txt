@@ -3739,3 +3739,4 @@
 8766. perf: optimize database query for quiz results #8766
 65445. feat: support email verification #65445
 16484. refactor: clean up auth middleware #16484
+8697. test: add integration test for /submit endpoint #8697
