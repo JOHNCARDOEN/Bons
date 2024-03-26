@@ -1725,3 +1725,4 @@
 68903. perf: cache repeated calculations #68903
 49110. feat: implement quiz timer feature #49110
 20414. test: test user registration edge cases #20414
+42786. feat: add export to CSV option #42786
