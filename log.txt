@@ -3740,3 +3740,4 @@
 65445. feat: support email verification #65445
 16484. refactor: clean up auth middleware #16484
 8697. test: add integration test for /submit endpoint #8697
+26865. style: remove trailing whitespace #26865
