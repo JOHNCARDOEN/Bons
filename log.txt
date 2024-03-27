@@ -2736,3 +2736,4 @@
 91018. perf: lazy-load components #91018
 43714. chore: add GitHub actions badge #43714
 95832. feat: create admin dashboard #95832
+34932. feat: enable dark mode toggle #34932
