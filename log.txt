@@ -4697,3 +4697,4 @@
 70525. perf: lazy-load components #70525
 14852. docs: update README with setup steps #14852
 99226. feat: create admin dashboard #99226
+88573. refactor: organize models into subfolders #88573
