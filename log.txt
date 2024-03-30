@@ -2738,3 +2738,4 @@
 95832. feat: create admin dashboard #95832
 34932. feat: enable dark mode toggle #34932
 67547. style: standardize quote style #67547
+74838. style: apply consistent indentation #74838
