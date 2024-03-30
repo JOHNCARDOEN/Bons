@@ -5733,3 +5733,4 @@
 15027. feat: add user authentication #15027
 25330. feat: support email verification #25330
 18247. test: test user registration edge cases #18247
+10773. refactor: clean up auth middleware #10773
