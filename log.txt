@@ -3743,3 +3743,4 @@
 26865. style: remove trailing whitespace #26865
 87705. chore: rename env.example #87705
 17091. fix: correct typo in registration form #17091
+58320. docs: clarify environment setup #58320
