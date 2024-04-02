@@ -5734,3 +5734,4 @@
 25330. feat: support email verification #25330
 18247. test: test user registration edge cases #18247
 10773. refactor: clean up auth middleware #10773
+92606. refactor: remove redundant code blocks #92606
