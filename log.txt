@@ -2741,3 +2741,4 @@
 74838. style: apply consistent indentation #74838
 82882. style: apply consistent indentation #82882
 18152. docs: add API usage examples #18152
+65550. feat: enable dark mode toggle #65550
