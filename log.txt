@@ -727,3 +727,4 @@
 86802. style: standardize quote style #86802
 58626. style: rename variables for clarity #58626
 69620. perf: reduce image load time #69620
+78994. chore: rename env.example #78994
