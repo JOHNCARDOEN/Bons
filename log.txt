@@ -2743,3 +2743,4 @@
 18152. docs: add API usage examples #18152
 65550. feat: enable dark mode toggle #65550
 94746. style: remove trailing whitespace #94746
+22498. style: standardize quote style #22498
