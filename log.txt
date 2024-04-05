@@ -3747,3 +3747,4 @@
 33818. chore: clean up unused files #33818
 34598. style: reformat files with black #34598
 79078. perf: reduce image load time #79078
+53894. fix: correct typo in registration form #53894
