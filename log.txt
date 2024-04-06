@@ -4702,3 +4702,4 @@
 88232. style: apply consistent indentation #88232
 33118. chore: add GitHub actions badge #33118
 47715. refactor: clean up auth middleware #47715
+40849. feat: support email verification #40849
