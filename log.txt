@@ -4705,3 +4705,4 @@
 40849. feat: support email verification #40849
 4021. feat: create admin dashboard #4021
 56337. test: add integration test for /submit endpoint #56337
+97635. chore: add GitHub actions badge #97635
