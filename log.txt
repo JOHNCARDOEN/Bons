@@ -1727,3 +1727,4 @@
 20414. test: test user registration edge cases #20414
 42786. feat: add export to CSV option #42786
 39684. docs: update README with setup steps #39684
+79392. chore: clean up unused files #79392
