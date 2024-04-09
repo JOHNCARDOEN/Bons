@@ -1730,3 +1730,4 @@
 79392. chore: clean up unused files #79392
 15484. refactor: clean up auth middleware #15484
 20151. chore: update .gitignore #20151
+8478. fix: handle 500 error in quiz API #8478
