@@ -3749,3 +3749,4 @@
 79078. perf: reduce image load time #79078
 53894. fix: correct typo in registration form #53894
 93124. perf: optimize database query for quiz results #93124
+57349. test: test user registration edge cases #57349
