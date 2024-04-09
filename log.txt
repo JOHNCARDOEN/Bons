@@ -1729,3 +1729,4 @@
 39684. docs: update README with setup steps #39684
 79392. chore: clean up unused files #79392
 15484. refactor: clean up auth middleware #15484
+20151. chore: update .gitignore #20151
