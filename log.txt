@@ -1732,3 +1732,4 @@
 20151. chore: update .gitignore #20151
 8478. fix: handle 500 error in quiz API #8478
 57281. refactor: clean up auth middleware #57281
+30152. feat: add user authentication #30152
