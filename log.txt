@@ -3751,3 +3751,4 @@
 93124. perf: optimize database query for quiz results #93124
 57349. test: test user registration edge cases #57349
 85030. feat: add user authentication #85030
+46119. test: add unit test for quiz service #46119
