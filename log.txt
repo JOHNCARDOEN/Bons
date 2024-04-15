@@ -1733,3 +1733,4 @@
 8478. fix: handle 500 error in quiz API #8478
 57281. refactor: clean up auth middleware #57281
 30152. feat: add user authentication #30152
+65593. chore: add GitHub actions badge #65593
