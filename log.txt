@@ -733,3 +733,4 @@
 58988. feat: create admin dashboard #58988
 53551. refactor: refactor quiz grading logic #53551
 56288. feat: add export to CSV option #56288
+48930. chore: update .gitignore #48930
