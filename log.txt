@@ -4710,3 +4710,4 @@
 95829. style: remove trailing whitespace #95829
 90780. refactor: split large controller into smaller functions #90780
 3250. perf: lazy-load components #3250
+6532. test: increase coverage on auth module #6532
