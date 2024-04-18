@@ -3752,3 +3752,4 @@
 57349. test: test user registration edge cases #57349
 85030. feat: add user authentication #85030
 46119. test: add unit test for quiz service #46119
+79406. refactor: organize models into subfolders #79406
