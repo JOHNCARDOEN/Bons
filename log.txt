@@ -2754,3 +2754,4 @@
 11682. style: remove trailing whitespace #11682
 47195. chore: add GitHub actions badge #47195
 89554. fix: fix null pointer exception on login #89554
+15124. feat: support email verification #15124
