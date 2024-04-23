@@ -735,3 +735,4 @@
 56288. feat: add export to CSV option #56288
 48930. chore: update .gitignore #48930
 94126. perf: cache repeated calculations #94126
+24868. perf: optimize database query for quiz results #24868
