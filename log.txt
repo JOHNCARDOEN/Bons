@@ -5745,3 +5745,4 @@
 16467. perf: optimize database query for quiz results #16467
 99290. docs: document token refresh logic #99290
 86521. docs: document token refresh logic #86521
+81422. chore: add GitHub actions badge #81422
