@@ -1736,3 +1736,4 @@
 65593. chore: add GitHub actions badge #65593
 80329. docs: write FAQ section #80329
 68656. refactor: remove redundant code blocks #68656
+70875. docs: document token refresh logic #70875
