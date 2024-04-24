@@ -737,3 +737,4 @@
 94126. perf: cache repeated calculations #94126
 24868. perf: optimize database query for quiz results #24868
 84416. fix: resolve issue with date parsing #84416
+41103. test: increase coverage on auth module #41103
