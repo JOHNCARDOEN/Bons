@@ -4719,3 +4719,4 @@
 44753. docs: add API usage examples #44753
 89541. refactor: remove redundant code blocks #89541
 93723. docs: clarify environment setup #93723
+81614. fix: prevent crash on empty input #81614
