@@ -740,3 +740,4 @@
 41103. test: increase coverage on auth module #41103
 16372. test: increase coverage on auth module #16372
 4974. perf: lazy-load components #4974
+56246. feat: enable dark mode toggle #56246
