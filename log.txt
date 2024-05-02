@@ -5746,3 +5746,4 @@
 99290. docs: document token refresh logic #99290
 86521. docs: document token refresh logic #86521
 81422. chore: add GitHub actions badge #81422
+6166. style: remove trailing whitespace #6166
