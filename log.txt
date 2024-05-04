@@ -5747,3 +5747,4 @@
 86521. docs: document token refresh logic #86521
 81422. chore: add GitHub actions badge #81422
 6166. style: remove trailing whitespace #6166
+77493. fix: fix null pointer exception on login #77493
