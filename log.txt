@@ -2761,3 +2761,4 @@
 10482. chore: bump dependencies #10482
 18817. test: add unit test for quiz service #18817
 23543. test: test user registration edge cases #23543
+59690. fix: correct typo in registration form #59690
