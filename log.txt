@@ -3762,3 +3762,4 @@
 55034. chore: add GitHub actions badge #55034
 68620. refactor: clean up auth middleware #68620
 18577. docs: add API usage examples #18577
+80690. feat: create admin dashboard #80690
