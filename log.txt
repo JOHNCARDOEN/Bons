@@ -3763,3 +3763,4 @@
 68620. refactor: clean up auth middleware #68620
 18577. docs: add API usage examples #18577
 80690. feat: create admin dashboard #80690
+37419. test: add unit test for quiz service #37419
