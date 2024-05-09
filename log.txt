@@ -5748,3 +5748,4 @@
 81422. chore: add GitHub actions badge #81422
 6166. style: remove trailing whitespace #6166
 77493. fix: fix null pointer exception on login #77493
+87153. fix: fix broken CSS in mobile view #87153
