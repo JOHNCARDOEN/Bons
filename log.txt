@@ -4722,3 +4722,4 @@
 81614. fix: prevent crash on empty input #81614
 63593. test: add integration test for /submit endpoint #63593
 91595. perf: reduce image load time #91595
+72309. test: add integration test for /submit endpoint #72309
