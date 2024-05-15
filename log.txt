@@ -3765,3 +3765,4 @@
 80690. feat: create admin dashboard #80690
 37419. test: add unit test for quiz service #37419
 72465. style: standardize quote style #72465
+19192. refactor: refactor quiz grading logic #19192
