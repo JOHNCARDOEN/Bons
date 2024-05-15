@@ -4726,3 +4726,4 @@
 42491. test: mock database connection in test suite #42491
 9609. style: apply consistent indentation #9609
 56354. style: remove trailing whitespace #56354
+69867. fix: prevent crash on empty input #69867
