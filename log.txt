@@ -753,3 +753,4 @@
 20766. fix: resolve issue with date parsing #20766
 3754. docs: write FAQ section #3754
 92690. docs: clarify environment setup #92690
+62736. test: test user registration edge cases #62736
