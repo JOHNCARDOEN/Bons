@@ -755,3 +755,4 @@
 92690. docs: clarify environment setup #92690
 62736. test: test user registration edge cases #62736
 5293. style: apply consistent indentation #5293
+71460. fix: handle 500 error in quiz API #71460
