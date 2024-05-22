@@ -2766,3 +2766,4 @@
 51823. chore: clean up unused files #51823
 51996. feat: create admin dashboard #51996
 29378. fix: resolve issue with date parsing #29378
+15736. feat: support email verification #15736
