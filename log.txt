@@ -3768,3 +3768,4 @@
 19192. refactor: refactor quiz grading logic #19192
 4207. refactor: organize models into subfolders #4207
 14667. style: apply consistent indentation #14667
+24352. test: add unit test for quiz service #24352
