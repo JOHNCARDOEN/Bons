@@ -759,3 +759,4 @@
 98783. fix: prevent crash on empty input #98783
 83040. fix: resolve issue with date parsing #83040
 92119. perf: optimize database query for quiz results #92119
+13711. fix: prevent crash on empty input #13711
