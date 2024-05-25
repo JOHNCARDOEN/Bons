@@ -1744,3 +1744,4 @@
 24090. chore: add GitHub actions badge #24090
 49067. chore: bump dependencies #49067
 87790. refactor: remove redundant code blocks #87790
+94712. test: mock database connection in test suite #94712
