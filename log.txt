@@ -2769,3 +2769,4 @@
 15736. feat: support email verification #15736
 19994. test: test user registration edge cases #19994
 45981. perf: reduce image load time #45981
+67481. refactor: refactor quiz grading logic #67481
