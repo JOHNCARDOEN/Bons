@@ -5758,3 +5758,4 @@
 9892. chore: bump dependencies #9892
 36836. perf: lazy-load components #36836
 30587. fix: fix null pointer exception on login #30587
+37169. refactor: clean up auth middleware #37169
