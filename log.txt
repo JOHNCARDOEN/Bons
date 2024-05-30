@@ -1746,3 +1746,4 @@
 87790. refactor: remove redundant code blocks #87790
 94712. test: mock database connection in test suite #94712
 14178. refactor: remove redundant code blocks #14178
+21484. docs: document token refresh logic #21484
