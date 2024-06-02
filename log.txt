@@ -5761,3 +5761,4 @@
 37169. refactor: clean up auth middleware #37169
 8930. refactor: remove redundant code blocks #8930
 74821. test: increase coverage on auth module #74821
+41136. perf: lazy-load components #41136
