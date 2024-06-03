@@ -2773,3 +2773,4 @@
 45411. fix: correct typo in registration form #45411
 50065. fix: correct typo in registration form #50065
 23545. fix: prevent crash on empty input #23545
+26476. test: add unit test for quiz service #26476
