@@ -3771,3 +3771,4 @@
 24352. test: add unit test for quiz service #24352
 36840. chore: rename env.example #36840
 90987. fix: resolve issue with date parsing #90987
+14812. test: increase coverage on auth module #14812
