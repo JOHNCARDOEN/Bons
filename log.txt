@@ -2776,3 +2776,4 @@
 26476. test: add unit test for quiz service #26476
 51290. test: add integration test for /submit endpoint #51290
 71299. fix: fix null pointer exception on login #71299
+8147. fix: correct typo in registration form #8147
