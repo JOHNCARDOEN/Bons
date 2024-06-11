@@ -2778,3 +2778,4 @@
 71299. fix: fix null pointer exception on login #71299
 8147. fix: correct typo in registration form #8147
 45173. chore: update .gitignore #45173
+3885. refactor: clean up auth middleware #3885
