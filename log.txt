@@ -4737,3 +4737,4 @@
 28324. chore: bump dependencies #28324
 72661. refactor: organize models into subfolders #72661
 80939. chore: bump dependencies #80939
+35068. chore: add GitHub actions badge #35068
