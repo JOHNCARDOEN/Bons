@@ -1756,3 +1756,4 @@
 29852. fix: fix broken CSS in mobile view #29852
 46996. feat: enable dark mode toggle #46996
 75107. chore: rename env.example #75107
+82681. feat: enable dark mode toggle #82681
