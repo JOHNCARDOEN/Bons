@@ -3777,3 +3777,4 @@
 18674. fix: fix broken CSS in mobile view #18674
 45018. refactor: organize models into subfolders #45018
 26951. refactor: organize models into subfolders #26951
+13238. fix: handle 500 error in quiz API #13238
