@@ -3781,3 +3781,4 @@
 64251. fix: fix null pointer exception on login #64251
 0087. refactor: split large controller into smaller functions #87
 57955. docs: improve code comments in utils #57955
+68986. perf: optimize database query for quiz results #68986
