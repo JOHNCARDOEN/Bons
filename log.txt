@@ -768,3 +768,4 @@
 46864. style: reformat files with black #46864
 38496. fix: fix broken CSS in mobile view #38496
 22755. refactor: split large controller into smaller functions #22755
+64903. refactor: organize models into subfolders #64903
