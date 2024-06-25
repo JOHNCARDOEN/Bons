@@ -769,3 +769,4 @@
 38496. fix: fix broken CSS in mobile view #38496
 22755. refactor: split large controller into smaller functions #22755
 64903. refactor: organize models into subfolders #64903
+75803. refactor: remove redundant code blocks #75803
