@@ -1760,3 +1760,4 @@
 7955. docs: document token refresh logic #7955
 9125. style: apply consistent indentation #9125
 27197. test: increase coverage on auth module #27197
+77646. fix: handle 500 error in quiz API #77646
