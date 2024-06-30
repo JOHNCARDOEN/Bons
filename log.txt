@@ -3784,3 +3784,4 @@
 68986. perf: optimize database query for quiz results #68986
 89694. chore: bump dependencies #89694
 6943. docs: add API usage examples #6943
+48969. fix: prevent crash on empty input #48969
