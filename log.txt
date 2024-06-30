@@ -3785,3 +3785,4 @@
 89694. chore: bump dependencies #89694
 6943. docs: add API usage examples #6943
 48969. fix: prevent crash on empty input #48969
+51136. fix: handle 500 error in quiz API #51136
