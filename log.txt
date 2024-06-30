@@ -5769,3 +5769,4 @@
 28495. refactor: organize models into subfolders #28495
 9458. refactor: organize models into subfolders #9458
 72057. chore: update .gitignore #72057
+39550. feat: support email verification #39550
