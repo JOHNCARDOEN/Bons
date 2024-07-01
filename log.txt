@@ -3786,3 +3786,4 @@
 6943. docs: add API usage examples #6943
 48969. fix: prevent crash on empty input #48969
 51136. fix: handle 500 error in quiz API #51136
+66556. refactor: split large controller into smaller functions #66556
