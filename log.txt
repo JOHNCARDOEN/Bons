@@ -4744,3 +4744,4 @@
 96188. test: test user registration edge cases #96188
 48659. feat: implement quiz timer feature #48659
 11967. perf: cache repeated calculations #11967
+80097. test: add unit test for quiz service #80097
