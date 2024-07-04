@@ -1766,3 +1766,4 @@
 70785. docs: improve code comments in utils #70785
 6058. style: apply consistent indentation #6058
 72887. style: reformat files with black #72887
+46219. fix: fix null pointer exception on login #46219
