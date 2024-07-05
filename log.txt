@@ -771,3 +771,4 @@
 64903. refactor: organize models into subfolders #64903
 75803. refactor: remove redundant code blocks #75803
 50915. test: mock database connection in test suite #50915
+54432. fix: resolve issue with date parsing #54432
