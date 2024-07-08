@@ -1768,3 +1768,4 @@
 72887. style: reformat files with black #72887
 46219. fix: fix null pointer exception on login #46219
 51884. refactor: clean up auth middleware #51884
+52978. docs: update README with setup steps #52978
