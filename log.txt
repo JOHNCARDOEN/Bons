@@ -4748,3 +4748,4 @@
 1138. feat: support email verification #1138
 37966. docs: write FAQ section #37966
 51380. test: add unit test for quiz service #51380
+64733. style: reformat files with black #64733
