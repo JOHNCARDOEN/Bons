@@ -774,3 +774,4 @@
 54432. fix: resolve issue with date parsing #54432
 85854. style: apply consistent indentation #85854
 26751. perf: optimize database query for quiz results #26751
+14274. test: mock database connection in test suite #14274
