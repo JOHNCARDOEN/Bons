@@ -775,3 +775,4 @@
 85854. style: apply consistent indentation #85854
 26751. perf: optimize database query for quiz results #26751
 14274. test: mock database connection in test suite #14274
+7913. docs: document token refresh logic #7913
