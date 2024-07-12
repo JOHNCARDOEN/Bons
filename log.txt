@@ -1771,3 +1771,4 @@
 52978. docs: update README with setup steps #52978
 6015. feat: enable dark mode toggle #6015
 21388. refactor: clean up auth middleware #21388
+99220. chore: bump dependencies #99220
