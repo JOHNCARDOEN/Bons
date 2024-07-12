@@ -2786,3 +2786,4 @@
 91170. perf: reduce image load time #91170
 89843. chore: bump dependencies #89843
 98966. style: reformat files with black #98966
+8292. fix: correct typo in registration form #8292
