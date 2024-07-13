@@ -3789,3 +3789,4 @@
 66556. refactor: split large controller into smaller functions #66556
 30327. feat: enable dark mode toggle #30327
 65735. chore: rename env.example #65735
+0496. chore: add GitHub actions badge #496
