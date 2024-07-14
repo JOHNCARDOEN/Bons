@@ -5777,3 +5777,4 @@
 25744. docs: document token refresh logic #25744
 48353. chore: bump dependencies #48353
 43069. fix: fix broken CSS in mobile view #43069
+44461. chore: add GitHub actions badge #44461
