@@ -2787,3 +2787,4 @@
 89843. chore: bump dependencies #89843
 98966. style: reformat files with black #98966
 8292. fix: correct typo in registration form #8292
+77754. refactor: organize models into subfolders #77754
