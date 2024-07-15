@@ -3791,3 +3791,4 @@
 65735. chore: rename env.example #65735
 0496. chore: add GitHub actions badge #496
 21520. feat: create admin dashboard #21520
+58903. refactor: organize models into subfolders #58903
