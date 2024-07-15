@@ -778,3 +778,4 @@
 7913. docs: document token refresh logic #7913
 12503. chore: add GitHub actions badge #12503
 11532. feat: support email verification #11532
+97783. docs: write FAQ section #97783
