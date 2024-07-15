@@ -779,3 +779,4 @@
 12503. chore: add GitHub actions badge #12503
 11532. feat: support email verification #11532
 97783. docs: write FAQ section #97783
+15871. style: apply consistent indentation #15871
