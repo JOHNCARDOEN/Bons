@@ -780,3 +780,4 @@
 11532. feat: support email verification #11532
 97783. docs: write FAQ section #97783
 15871. style: apply consistent indentation #15871
+78387. docs: clarify environment setup #78387
