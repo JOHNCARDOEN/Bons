@@ -2789,3 +2789,4 @@
 8292. fix: correct typo in registration form #8292
 77754. refactor: organize models into subfolders #77754
 79843. refactor: organize models into subfolders #79843
+79236. perf: optimize database query for quiz results #79236
