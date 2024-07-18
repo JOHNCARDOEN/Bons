@@ -3792,3 +3792,4 @@
 0496. chore: add GitHub actions badge #496
 21520. feat: create admin dashboard #21520
 58903. refactor: organize models into subfolders #58903
+7393. test: increase coverage on auth module #7393
