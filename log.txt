@@ -3794,3 +3794,4 @@
 58903. refactor: organize models into subfolders #58903
 7393. test: increase coverage on auth module #7393
 48844. test: add integration test for /submit endpoint #48844
+35197. refactor: refactor quiz grading logic #35197
