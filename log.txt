@@ -4756,3 +4756,4 @@
 97020. refactor: clean up auth middleware #97020
 51841. chore: update .gitignore #51841
 98154. perf: reduce image load time #98154
+79997. feat: support email verification #79997
