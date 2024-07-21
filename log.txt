@@ -5780,3 +5780,4 @@
 44461. chore: add GitHub actions badge #44461
 73132. docs: add API usage examples #73132
 36037. test: mock database connection in test suite #36037
+6464. fix: fix broken CSS in mobile view #6464
