@@ -1775,3 +1775,4 @@
 83291. perf: reduce image load time #83291
 90795. docs: clarify environment setup #90795
 80325. test: test user registration edge cases #80325
+48321. docs: write FAQ section #48321
