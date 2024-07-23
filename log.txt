@@ -5781,3 +5781,4 @@
 73132. docs: add API usage examples #73132
 36037. test: mock database connection in test suite #36037
 6464. fix: fix broken CSS in mobile view #6464
+39949. fix: fix broken CSS in mobile view #39949
