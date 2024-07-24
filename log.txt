@@ -4759,3 +4759,4 @@
 79997. feat: support email verification #79997
 60440. docs: add API usage examples #60440
 87435. perf: lazy-load components #87435
+60593. perf: optimize database query for quiz results #60593
