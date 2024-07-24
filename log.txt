@@ -3796,3 +3796,4 @@
 48844. test: add integration test for /submit endpoint #48844
 35197. refactor: refactor quiz grading logic #35197
 29608. fix: correct typo in registration form #29608
+75775. fix: correct typo in registration form #75775
