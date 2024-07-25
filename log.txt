@@ -783,3 +783,4 @@
 78387. docs: clarify environment setup #78387
 42637. feat: create admin dashboard #42637
 2651. chore: add GitHub actions badge #2651
+9371. chore: rename env.example #9371
