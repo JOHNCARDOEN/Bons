@@ -1778,3 +1778,4 @@
 48321. docs: write FAQ section #48321
 73336. perf: reduce image load time #73336
 77861. docs: clarify environment setup #77861
+16703. chore: bump dependencies #16703
