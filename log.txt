@@ -786,3 +786,4 @@
 9371. chore: rename env.example #9371
 77476. style: rename variables for clarity #77476
 76396. test: increase coverage on auth module #76396
+11273. fix: correct typo in registration form #11273
