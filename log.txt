@@ -788,3 +788,4 @@
 76396. test: increase coverage on auth module #76396
 11273. fix: correct typo in registration form #11273
 10883. test: add unit test for quiz service #10883
+73623. chore: bump dependencies #73623
