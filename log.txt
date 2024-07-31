@@ -4762,3 +4762,4 @@
 60593. perf: optimize database query for quiz results #60593
 47253. perf: lazy-load components #47253
 12474. style: rename variables for clarity #12474
+30688. refactor: clean up auth middleware #30688
