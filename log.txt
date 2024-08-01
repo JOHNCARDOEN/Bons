@@ -789,3 +789,4 @@
 11273. fix: correct typo in registration form #11273
 10883. test: add unit test for quiz service #10883
 73623. chore: bump dependencies #73623
+86670. style: apply consistent indentation #86670
