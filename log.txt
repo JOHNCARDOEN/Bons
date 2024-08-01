@@ -2793,3 +2793,4 @@
 16996. perf: cache repeated calculations #16996
 72885. test: increase coverage on auth module #72885
 80011. docs: clarify environment setup #80011
+73608. refactor: remove redundant code blocks #73608
