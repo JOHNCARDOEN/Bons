@@ -2794,3 +2794,4 @@
 72885. test: increase coverage on auth module #72885
 80011. docs: clarify environment setup #80011
 73608. refactor: remove redundant code blocks #73608
+13196. refactor: split large controller into smaller functions #13196
