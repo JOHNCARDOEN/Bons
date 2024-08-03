@@ -4765,3 +4765,4 @@
 30688. refactor: clean up auth middleware #30688
 32469. refactor: split large controller into smaller functions #32469
 64735. refactor: split large controller into smaller functions #64735
+92386. perf: optimize database query for quiz results #92386
