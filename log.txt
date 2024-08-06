@@ -4766,3 +4766,4 @@
 32469. refactor: split large controller into smaller functions #32469
 64735. refactor: split large controller into smaller functions #64735
 92386. perf: optimize database query for quiz results #92386
+14222. test: test user registration edge cases #14222
