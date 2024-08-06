@@ -1787,3 +1787,4 @@
 85655. docs: write FAQ section #85655
 9855. chore: update .gitignore #9855
 61970. style: rename variables for clarity #61970
+35922. fix: handle 500 error in quiz API #35922
