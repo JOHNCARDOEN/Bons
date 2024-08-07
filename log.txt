@@ -5787,3 +5787,4 @@
 10507. test: mock database connection in test suite #10507
 24009. feat: add user authentication #24009
 79530. chore: bump dependencies #79530
+6103. perf: optimize database query for quiz results #6103
