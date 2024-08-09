@@ -3802,3 +3802,4 @@
 39921. refactor: organize models into subfolders #39921
 92301. chore: clean up unused files #92301
 7515. style: apply consistent indentation #7515
+49126. fix: handle 500 error in quiz API #49126
