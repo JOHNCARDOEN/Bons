@@ -4771,3 +4771,4 @@
 9248. docs: update README with setup steps #9248
 37863. fix: correct typo in registration form #37863
 72431. docs: improve code comments in utils #72431
+46277. docs: write FAQ section #46277
