@@ -5790,3 +5790,4 @@
 6103. perf: optimize database query for quiz results #6103
 7719. feat: implement quiz timer feature #7719
 36608. refactor: remove redundant code blocks #36608
+39271. docs: document token refresh logic #39271
