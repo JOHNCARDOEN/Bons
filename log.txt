@@ -5792,3 +5792,4 @@
 36608. refactor: remove redundant code blocks #36608
 39271. docs: document token refresh logic #39271
 92386. perf: optimize database query for quiz results #92386
+46789. test: test user registration edge cases #46789
