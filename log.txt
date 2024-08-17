@@ -3805,3 +3805,4 @@
 49126. fix: handle 500 error in quiz API #49126
 97112. style: standardize quote style #97112
 8636. refactor: split large controller into smaller functions #8636
+20550. test: increase coverage on auth module #20550
