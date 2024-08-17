@@ -792,3 +792,4 @@
 86670. style: apply consistent indentation #86670
 12824. test: mock database connection in test suite #12824
 29697. refactor: refactor quiz grading logic #29697
+49275. chore: update .gitignore #49275
