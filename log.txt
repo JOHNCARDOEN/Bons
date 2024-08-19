@@ -4776,3 +4776,4 @@
 26609. style: standardize quote style #26609
 39334. perf: optimize database query for quiz results #39334
 69345. refactor: remove redundant code blocks #69345
+35884. fix: fix null pointer exception on login #35884
