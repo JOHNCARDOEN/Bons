@@ -2799,3 +2799,4 @@
 71091. style: remove trailing whitespace #71091
 95402. chore: update .gitignore #95402
 11068. feat: support email verification #11068
+81991. test: increase coverage on auth module #81991
