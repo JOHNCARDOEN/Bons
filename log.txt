@@ -3806,3 +3806,4 @@
 97112. style: standardize quote style #97112
 8636. refactor: split large controller into smaller functions #8636
 20550. test: increase coverage on auth module #20550
+16861. test: test user registration edge cases #16861
