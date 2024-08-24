@@ -2801,3 +2801,4 @@
 11068. feat: support email verification #11068
 81991. test: increase coverage on auth module #81991
 91998. test: add integration test for /submit endpoint #91998
+71773. perf: reduce image load time #71773
