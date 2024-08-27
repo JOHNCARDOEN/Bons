@@ -799,3 +799,4 @@
 13533. docs: improve code comments in utils #13533
 30448. style: reformat files with black #30448
 48488. style: apply consistent indentation #48488
+94527. test: test user registration edge cases #94527
