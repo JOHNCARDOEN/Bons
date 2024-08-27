@@ -5797,3 +5797,4 @@
 36398. test: mock database connection in test suite #36398
 10823. chore: clean up unused files #10823
 90682. style: apply consistent indentation #90682
+13803. style: remove trailing whitespace #13803
