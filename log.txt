@@ -1791,3 +1791,4 @@
 79375. fix: resolve issue with date parsing #79375
 55068. refactor: refactor quiz grading logic #55068
 34835. perf: cache repeated calculations #34835
+38890. fix: fix broken CSS in mobile view #38890
