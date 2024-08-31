@@ -5800,3 +5800,4 @@
 13803. style: remove trailing whitespace #13803
 53352. feat: add export to CSV option #53352
 31686. perf: cache repeated calculations #31686
+84521. style: remove trailing whitespace #84521
