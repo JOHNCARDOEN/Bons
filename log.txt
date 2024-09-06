@@ -3815,3 +3815,4 @@
 73526. perf: cache repeated calculations #73526
 88731. refactor: refactor quiz grading logic #88731
 64402. feat: implement quiz timer feature #64402
+15779. fix: fix broken CSS in mobile view #15779
