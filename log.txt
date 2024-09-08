@@ -3817,3 +3817,4 @@
 64402. feat: implement quiz timer feature #64402
 15779. fix: fix broken CSS in mobile view #15779
 42594. style: rename variables for clarity #42594
+58966. feat: enable dark mode toggle #58966
