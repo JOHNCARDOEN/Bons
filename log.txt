@@ -802,3 +802,4 @@
 94527. test: test user registration edge cases #94527
 61471. style: apply consistent indentation #61471
 12770. style: reformat files with black #12770
+91276. refactor: split large controller into smaller functions #91276
