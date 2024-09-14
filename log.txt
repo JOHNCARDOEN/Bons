@@ -5807,3 +5807,4 @@
 95335. refactor: split large controller into smaller functions #95335
 50015. style: apply consistent indentation #50015
 26775. refactor: clean up auth middleware #26775
+80828. perf: reduce image load time #80828
