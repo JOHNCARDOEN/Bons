@@ -5808,3 +5808,4 @@
 50015. style: apply consistent indentation #50015
 26775. refactor: clean up auth middleware #26775
 80828. perf: reduce image load time #80828
+47584. test: add unit test for quiz service #47584
