@@ -5809,3 +5809,4 @@
 26775. refactor: clean up auth middleware #26775
 80828. perf: reduce image load time #80828
 47584. test: add unit test for quiz service #47584
+66849. feat: support email verification #66849
