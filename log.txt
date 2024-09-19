@@ -1797,3 +1797,4 @@
 0332. test: mock database connection in test suite #332
 15442. fix: fix broken CSS in mobile view #15442
 22447. test: test user registration edge cases #22447
+40724. style: remove trailing whitespace #40724
