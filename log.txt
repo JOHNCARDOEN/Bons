@@ -1798,3 +1798,4 @@
 15442. fix: fix broken CSS in mobile view #15442
 22447. test: test user registration edge cases #22447
 40724. style: remove trailing whitespace #40724
+1947. style: standardize quote style #1947
