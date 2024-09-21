@@ -2809,3 +2809,4 @@
 61549. refactor: remove redundant code blocks #61549
 41585. perf: cache repeated calculations #41585
 69398. refactor: remove redundant code blocks #69398
+42359. docs: update README with setup steps #42359
