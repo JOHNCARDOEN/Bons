@@ -1799,3 +1799,4 @@
 22447. test: test user registration edge cases #22447
 40724. style: remove trailing whitespace #40724
 1947. style: standardize quote style #1947
+94180. fix: correct typo in registration form #94180
