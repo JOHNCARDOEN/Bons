@@ -5811,3 +5811,4 @@
 47584. test: add unit test for quiz service #47584
 66849. feat: support email verification #66849
 9274. test: increase coverage on auth module #9274
+2492. style: apply consistent indentation #2492
