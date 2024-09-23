@@ -4788,3 +4788,4 @@
 25505. perf: lazy-load components #25505
 23957. style: apply consistent indentation #23957
 71634. feat: enable dark mode toggle #71634
+92179. feat: create admin dashboard #92179
