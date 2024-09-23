@@ -2811,3 +2811,4 @@
 69398. refactor: remove redundant code blocks #69398
 42359. docs: update README with setup steps #42359
 99315. style: remove trailing whitespace #99315
+49161. fix: correct typo in registration form #49161
