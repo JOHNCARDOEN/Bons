@@ -1800,3 +1800,4 @@
 40724. style: remove trailing whitespace #40724
 1947. style: standardize quote style #1947
 94180. fix: correct typo in registration form #94180
+8929. style: apply consistent indentation #8929
