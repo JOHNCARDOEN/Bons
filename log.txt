@@ -806,3 +806,4 @@
 88736. chore: bump dependencies #88736
 40657. docs: improve code comments in utils #40657
 8504. test: add unit test for quiz service #8504
+56441. test: mock database connection in test suite #56441
