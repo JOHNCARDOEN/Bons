@@ -3826,3 +3826,4 @@
 77963. docs: clarify environment setup #77963
 5149. docs: clarify environment setup #5149
 86514. docs: write FAQ section #86514
+4817. fix: prevent crash on empty input #4817
