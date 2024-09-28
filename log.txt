@@ -808,3 +808,4 @@
 8504. test: add unit test for quiz service #8504
 56441. test: mock database connection in test suite #56441
 93532. refactor: organize models into subfolders #93532
+59160. perf: lazy-load components #59160
