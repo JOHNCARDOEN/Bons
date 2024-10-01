@@ -3828,3 +3828,4 @@
 86514. docs: write FAQ section #86514
 4817. fix: prevent crash on empty input #4817
 0055. chore: rename env.example #55
+81103. fix: fix broken CSS in mobile view #81103
