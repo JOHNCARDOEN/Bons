@@ -5812,3 +5812,4 @@
 66849. feat: support email verification #66849
 9274. test: increase coverage on auth module #9274
 2492. style: apply consistent indentation #2492
+86997. test: increase coverage on auth module #86997
