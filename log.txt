@@ -2816,3 +2816,4 @@
 76073. perf: lazy-load components #76073
 31424. perf: reduce image load time #31424
 18092. chore: rename env.example #18092
+51398. test: mock database connection in test suite #51398
