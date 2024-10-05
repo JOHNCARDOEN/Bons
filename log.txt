@@ -2819,3 +2819,4 @@
 51398. test: mock database connection in test suite #51398
 74076. chore: add GitHub actions badge #74076
 5490. docs: write FAQ section #5490
+93202. feat: add export to CSV option #93202
