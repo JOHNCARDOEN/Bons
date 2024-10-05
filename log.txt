@@ -1802,3 +1802,4 @@
 94180. fix: correct typo in registration form #94180
 8929. style: apply consistent indentation #8929
 14906. style: standardize quote style #14906
+16730. docs: clarify environment setup #16730
