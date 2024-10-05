@@ -813,3 +813,4 @@
 86828. refactor: remove redundant code blocks #86828
 53122. fix: fix null pointer exception on login #53122
 33339. docs: update README with setup steps #33339
+0066. perf: lazy-load components #66
