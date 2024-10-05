@@ -1801,3 +1801,4 @@
 1947. style: standardize quote style #1947
 94180. fix: correct typo in registration form #94180
 8929. style: apply consistent indentation #8929
+14906. style: standardize quote style #14906
