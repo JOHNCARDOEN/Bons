@@ -5813,3 +5813,4 @@
 9274. test: increase coverage on auth module #9274
 2492. style: apply consistent indentation #2492
 86997. test: increase coverage on auth module #86997
+82063. chore: rename env.example #82063
