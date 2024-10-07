@@ -3832,3 +3832,4 @@
 69283. docs: add API usage examples #69283
 9592. docs: document token refresh logic #9592
 56016. fix: correct typo in registration form #56016
+88104. test: test user registration edge cases #88104
