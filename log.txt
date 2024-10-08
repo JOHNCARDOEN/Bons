@@ -5815,3 +5815,4 @@
 86997. test: increase coverage on auth module #86997
 82063. chore: rename env.example #82063
 98174. style: reformat files with black #98174
+7462. feat: create admin dashboard #7462
