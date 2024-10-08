@@ -819,3 +819,4 @@
 55724. style: standardize quote style #55724
 87994. style: remove trailing whitespace #87994
 61670. perf: lazy-load components #61670
+73644. chore: add GitHub actions badge #73644
