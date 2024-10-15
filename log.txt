@@ -3834,3 +3834,4 @@
 56016. fix: correct typo in registration form #56016
 88104. test: test user registration edge cases #88104
 46593. feat: implement quiz timer feature #46593
+78499. chore: update .gitignore #78499
