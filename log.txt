@@ -822,3 +822,4 @@
 73644. chore: add GitHub actions badge #73644
 86298. fix: fix broken CSS in mobile view #86298
 13997. refactor: remove redundant code blocks #13997
+38155. chore: bump dependencies #38155
