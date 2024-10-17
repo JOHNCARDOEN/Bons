@@ -3837,3 +3837,4 @@
 78499. chore: update .gitignore #78499
 24879. fix: handle 500 error in quiz API #24879
 17364. refactor: organize models into subfolders #17364
+69993. fix: handle 500 error in quiz API #69993
