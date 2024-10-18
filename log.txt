@@ -4802,3 +4802,4 @@
 75433. test: add integration test for /submit endpoint #75433
 38896. perf: optimize database query for quiz results #38896
 99617. fix: fix broken CSS in mobile view #99617
+74349. docs: document token refresh logic #74349
