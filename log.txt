@@ -5819,3 +5819,4 @@
 2729. chore: clean up unused files #2729
 82829. perf: lazy-load components #82829
 85486. refactor: refactor quiz grading logic #85486
+44537. fix: fix null pointer exception on login #44537
