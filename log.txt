@@ -4804,3 +4804,4 @@
 99617. fix: fix broken CSS in mobile view #99617
 74349. docs: document token refresh logic #74349
 7245. test: add unit test for quiz service #7245
+43593. style: reformat files with black #43593
