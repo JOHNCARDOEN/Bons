@@ -2829,3 +2829,4 @@
 61877. refactor: split large controller into smaller functions #61877
 59006. chore: bump dependencies #59006
 62510. chore: add GitHub actions badge #62510
+43014. feat: support email verification #43014
