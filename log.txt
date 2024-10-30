@@ -2832,3 +2832,4 @@
 43014. feat: support email verification #43014
 74319. chore: bump dependencies #74319
 96397. test: mock database connection in test suite #96397
+37946. feat: add export to CSV option #37946
