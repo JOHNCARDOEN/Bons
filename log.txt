@@ -2834,3 +2834,4 @@
 96397. test: mock database connection in test suite #96397
 37946. feat: add export to CSV option #37946
 17499. perf: optimize database query for quiz results #17499
+93127. chore: bump dependencies #93127
