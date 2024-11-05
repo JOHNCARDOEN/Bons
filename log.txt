@@ -829,3 +829,4 @@
 32856. test: increase coverage on auth module #32856
 33769. feat: create admin dashboard #33769
 22358. docs: clarify environment setup #22358
+46384. fix: fix broken CSS in mobile view #46384
