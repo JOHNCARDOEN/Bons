@@ -5827,3 +5827,4 @@
 33258. docs: improve code comments in utils #33258
 73283. perf: cache repeated calculations #73283
 99688. feat: create admin dashboard #99688
+34515. fix: fix null pointer exception on login #34515
