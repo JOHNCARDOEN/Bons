@@ -2836,3 +2836,4 @@
 17499. perf: optimize database query for quiz results #17499
 93127. chore: bump dependencies #93127
 41377. docs: write FAQ section #41377
+48502. perf: lazy-load components #48502
