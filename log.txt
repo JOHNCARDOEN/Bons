@@ -4816,3 +4816,4 @@
 32039. test: increase coverage on auth module #32039
 5806. fix: prevent crash on empty input #5806
 8996. test: increase coverage on auth module #8996
+81438. docs: write FAQ section #81438
