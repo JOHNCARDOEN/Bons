@@ -4817,3 +4817,4 @@
 5806. fix: prevent crash on empty input #5806
 8996. test: increase coverage on auth module #8996
 81438. docs: write FAQ section #81438
+11152. fix: fix broken CSS in mobile view #11152
