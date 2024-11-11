@@ -5830,3 +5830,4 @@
 34515. fix: fix null pointer exception on login #34515
 62234. perf: lazy-load components #62234
 59876. fix: fix broken CSS in mobile view #59876
+2206. feat: add user authentication #2206
