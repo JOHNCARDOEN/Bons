@@ -1814,3 +1814,4 @@
 27099. perf: lazy-load components #27099
 81989. style: rename variables for clarity #81989
 31482. chore: update .gitignore #31482
+92551. fix: prevent crash on empty input #92551
