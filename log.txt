@@ -5832,3 +5832,4 @@
 59876. fix: fix broken CSS in mobile view #59876
 2206. feat: add user authentication #2206
 97039. refactor: refactor quiz grading logic #97039
+54069. test: test user registration edge cases #54069
