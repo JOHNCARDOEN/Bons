@@ -832,3 +832,4 @@
 46384. fix: fix broken CSS in mobile view #46384
 19994. test: test user registration edge cases #19994
 90922. chore: add GitHub actions badge #90922
+19948. docs: clarify environment setup #19948
