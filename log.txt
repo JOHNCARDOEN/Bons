@@ -1818,3 +1818,4 @@
 26056. style: standardize quote style #26056
 44365. style: apply consistent indentation #44365
 90411. refactor: remove redundant code blocks #90411
+85515. test: increase coverage on auth module #85515
