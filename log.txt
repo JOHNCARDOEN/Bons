@@ -5834,3 +5834,4 @@
 97039. refactor: refactor quiz grading logic #97039
 54069. test: test user registration edge cases #54069
 68087. docs: write FAQ section #68087
+12522. test: test user registration edge cases #12522
