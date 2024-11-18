@@ -5835,3 +5835,4 @@
 54069. test: test user registration edge cases #54069
 68087. docs: write FAQ section #68087
 12522. test: test user registration edge cases #12522
+34690. perf: reduce image load time #34690
