@@ -833,3 +833,4 @@
 19994. test: test user registration edge cases #19994
 90922. chore: add GitHub actions badge #90922
 19948. docs: clarify environment setup #19948
+94373. perf: lazy-load components #94373
