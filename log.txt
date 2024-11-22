@@ -4820,3 +4820,4 @@
 11152. fix: fix broken CSS in mobile view #11152
 68502. refactor: refactor quiz grading logic #68502
 21525. refactor: clean up auth middleware #21525
+67970. fix: prevent crash on empty input #67970
