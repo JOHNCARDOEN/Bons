@@ -3851,3 +3851,4 @@
 21795. chore: clean up unused files #21795
 95506. docs: clarify environment setup #95506
 78994. chore: rename env.example #78994
+33116. fix: prevent crash on empty input #33116
