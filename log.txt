@@ -5838,3 +5838,4 @@
 34690. perf: reduce image load time #34690
 71844. perf: lazy-load components #71844
 30064. chore: add GitHub actions badge #30064
+48692. feat: create admin dashboard #48692
