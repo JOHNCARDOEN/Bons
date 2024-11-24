@@ -5839,3 +5839,4 @@
 71844. perf: lazy-load components #71844
 30064. chore: add GitHub actions badge #30064
 48692. feat: create admin dashboard #48692
+64521. docs: document token refresh logic #64521
