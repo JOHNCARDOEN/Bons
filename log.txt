@@ -2842,3 +2842,4 @@
 71030. chore: clean up unused files #71030
 95597. feat: add export to CSV option #95597
 52530. feat: enable dark mode toggle #52530
+10074. docs: update README with setup steps #10074
