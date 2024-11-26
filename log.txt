@@ -1821,3 +1821,4 @@
 85515. test: increase coverage on auth module #85515
 67073. fix: resolve issue with date parsing #67073
 94439. perf: cache repeated calculations #94439
+27077. fix: prevent crash on empty input #27077
