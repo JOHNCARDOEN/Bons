@@ -837,3 +837,4 @@
 86584. feat: add export to CSV option #86584
 7312. chore: update .gitignore #7312
 54285. fix: prevent crash on empty input #54285
+25089. perf: lazy-load components #25089
