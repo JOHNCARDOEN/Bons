@@ -3853,3 +3853,4 @@
 78994. chore: rename env.example #78994
 33116. fix: prevent crash on empty input #33116
 36516. fix: prevent crash on empty input #36516
+42693. fix: resolve issue with date parsing #42693
