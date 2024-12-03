@@ -838,3 +838,4 @@
 7312. chore: update .gitignore #7312
 54285. fix: prevent crash on empty input #54285
 25089. perf: lazy-load components #25089
+3730. style: reformat files with black #3730
