@@ -4826,3 +4826,4 @@
 1082. docs: write FAQ section #1082
 15285. style: remove trailing whitespace #15285
 22452. chore: clean up unused files #22452
+80838. perf: cache repeated calculations #80838
