@@ -4825,3 +4825,4 @@
 5680. fix: correct typo in registration form #5680
 1082. docs: write FAQ section #1082
 15285. style: remove trailing whitespace #15285
+22452. chore: clean up unused files #22452
