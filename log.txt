@@ -3856,3 +3856,4 @@
 42693. fix: resolve issue with date parsing #42693
 9830. refactor: refactor quiz grading logic #9830
 11214. chore: rename env.example #11214
+27304. fix: prevent crash on empty input #27304
