@@ -843,3 +843,4 @@
 62729. chore: add GitHub actions badge #62729
 20584. refactor: refactor quiz grading logic #20584
 80827. feat: implement quiz timer feature #80827
+86632. test: increase coverage on auth module #86632
