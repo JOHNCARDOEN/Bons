@@ -1831,3 +1831,4 @@
 7806. test: add integration test for /submit endpoint #7806
 46610. refactor: clean up auth middleware #46610
 26052. test: increase coverage on auth module #26052
+78185. docs: update README with setup steps #78185
