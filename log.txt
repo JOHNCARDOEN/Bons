@@ -1833,3 +1833,4 @@
 26052. test: increase coverage on auth module #26052
 78185. docs: update README with setup steps #78185
 59695. docs: write FAQ section #59695
+53511. fix: fix null pointer exception on login #53511
