@@ -4833,3 +4833,4 @@
 15834. refactor: remove redundant code blocks #15834
 99297. chore: bump dependencies #99297
 60261. chore: clean up unused files #60261
+63455. test: test user registration edge cases #63455
