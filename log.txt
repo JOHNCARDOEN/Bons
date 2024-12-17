@@ -847,3 +847,4 @@
 24456. docs: update README with setup steps #24456
 18619. style: apply consistent indentation #18619
 21731. docs: add API usage examples #21731
+49770. fix: correct typo in registration form #49770
