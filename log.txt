@@ -848,3 +848,4 @@
 18619. style: apply consistent indentation #18619
 21731. docs: add API usage examples #21731
 49770. fix: correct typo in registration form #49770
+16314. test: add integration test for /submit endpoint #16314
