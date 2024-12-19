@@ -5847,3 +5847,4 @@
 82677. perf: cache repeated calculations #82677
 29338. fix: correct typo in registration form #29338
 9735. chore: add GitHub actions badge #9735
+6886. style: remove trailing whitespace #6886
