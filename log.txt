@@ -4838,3 +4838,4 @@
 26473. test: test user registration edge cases #26473
 26912. test: mock database connection in test suite #26912
 53517. refactor: remove redundant code blocks #53517
+40049. fix: fix null pointer exception on login #40049
