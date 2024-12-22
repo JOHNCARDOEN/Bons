@@ -851,3 +851,4 @@
 16314. test: add integration test for /submit endpoint #16314
 18972. docs: add API usage examples #18972
 30777. style: remove trailing whitespace #30777
+15648. fix: prevent crash on empty input #15648
