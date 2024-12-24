@@ -1836,3 +1836,4 @@
 53511. fix: fix null pointer exception on login #53511
 65232. style: apply consistent indentation #65232
 5673. feat: enable dark mode toggle #5673
+86231. docs: write FAQ section #86231
