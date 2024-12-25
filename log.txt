@@ -1837,3 +1837,4 @@
 65232. style: apply consistent indentation #65232
 5673. feat: enable dark mode toggle #5673
 86231. docs: write FAQ section #86231
+4437. style: standardize quote style #4437
