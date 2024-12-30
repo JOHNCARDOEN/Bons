@@ -4844,3 +4844,4 @@
 16749. test: test user registration edge cases #16749
 4650. style: remove trailing whitespace #4650
 64269. perf: optimize database query for quiz results #64269
+15432. refactor: remove redundant code blocks #15432
