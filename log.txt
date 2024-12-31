@@ -5853,3 +5853,4 @@
 74697. refactor: organize models into subfolders #74697
 80499. docs: clarify environment setup #80499
 18477. refactor: remove redundant code blocks #18477
+0882. test: test user registration edge cases #882
