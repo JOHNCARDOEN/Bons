@@ -854,3 +854,4 @@
 15648. fix: prevent crash on empty input #15648
 23767. feat: create admin dashboard #23767
 44789. refactor: clean up auth middleware #44789
+80752. refactor: organize models into subfolders #80752
