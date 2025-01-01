@@ -2857,3 +2857,4 @@
 64868. docs: document token refresh logic #64868
 36572. style: standardize quote style #36572
 69059. perf: reduce image load time #69059
+76993. feat: support email verification #76993
