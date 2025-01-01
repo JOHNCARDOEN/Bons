@@ -5854,3 +5854,4 @@
 80499. docs: clarify environment setup #80499
 18477. refactor: remove redundant code blocks #18477
 0882. test: test user registration edge cases #882
+96936. perf: lazy-load components #96936
