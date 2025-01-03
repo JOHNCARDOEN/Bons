@@ -858,3 +858,4 @@
 0231. test: mock database connection in test suite #231
 31384. feat: create admin dashboard #31384
 44027. test: add unit test for quiz service #44027
+27419. feat: add user authentication #27419
