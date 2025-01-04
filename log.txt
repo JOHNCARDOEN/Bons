@@ -5858,3 +5858,4 @@
 84711. docs: document token refresh logic #84711
 60361. chore: rename env.example #60361
 37370. test: add integration test for /submit endpoint #37370
+22824. docs: write FAQ section #22824
