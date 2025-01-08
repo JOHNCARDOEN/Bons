@@ -861,3 +861,4 @@
 27419. feat: add user authentication #27419
 34293. feat: create admin dashboard #34293
 99203. refactor: split large controller into smaller functions #99203
+52315. refactor: clean up auth middleware #52315
