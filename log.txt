@@ -5860,3 +5860,4 @@
 37370. test: add integration test for /submit endpoint #37370
 22824. docs: write FAQ section #22824
 79524. feat: add user authentication #79524
+93801. fix: handle 500 error in quiz API #93801
