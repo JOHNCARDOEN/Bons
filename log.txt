@@ -4854,3 +4854,4 @@
 29387. refactor: split large controller into smaller functions #29387
 31519. docs: improve code comments in utils #31519
 92658. chore: bump dependencies #92658
+3438. test: test user registration edge cases #3438
