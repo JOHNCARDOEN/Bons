@@ -865,3 +865,4 @@
 17750. perf: lazy-load components #17750
 76098. fix: fix broken CSS in mobile view #76098
 91563. feat: create admin dashboard #91563
+40938. style: apply consistent indentation #40938
