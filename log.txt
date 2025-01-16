@@ -5863,3 +5863,4 @@
 93801. fix: handle 500 error in quiz API #93801
 75842. fix: fix null pointer exception on login #75842
 15428. feat: create admin dashboard #15428
+81041. chore: bump dependencies #81041
