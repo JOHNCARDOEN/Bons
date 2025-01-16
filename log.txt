@@ -2868,3 +2868,4 @@
 56967. feat: enable dark mode toggle #56967
 88040. docs: improve code comments in utils #88040
 84644. fix: correct typo in registration form #84644
+47541. refactor: refactor quiz grading logic #47541
