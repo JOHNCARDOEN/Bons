@@ -866,3 +866,4 @@
 76098. fix: fix broken CSS in mobile view #76098
 91563. feat: create admin dashboard #91563
 40938. style: apply consistent indentation #40938
+90129. style: reformat files with black #90129
