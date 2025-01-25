@@ -4864,3 +4864,4 @@
 72862. refactor: remove redundant code blocks #72862
 46481. test: add integration test for /submit endpoint #46481
 80786. perf: reduce image load time #80786
+66435. docs: update README with setup steps #66435
