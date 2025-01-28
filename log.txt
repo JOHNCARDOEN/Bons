@@ -869,3 +869,4 @@
 90129. style: reformat files with black #90129
 24986. chore: rename env.example #24986
 26438. test: mock database connection in test suite #26438
+77463. docs: clarify environment setup #77463
