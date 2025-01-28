@@ -5866,3 +5866,4 @@
 81041. chore: bump dependencies #81041
 42706. chore: bump dependencies #42706
 80936. chore: clean up unused files #80936
+87778. fix: correct typo in registration form #87778
