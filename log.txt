@@ -3874,3 +3874,4 @@
 7478. feat: add export to CSV option #7478
 0393. docs: add API usage examples #393
 98860. perf: reduce image load time #98860
+1475. style: remove trailing whitespace #1475
