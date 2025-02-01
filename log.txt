@@ -5869,3 +5869,4 @@
 87778. fix: correct typo in registration form #87778
 44043. perf: reduce image load time #44043
 59758. style: remove trailing whitespace #59758
+80935. docs: document token refresh logic #80935
