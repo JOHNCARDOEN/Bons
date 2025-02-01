@@ -5868,3 +5868,4 @@
 80936. chore: clean up unused files #80936
 87778. fix: correct typo in registration form #87778
 44043. perf: reduce image load time #44043
+59758. style: remove trailing whitespace #59758
