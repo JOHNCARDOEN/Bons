@@ -3877,3 +3877,4 @@
 1475. style: remove trailing whitespace #1475
 19876. perf: cache repeated calculations #19876
 44772. refactor: refactor quiz grading logic #44772
+37365. test: add unit test for quiz service #37365
