@@ -4866,3 +4866,4 @@
 80786. perf: reduce image load time #80786
 66435. docs: update README with setup steps #66435
 53670. refactor: remove redundant code blocks #53670
+40132. fix: prevent crash on empty input #40132
