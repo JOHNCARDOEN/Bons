@@ -1856,3 +1856,4 @@
 37372. chore: rename env.example #37372
 28849. style: apply consistent indentation #28849
 96266. feat: implement quiz timer feature #96266
+44149. fix: correct typo in registration form #44149
