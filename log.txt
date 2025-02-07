@@ -4868,3 +4868,4 @@
 53670. refactor: remove redundant code blocks #53670
 40132. fix: prevent crash on empty input #40132
 65413. style: standardize quote style #65413
+9535. fix: fix broken CSS in mobile view #9535
