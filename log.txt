@@ -1861,3 +1861,4 @@
 5144. fix: handle 500 error in quiz API #5144
 36617. fix: fix null pointer exception on login #36617
 1952. perf: optimize database query for quiz results #1952
+29947. chore: rename env.example #29947
