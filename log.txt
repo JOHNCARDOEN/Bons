@@ -3883,3 +3883,4 @@
 74436. test: increase coverage on auth module #74436
 50909. refactor: organize models into subfolders #50909
 91967. fix: fix broken CSS in mobile view #91967
+83502. feat: support email verification #83502
