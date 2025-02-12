@@ -1860,3 +1860,4 @@
 35644. refactor: refactor quiz grading logic #35644
 5144. fix: handle 500 error in quiz API #5144
 36617. fix: fix null pointer exception on login #36617
+1952. perf: optimize database query for quiz results #1952
