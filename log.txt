@@ -5873,3 +5873,4 @@
 31467. refactor: organize models into subfolders #31467
 59006. chore: bump dependencies #59006
 50552. docs: update README with setup steps #50552
+26343. feat: add user authentication #26343
