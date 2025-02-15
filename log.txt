@@ -5874,3 +5874,4 @@
 59006. chore: bump dependencies #59006
 50552. docs: update README with setup steps #50552
 26343. feat: add user authentication #26343
+50324. feat: support email verification #50324
