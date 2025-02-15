@@ -876,3 +876,4 @@
 26693. refactor: clean up auth middleware #26693
 28820. docs: clarify environment setup #28820
 72903. docs: improve code comments in utils #72903
+78500. refactor: organize models into subfolders #78500
