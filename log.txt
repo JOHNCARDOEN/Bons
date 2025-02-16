@@ -3885,3 +3885,4 @@
 91967. fix: fix broken CSS in mobile view #91967
 83502. feat: support email verification #83502
 15628. perf: reduce image load time #15628
+71688. docs: clarify environment setup #71688
