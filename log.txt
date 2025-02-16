@@ -1863,3 +1863,4 @@
 1952. perf: optimize database query for quiz results #1952
 29947. chore: rename env.example #29947
 75299. chore: update .gitignore #75299
+88330. chore: add GitHub actions badge #88330
