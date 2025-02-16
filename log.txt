@@ -4873,3 +4873,4 @@
 38413. perf: reduce image load time #38413
 82626. style: remove trailing whitespace #82626
 27461. chore: bump dependencies #27461
+83386. fix: prevent crash on empty input #83386
