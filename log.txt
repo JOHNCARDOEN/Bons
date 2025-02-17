@@ -5875,3 +5875,4 @@
 50552. docs: update README with setup steps #50552
 26343. feat: add user authentication #26343
 50324. feat: support email verification #50324
+51720. docs: clarify environment setup #51720
