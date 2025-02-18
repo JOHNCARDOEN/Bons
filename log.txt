@@ -4875,3 +4875,4 @@
 27461. chore: bump dependencies #27461
 83386. fix: prevent crash on empty input #83386
 1246. test: mock database connection in test suite #1246
+47058. chore: add GitHub actions badge #47058
