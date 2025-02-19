@@ -877,3 +877,4 @@
 28820. docs: clarify environment setup #28820
 72903. docs: improve code comments in utils #72903
 78500. refactor: organize models into subfolders #78500
+25198. perf: lazy-load components #25198
