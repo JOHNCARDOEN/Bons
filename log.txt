@@ -5879,3 +5879,4 @@
 23442. style: standardize quote style #23442
 68723. chore: update .gitignore #68723
 63033. perf: optimize database query for quiz results #63033
+16670. docs: write FAQ section #16670
