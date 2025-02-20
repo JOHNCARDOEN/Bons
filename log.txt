@@ -2880,3 +2880,4 @@
 75469. style: rename variables for clarity #75469
 52877. chore: update .gitignore #52877
 87329. test: increase coverage on auth module #87329
+22684. refactor: clean up auth middleware #22684
