@@ -2881,3 +2881,4 @@
 52877. chore: update .gitignore #52877
 87329. test: increase coverage on auth module #87329
 22684. refactor: clean up auth middleware #22684
+57893. perf: optimize database query for quiz results #57893
