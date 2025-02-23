@@ -3889,3 +3889,4 @@
 5364. refactor: organize models into subfolders #5364
 58207. docs: document token refresh logic #58207
 64399. test: test user registration edge cases #64399
+86444. test: increase coverage on auth module #86444
