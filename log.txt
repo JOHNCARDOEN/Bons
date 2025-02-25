@@ -879,3 +879,4 @@
 78500. refactor: organize models into subfolders #78500
 25198. perf: lazy-load components #25198
 45539. feat: enable dark mode toggle #45539
+14573. fix: correct typo in registration form #14573
