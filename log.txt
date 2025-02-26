@@ -5881,3 +5881,4 @@
 63033. perf: optimize database query for quiz results #63033
 16670. docs: write FAQ section #16670
 42501. fix: fix null pointer exception on login #42501
+83222. refactor: clean up auth middleware #83222
