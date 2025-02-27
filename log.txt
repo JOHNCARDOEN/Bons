@@ -4879,3 +4879,4 @@
 63059. style: standardize quote style #63059
 7231. refactor: clean up auth middleware #7231
 38090. chore: rename env.example #38090
+8527. docs: write FAQ section #8527
