@@ -3891,3 +3891,4 @@
 64399. test: test user registration edge cases #64399
 86444. test: increase coverage on auth module #86444
 75604. feat: support email verification #75604
+92444. refactor: organize models into subfolders #92444
