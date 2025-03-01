@@ -4882,3 +4882,4 @@
 8527. docs: write FAQ section #8527
 68941. feat: create admin dashboard #68941
 37457. style: rename variables for clarity #37457
+28966. feat: add user authentication #28966
