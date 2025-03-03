@@ -2887,3 +2887,4 @@
 56473. refactor: remove redundant code blocks #56473
 90018. feat: implement quiz timer feature #90018
 5720. docs: document token refresh logic #5720
+2952. fix: fix null pointer exception on login #2952
