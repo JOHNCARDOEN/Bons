@@ -2889,3 +2889,4 @@
 5720. docs: document token refresh logic #5720
 2952. fix: fix null pointer exception on login #2952
 26135. feat: support email verification #26135
+3360. test: test user registration edge cases #3360
