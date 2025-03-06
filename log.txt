@@ -4886,3 +4886,4 @@
 77618. test: add integration test for /submit endpoint #77618
 57636. chore: clean up unused files #57636
 11430. docs: add API usage examples #11430
+88874. test: mock database connection in test suite #88874
