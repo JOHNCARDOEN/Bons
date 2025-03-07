@@ -1873,3 +1873,4 @@
 30153. feat: add user authentication #30153
 13980. docs: add API usage examples #13980
 91681. chore: update .gitignore #91681
+80240. feat: enable dark mode toggle #80240
