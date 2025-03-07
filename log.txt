@@ -2892,3 +2892,4 @@
 3360. test: test user registration edge cases #3360
 68588. style: standardize quote style #68588
 84660. chore: clean up unused files #84660
+89486. refactor: organize models into subfolders #89486
