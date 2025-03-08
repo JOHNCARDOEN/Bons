@@ -4888,3 +4888,4 @@
 11430. docs: add API usage examples #11430
 88874. test: mock database connection in test suite #88874
 21565. docs: document token refresh logic #21565
+24913. feat: support email verification #24913
