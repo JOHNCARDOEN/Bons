@@ -3893,3 +3893,4 @@
 75604. feat: support email verification #75604
 92444. refactor: organize models into subfolders #92444
 5464. perf: cache repeated calculations #5464
+43341. test: add unit test for quiz service #43341
