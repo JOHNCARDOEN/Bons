@@ -884,3 +884,4 @@
 42161. docs: add API usage examples #42161
 50808. style: remove trailing whitespace #50808
 34139. test: mock database connection in test suite #34139
+84833. perf: cache repeated calculations #84833
