@@ -5888,3 +5888,4 @@
 23144. chore: clean up unused files #23144
 70179. perf: optimize database query for quiz results #70179
 49245. test: add unit test for quiz service #49245
+40896. perf: reduce image load time #40896
