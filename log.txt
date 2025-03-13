@@ -2894,3 +2894,4 @@
 84660. chore: clean up unused files #84660
 89486. refactor: organize models into subfolders #89486
 53183. test: test user registration edge cases #53183
+10508. fix: fix broken CSS in mobile view #10508
