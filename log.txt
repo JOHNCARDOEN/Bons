@@ -4890,3 +4890,4 @@
 21565. docs: document token refresh logic #21565
 24913. feat: support email verification #24913
 76480. docs: add API usage examples #76480
+31099. refactor: clean up auth middleware #31099
