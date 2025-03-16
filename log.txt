@@ -887,3 +887,4 @@
 84833. perf: cache repeated calculations #84833
 87989. style: reformat files with black #87989
 34347. refactor: clean up auth middleware #34347
+87668. feat: support email verification #87668
