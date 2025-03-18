@@ -4892,3 +4892,4 @@
 76480. docs: add API usage examples #76480
 31099. refactor: clean up auth middleware #31099
 86940. test: mock database connection in test suite #86940
+93672. style: remove trailing whitespace #93672
