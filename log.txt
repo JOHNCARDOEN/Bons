@@ -1885,3 +1885,4 @@
 51135. test: increase coverage on auth module #51135
 99688. feat: create admin dashboard #99688
 21449. style: apply consistent indentation #21449
+95044. style: apply consistent indentation #95044
