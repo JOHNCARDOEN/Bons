@@ -3898,3 +3898,4 @@
 24239. docs: clarify environment setup #24239
 23156. docs: write FAQ section #23156
 81684. feat: implement quiz timer feature #81684
+98700. fix: fix null pointer exception on login #98700
