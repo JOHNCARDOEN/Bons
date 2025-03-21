@@ -4895,3 +4895,4 @@
 93672. style: remove trailing whitespace #93672
 60723. perf: cache repeated calculations #60723
 37860. perf: optimize database query for quiz results #37860
+99587. chore: bump dependencies #99587
