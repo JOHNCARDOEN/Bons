@@ -2898,3 +2898,4 @@
 23813. fix: correct typo in registration form #23813
 38888. chore: add GitHub actions badge #38888
 53285. feat: support email verification #53285
+84031. fix: resolve issue with date parsing #84031
