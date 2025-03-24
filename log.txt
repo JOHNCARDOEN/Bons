@@ -4896,3 +4896,4 @@
 60723. perf: cache repeated calculations #60723
 37860. perf: optimize database query for quiz results #37860
 99587. chore: bump dependencies #99587
+64768. fix: prevent crash on empty input #64768
