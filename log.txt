@@ -2900,3 +2900,4 @@
 53285. feat: support email verification #53285
 84031. fix: resolve issue with date parsing #84031
 80477. docs: write FAQ section #80477
+74328. perf: lazy-load components #74328
