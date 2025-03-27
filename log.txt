@@ -1887,3 +1887,4 @@
 21449. style: apply consistent indentation #21449
 95044. style: apply consistent indentation #95044
 95240. docs: document token refresh logic #95240
+42450. feat: add user authentication #42450
