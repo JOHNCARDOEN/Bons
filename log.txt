@@ -5895,3 +5895,4 @@
 86627. style: reformat files with black #86627
 80361. feat: implement quiz timer feature #80361
 70161. refactor: organize models into subfolders #70161
+65152. perf: optimize database query for quiz results #65152
