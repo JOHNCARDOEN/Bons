@@ -2904,3 +2904,4 @@
 71455. refactor: refactor quiz grading logic #71455
 69988. test: increase coverage on auth module #69988
 27219. perf: lazy-load components #27219
+51522. test: add unit test for quiz service #51522
