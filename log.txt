@@ -896,3 +896,4 @@
 63457. fix: handle 500 error in quiz API #63457
 67516. feat: add user authentication #67516
 82815. fix: resolve issue with date parsing #82815
+80495. test: add unit test for quiz service #80495
