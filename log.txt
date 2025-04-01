@@ -897,3 +897,4 @@
 67516. feat: add user authentication #67516
 82815. fix: resolve issue with date parsing #82815
 80495. test: add unit test for quiz service #80495
+38026. perf: lazy-load components #38026
