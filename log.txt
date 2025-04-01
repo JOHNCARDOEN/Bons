@@ -1892,3 +1892,4 @@
 80195. style: remove trailing whitespace #80195
 85710. style: standardize quote style #85710
 36883. style: rename variables for clarity #36883
+37931. fix: correct typo in registration form #37931
