@@ -3904,3 +3904,4 @@
 58943. perf: optimize database query for quiz results #58943
 18640. style: remove trailing whitespace #18640
 22933. feat: support email verification #22933
+74014. test: add integration test for /submit endpoint #74014
