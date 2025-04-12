@@ -1896,3 +1896,4 @@
 72639. test: add integration test for /submit endpoint #72639
 15313. refactor: organize models into subfolders #15313
 75631. style: apply consistent indentation #75631
+36835. feat: create admin dashboard #36835
