@@ -1900,3 +1900,4 @@
 29734. perf: cache repeated calculations #29734
 46590. style: apply consistent indentation #46590
 44018. refactor: remove redundant code blocks #44018
+8273. style: apply consistent indentation #8273
