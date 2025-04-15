@@ -900,3 +900,4 @@
 38026. perf: lazy-load components #38026
 53325. refactor: split large controller into smaller functions #53325
 88486. refactor: refactor quiz grading logic #88486
+12247. test: test user registration edge cases #12247
