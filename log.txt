@@ -5905,3 +5905,4 @@
 14154. refactor: split large controller into smaller functions #14154
 90743. style: remove trailing whitespace #90743
 86604. perf: lazy-load components #86604
+47616. style: apply consistent indentation #47616
