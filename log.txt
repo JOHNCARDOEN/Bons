@@ -904,3 +904,4 @@
 74930. style: apply consistent indentation #74930
 11750. chore: clean up unused files #11750
 37752. feat: support email verification #37752
+59671. refactor: remove redundant code blocks #59671
