@@ -3914,3 +3914,4 @@
 71763. style: remove trailing whitespace #71763
 10505. chore: add GitHub actions badge #10505
 31518. fix: correct typo in registration form #31518
+46474. style: standardize quote style #46474
