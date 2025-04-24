@@ -3915,3 +3915,4 @@
 10505. chore: add GitHub actions badge #10505
 31518. fix: correct typo in registration form #31518
 46474. style: standardize quote style #46474
+15095. test: increase coverage on auth module #15095
