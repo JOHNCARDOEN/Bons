@@ -906,3 +906,4 @@
 37752. feat: support email verification #37752
 59671. refactor: remove redundant code blocks #59671
 96647. test: increase coverage on auth module #96647
+68950. feat: add user authentication #68950
