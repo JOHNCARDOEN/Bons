@@ -905,3 +905,4 @@
 11750. chore: clean up unused files #11750
 37752. feat: support email verification #37752
 59671. refactor: remove redundant code blocks #59671
+96647. test: increase coverage on auth module #96647
