@@ -1908,3 +1908,4 @@
 49314. test: increase coverage on auth module #49314
 12510. fix: resolve issue with date parsing #12510
 64863. test: add unit test for quiz service #64863
+75258. test: add unit test for quiz service #75258
