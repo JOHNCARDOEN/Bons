@@ -1907,3 +1907,4 @@
 10430. refactor: remove redundant code blocks #10430
 49314. test: increase coverage on auth module #49314
 12510. fix: resolve issue with date parsing #12510
+64863. test: add unit test for quiz service #64863
