@@ -2917,3 +2917,4 @@
 28619. refactor: split large controller into smaller functions #28619
 85083. chore: add GitHub actions badge #85083
 30349. test: test user registration edge cases #30349
+30631. perf: optimize database query for quiz results #30631
