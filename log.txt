@@ -2918,3 +2918,4 @@
 85083. chore: add GitHub actions badge #85083
 30349. test: test user registration edge cases #30349
 30631. perf: optimize database query for quiz results #30631
+87223. fix: handle 500 error in quiz API #87223
