@@ -5908,3 +5908,4 @@
 47616. style: apply consistent indentation #47616
 48445. style: reformat files with black #48445
 83388. refactor: refactor quiz grading logic #83388
+0530. test: test user registration edge cases #530
