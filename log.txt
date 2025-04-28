@@ -1911,3 +1911,4 @@
 75258. test: add unit test for quiz service #75258
 2804. docs: clarify environment setup #2804
 49132. docs: improve code comments in utils #49132
+56980. perf: lazy-load components #56980
