@@ -5909,3 +5909,4 @@
 48445. style: reformat files with black #48445
 83388. refactor: refactor quiz grading logic #83388
 0530. test: test user registration edge cases #530
+21268. chore: add GitHub actions badge #21268
