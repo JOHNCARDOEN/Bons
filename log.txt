@@ -910,3 +910,4 @@
 36323. refactor: split large controller into smaller functions #36323
 77004. test: mock database connection in test suite #77004
 69250. refactor: clean up auth middleware #69250
+41069. style: remove trailing whitespace #41069
