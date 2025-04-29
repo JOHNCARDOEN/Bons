@@ -5911,3 +5911,4 @@
 0530. test: test user registration edge cases #530
 21268. chore: add GitHub actions badge #21268
 63294. docs: write FAQ section #63294
+23036. fix: correct typo in registration form #23036
