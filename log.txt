@@ -912,3 +912,4 @@
 69250. refactor: clean up auth middleware #69250
 41069. style: remove trailing whitespace #41069
 87702. fix: correct typo in registration form #87702
+56048. test: increase coverage on auth module #56048
