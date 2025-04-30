@@ -911,3 +911,4 @@
 77004. test: mock database connection in test suite #77004
 69250. refactor: clean up auth middleware #69250
 41069. style: remove trailing whitespace #41069
+87702. fix: correct typo in registration form #87702
