@@ -4920,3 +4920,4 @@
 51588. refactor: remove redundant code blocks #51588
 17069. fix: handle 500 error in quiz API #17069
 33614. style: remove trailing whitespace #33614
+28829. feat: enable dark mode toggle #28829
