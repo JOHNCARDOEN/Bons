@@ -1912,3 +1912,4 @@
 2804. docs: clarify environment setup #2804
 49132. docs: improve code comments in utils #49132
 56980. perf: lazy-load components #56980
+12420. feat: add export to CSV option #12420
