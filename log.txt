@@ -3919,3 +3919,4 @@
 95282. test: add unit test for quiz service #95282
 80311. chore: clean up unused files #80311
 9744. chore: add GitHub actions badge #9744
+11533. perf: reduce image load time #11533
