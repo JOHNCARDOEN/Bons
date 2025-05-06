@@ -1915,3 +1915,4 @@
 12420. feat: add export to CSV option #12420
 12655. fix: prevent crash on empty input #12655
 39624. chore: add GitHub actions badge #39624
+28028. test: add integration test for /submit endpoint #28028
