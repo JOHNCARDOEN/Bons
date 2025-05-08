@@ -2921,3 +2921,4 @@
 87223. fix: handle 500 error in quiz API #87223
 49183. feat: support email verification #49183
 12872. fix: prevent crash on empty input #12872
+65911. test: increase coverage on auth module #65911
