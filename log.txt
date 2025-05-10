@@ -2922,3 +2922,4 @@
 49183. feat: support email verification #49183
 12872. fix: prevent crash on empty input #12872
 65911. test: increase coverage on auth module #65911
+13510. refactor: clean up auth middleware #13510
