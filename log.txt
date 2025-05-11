@@ -916,3 +916,4 @@
 48128. style: rename variables for clarity #48128
 82012. feat: add user authentication #82012
 65389. docs: update README with setup steps #65389
+93037. fix: handle 500 error in quiz API #93037
