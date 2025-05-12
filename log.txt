@@ -3923,3 +3923,4 @@
 62410. chore: add GitHub actions badge #62410
 69569. chore: clean up unused files #69569
 47593. test: test user registration edge cases #47593
+74897. refactor: organize models into subfolders #74897
