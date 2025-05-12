@@ -3922,3 +3922,4 @@
 11533. perf: reduce image load time #11533
 62410. chore: add GitHub actions badge #62410
 69569. chore: clean up unused files #69569
+47593. test: test user registration edge cases #47593
