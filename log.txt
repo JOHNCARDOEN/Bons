@@ -5918,3 +5918,4 @@
 30537. perf: reduce image load time #30537
 7755. fix: prevent crash on empty input #7755
 54844. chore: rename env.example #54844
+3765. fix: correct typo in registration form #3765
