@@ -4924,3 +4924,4 @@
 61715. docs: document token refresh logic #61715
 95211. style: standardize quote style #95211
 48338. chore: clean up unused files #48338
+13969. perf: lazy-load components #13969
