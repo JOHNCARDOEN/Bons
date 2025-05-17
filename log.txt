@@ -2926,3 +2926,4 @@
 3237. style: standardize quote style #3237
 80813. docs: clarify environment setup #80813
 70652. fix: fix broken CSS in mobile view #70652
+44044. test: mock database connection in test suite #44044
