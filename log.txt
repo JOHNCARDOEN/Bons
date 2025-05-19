@@ -920,3 +920,4 @@
 13075. perf: reduce image load time #13075
 62060. feat: support email verification #62060
 35296. refactor: organize models into subfolders #35296
+11052. style: remove trailing whitespace #11052
