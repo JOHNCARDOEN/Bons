@@ -1920,3 +1920,4 @@
 76470. refactor: remove redundant code blocks #76470
 43864. feat: implement quiz timer feature #43864
 2829. fix: prevent crash on empty input #2829
+85690. fix: handle 500 error in quiz API #85690
