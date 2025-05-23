@@ -1924,3 +1924,4 @@
 38345. fix: resolve issue with date parsing #38345
 61020. docs: update README with setup steps #61020
 20473. chore: update .gitignore #20473
+21279. docs: write FAQ section #21279
