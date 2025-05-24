@@ -1927,3 +1927,4 @@
 21279. docs: write FAQ section #21279
 93892. style: rename variables for clarity #93892
 61197. test: add unit test for quiz service #61197
+56739. test: increase coverage on auth module #56739
