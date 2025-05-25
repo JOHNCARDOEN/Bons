@@ -5924,3 +5924,4 @@
 85057. style: apply consistent indentation #85057
 25530. fix: handle 500 error in quiz API #25530
 47431. docs: document token refresh logic #47431
+62880. fix: fix null pointer exception on login #62880
