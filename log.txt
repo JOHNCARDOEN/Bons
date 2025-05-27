@@ -1932,3 +1932,4 @@
 81659. refactor: refactor quiz grading logic #81659
 2182. test: test user registration edge cases #2182
 3903. feat: enable dark mode toggle #3903
+80008. chore: update .gitignore #80008
