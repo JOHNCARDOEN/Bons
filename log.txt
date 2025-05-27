@@ -3929,3 +3929,4 @@
 11781. docs: write FAQ section #11781
 89759. style: reformat files with black #89759
 18815. fix: correct typo in registration form #18815
+81719. style: reformat files with black #81719
