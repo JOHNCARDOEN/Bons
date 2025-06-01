@@ -1934,3 +1934,4 @@
 3903. feat: enable dark mode toggle #3903
 80008. chore: update .gitignore #80008
 16186. chore: update .gitignore #16186
+0762. fix: correct typo in registration form #762
