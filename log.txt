@@ -1935,3 +1935,4 @@
 80008. chore: update .gitignore #80008
 16186. chore: update .gitignore #16186
 0762. fix: correct typo in registration form #762
+56219. test: increase coverage on auth module #56219
