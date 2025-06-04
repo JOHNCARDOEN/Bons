@@ -5931,3 +5931,4 @@
 41382. fix: resolve issue with date parsing #41382
 2005. feat: add user authentication #2005
 67615. feat: add user authentication #67615
+36352. perf: optimize database query for quiz results #36352
