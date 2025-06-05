@@ -4932,3 +4932,4 @@
 89970. style: rename variables for clarity #89970
 82370. feat: add user authentication #82370
 8381. docs: document token refresh logic #8381
+93299. docs: write FAQ section #93299
