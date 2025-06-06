@@ -5932,3 +5932,4 @@
 2005. feat: add user authentication #2005
 67615. feat: add user authentication #67615
 36352. perf: optimize database query for quiz results #36352
+59443. perf: optimize database query for quiz results #59443
