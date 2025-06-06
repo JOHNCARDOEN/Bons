@@ -2935,3 +2935,4 @@
 78681. perf: cache repeated calculations #78681
 13876. chore: add GitHub actions badge #13876
 95387. chore: clean up unused files #95387
+89611. feat: add export to CSV option #89611
