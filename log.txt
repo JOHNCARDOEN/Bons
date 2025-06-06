@@ -1937,3 +1937,4 @@
 0762. fix: correct typo in registration form #762
 56219. test: increase coverage on auth module #56219
 2789. docs: write FAQ section #2789
+72315. style: standardize quote style #72315
