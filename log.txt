@@ -1936,3 +1936,4 @@
 16186. chore: update .gitignore #16186
 0762. fix: correct typo in registration form #762
 56219. test: increase coverage on auth module #56219
+2789. docs: write FAQ section #2789
