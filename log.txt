@@ -3937,3 +3937,4 @@
 40829. fix: handle 500 error in quiz API #40829
 38066. feat: support email verification #38066
 0306. feat: support email verification #306
+86154. chore: bump dependencies #86154
