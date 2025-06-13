@@ -1941,3 +1941,4 @@
 33659. fix: resolve issue with date parsing #33659
 44909. perf: optimize database query for quiz results #44909
 96515. style: apply consistent indentation #96515
+96427. test: test user registration edge cases #96427
