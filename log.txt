@@ -2940,3 +2940,4 @@
 57532. perf: optimize database query for quiz results #57532
 42040. refactor: split large controller into smaller functions #42040
 71711. refactor: remove redundant code blocks #71711
+77597. fix: prevent crash on empty input #77597
