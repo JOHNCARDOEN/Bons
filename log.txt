@@ -4936,3 +4936,4 @@
 52357. feat: enable dark mode toggle #52357
 30556. fix: fix null pointer exception on login #30556
 2532. test: add integration test for /submit endpoint #2532
+67196. test: increase coverage on auth module #67196
