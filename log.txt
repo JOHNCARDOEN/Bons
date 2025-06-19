@@ -1944,3 +1944,4 @@
 96427. test: test user registration edge cases #96427
 14455. chore: add GitHub actions badge #14455
 54693. docs: add API usage examples #54693
+93532. refactor: organize models into subfolders #93532
