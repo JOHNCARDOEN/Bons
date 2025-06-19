@@ -929,3 +929,4 @@
 12533. perf: cache repeated calculations #12533
 37071. docs: add API usage examples #37071
 72863. fix: resolve issue with date parsing #72863
+76761. chore: update .gitignore #76761
