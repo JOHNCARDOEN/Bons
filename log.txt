@@ -930,3 +930,4 @@
 37071. docs: add API usage examples #37071
 72863. fix: resolve issue with date parsing #72863
 76761. chore: update .gitignore #76761
+97805. perf: reduce image load time #97805
