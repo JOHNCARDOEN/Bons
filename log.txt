@@ -3943,3 +3943,4 @@
 8283. perf: optimize database query for quiz results #8283
 61182. docs: update README with setup steps #61182
 15568. test: increase coverage on auth module #15568
+25480. perf: reduce image load time #25480
