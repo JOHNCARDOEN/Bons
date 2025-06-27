@@ -3945,3 +3945,4 @@
 15568. test: increase coverage on auth module #15568
 25480. perf: reduce image load time #25480
 72356. fix: correct typo in registration form #72356
+61211. refactor: organize models into subfolders #61211
