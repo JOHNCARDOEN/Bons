@@ -933,3 +933,4 @@
 97805. perf: reduce image load time #97805
 99914. feat: add export to CSV option #99914
 87414. refactor: refactor quiz grading logic #87414
+22946. perf: lazy-load components #22946
