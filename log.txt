@@ -4945,3 +4945,4 @@
 3546. feat: support email verification #3546
 8057. style: apply consistent indentation #8057
 74336. test: add unit test for quiz service #74336
+90611. perf: lazy-load components #90611
