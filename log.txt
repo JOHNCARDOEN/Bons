@@ -5945,3 +5945,4 @@
 55643. test: test user registration edge cases #55643
 62872. style: reformat files with black #62872
 44724. refactor: refactor quiz grading logic #44724
+67957. feat: add user authentication #67957
