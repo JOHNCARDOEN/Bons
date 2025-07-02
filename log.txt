@@ -2947,3 +2947,4 @@
 53331. refactor: organize models into subfolders #53331
 80208. test: test user registration edge cases #80208
 24759. perf: optimize database query for quiz results #24759
+44515. refactor: refactor quiz grading logic #44515
