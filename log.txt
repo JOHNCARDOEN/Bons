@@ -3948,3 +3948,4 @@
 61211. refactor: organize models into subfolders #61211
 53251. fix: resolve issue with date parsing #53251
 33858. test: add unit test for quiz service #33858
+29710. feat: support email verification #29710
