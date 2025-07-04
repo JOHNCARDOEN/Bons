@@ -5947,3 +5947,4 @@
 44724. refactor: refactor quiz grading logic #44724
 67957. feat: add user authentication #67957
 79885. style: standardize quote style #79885
+77424. feat: add user authentication #77424
