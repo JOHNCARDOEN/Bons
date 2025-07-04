@@ -1947,3 +1947,4 @@
 93532. refactor: organize models into subfolders #93532
 41636. style: apply consistent indentation #41636
 7876. feat: enable dark mode toggle #7876
+80321. test: test user registration edge cases #80321
