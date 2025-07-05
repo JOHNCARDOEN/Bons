@@ -3949,3 +3949,4 @@
 53251. fix: resolve issue with date parsing #53251
 33858. test: add unit test for quiz service #33858
 29710. feat: support email verification #29710
+32293. fix: fix null pointer exception on login #32293
