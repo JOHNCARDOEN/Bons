@@ -2949,3 +2949,4 @@
 24759. perf: optimize database query for quiz results #24759
 44515. refactor: refactor quiz grading logic #44515
 15708. test: test user registration edge cases #15708
+85523. perf: optimize database query for quiz results #85523
