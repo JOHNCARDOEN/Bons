@@ -3950,3 +3950,4 @@
 33858. test: add unit test for quiz service #33858
 29710. feat: support email verification #29710
 32293. fix: fix null pointer exception on login #32293
+82788. perf: cache repeated calculations #82788
