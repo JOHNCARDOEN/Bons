@@ -1948,3 +1948,4 @@
 41636. style: apply consistent indentation #41636
 7876. feat: enable dark mode toggle #7876
 80321. test: test user registration edge cases #80321
+96909. feat: create admin dashboard #96909
