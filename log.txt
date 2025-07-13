@@ -941,3 +941,4 @@
 28054. docs: write FAQ section #28054
 84583. docs: write FAQ section #84583
 43462. feat: add user authentication #43462
+17654. style: remove trailing whitespace #17654
