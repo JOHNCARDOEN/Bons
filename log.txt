@@ -942,3 +942,4 @@
 84583. docs: write FAQ section #84583
 43462. feat: add user authentication #43462
 17654. style: remove trailing whitespace #17654
+3394. refactor: clean up auth middleware #3394
