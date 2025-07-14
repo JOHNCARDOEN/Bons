@@ -4951,3 +4951,4 @@
 16896. docs: write FAQ section #16896
 68124. fix: fix broken CSS in mobile view #68124
 41846. refactor: remove redundant code blocks #41846
+82336. fix: fix broken CSS in mobile view #82336
