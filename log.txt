@@ -4954,3 +4954,4 @@
 82336. fix: fix broken CSS in mobile view #82336
 99324. refactor: refactor quiz grading logic #99324
 66657. feat: create admin dashboard #66657
+82997. fix: prevent crash on empty input #82997
