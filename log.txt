@@ -949,3 +949,4 @@
 12040. style: remove trailing whitespace #12040
 38664. docs: clarify environment setup #38664
 57586. docs: add API usage examples #57586
+24841. test: increase coverage on auth module #24841
