@@ -4955,3 +4955,4 @@
 99324. refactor: refactor quiz grading logic #99324
 66657. feat: create admin dashboard #66657
 82997. fix: prevent crash on empty input #82997
+1263. style: reformat files with black #1263
