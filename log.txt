@@ -3959,3 +3959,4 @@
 78805. docs: add API usage examples #78805
 71432. style: remove trailing whitespace #71432
 13343. feat: implement quiz timer feature #13343
+58681. fix: fix null pointer exception on login #58681
