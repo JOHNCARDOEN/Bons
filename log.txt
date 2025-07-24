@@ -3961,3 +3961,4 @@
 13343. feat: implement quiz timer feature #13343
 58681. fix: fix null pointer exception on login #58681
 52060. chore: clean up unused files #52060
+64494. perf: lazy-load components #64494
