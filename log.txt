@@ -956,3 +956,4 @@
 30596. docs: improve code comments in utils #30596
 48477. refactor: split large controller into smaller functions #48477
 42653. perf: cache repeated calculations #42653
+96391. test: mock database connection in test suite #96391
