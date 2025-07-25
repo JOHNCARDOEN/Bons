@@ -1957,3 +1957,4 @@
 55725. style: standardize quote style #55725
 27877. chore: update .gitignore #27877
 33810. fix: fix broken CSS in mobile view #33810
+32118. style: remove trailing whitespace #32118
