@@ -1956,3 +1956,4 @@
 14256. feat: create admin dashboard #14256
 55725. style: standardize quote style #55725
 27877. chore: update .gitignore #27877
+33810. fix: fix broken CSS in mobile view #33810
