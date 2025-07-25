@@ -3962,3 +3962,4 @@
 58681. fix: fix null pointer exception on login #58681
 52060. chore: clean up unused files #52060
 64494. perf: lazy-load components #64494
+55798. feat: support email verification #55798
