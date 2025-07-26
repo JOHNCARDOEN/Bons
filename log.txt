@@ -2956,3 +2956,4 @@
 61893. chore: update .gitignore #61893
 16656. feat: implement quiz timer feature #16656
 49922. chore: bump dependencies #49922
+8203. chore: rename env.example #8203
