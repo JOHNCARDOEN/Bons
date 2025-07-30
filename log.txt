@@ -1959,3 +1959,4 @@
 33810. fix: fix broken CSS in mobile view #33810
 32118. style: remove trailing whitespace #32118
 69706. perf: cache repeated calculations #69706
+50027. chore: add GitHub actions badge #50027
