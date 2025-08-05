@@ -5956,3 +5956,4 @@
 67749. style: reformat files with black #67749
 59005. refactor: organize models into subfolders #59005
 70648. test: add unit test for quiz service #70648
+29590. chore: add GitHub actions badge #29590
