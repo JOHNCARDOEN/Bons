@@ -2964,3 +2964,4 @@
 47641. feat: implement quiz timer feature #47641
 34607. chore: bump dependencies #34607
 35223. refactor: clean up auth middleware #35223
+80371. feat: enable dark mode toggle #80371
