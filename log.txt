@@ -960,3 +960,4 @@
 89412. fix: fix broken CSS in mobile view #89412
 30774. refactor: split large controller into smaller functions #30774
 1003. fix: correct typo in registration form #1003
+14550. feat: support email verification #14550
