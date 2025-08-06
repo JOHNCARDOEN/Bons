@@ -5958,3 +5958,4 @@
 70648. test: add unit test for quiz service #70648
 29590. chore: add GitHub actions badge #29590
 8327. refactor: organize models into subfolders #8327
+34299. fix: correct typo in registration form #34299
