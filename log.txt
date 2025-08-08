@@ -961,3 +961,4 @@
 30774. refactor: split large controller into smaller functions #30774
 1003. fix: correct typo in registration form #1003
 14550. feat: support email verification #14550
+76554. refactor: split large controller into smaller functions #76554
