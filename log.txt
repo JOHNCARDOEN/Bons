@@ -1962,3 +1962,4 @@
 50027. chore: add GitHub actions badge #50027
 32876. fix: resolve issue with date parsing #32876
 62957. fix: fix null pointer exception on login #62957
+28715. refactor: remove redundant code blocks #28715
