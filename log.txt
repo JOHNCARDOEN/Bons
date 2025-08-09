@@ -2965,3 +2965,4 @@
 34607. chore: bump dependencies #34607
 35223. refactor: clean up auth middleware #35223
 80371. feat: enable dark mode toggle #80371
+39811. chore: update .gitignore #39811
