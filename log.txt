@@ -1964,3 +1964,4 @@
 62957. fix: fix null pointer exception on login #62957
 28715. refactor: remove redundant code blocks #28715
 1958. refactor: clean up auth middleware #1958
+97118. test: increase coverage on auth module #97118
