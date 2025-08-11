@@ -4962,3 +4962,4 @@
 34114. chore: add GitHub actions badge #34114
 22888. style: apply consistent indentation #22888
 27997. chore: clean up unused files #27997
+21382. refactor: clean up auth middleware #21382
