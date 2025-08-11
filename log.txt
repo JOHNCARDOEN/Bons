@@ -3967,3 +3967,4 @@
 46140. perf: lazy-load components #46140
 84446. test: add integration test for /submit endpoint #84446
 78849. style: rename variables for clarity #78849
+0722. refactor: split large controller into smaller functions #722
