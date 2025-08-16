@@ -1970,3 +1970,4 @@
 90116. test: add integration test for /submit endpoint #90116
 98236. fix: fix null pointer exception on login #98236
 60175. perf: reduce image load time #60175
+12891. test: increase coverage on auth module #12891
