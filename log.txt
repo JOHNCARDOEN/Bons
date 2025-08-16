@@ -3968,3 +3968,4 @@
 84446. test: add integration test for /submit endpoint #84446
 78849. style: rename variables for clarity #78849
 0722. refactor: split large controller into smaller functions #722
+79588. feat: create admin dashboard #79588
