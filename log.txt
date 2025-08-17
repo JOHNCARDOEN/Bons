@@ -2967,3 +2967,4 @@
 80371. feat: enable dark mode toggle #80371
 39811. chore: update .gitignore #39811
 62882. fix: correct typo in registration form #62882
+49867. style: apply consistent indentation #49867
