@@ -4969,3 +4969,4 @@
 12890. feat: add user authentication #12890
 16385. fix: prevent crash on empty input #16385
 98917. perf: lazy-load components #98917
+59087. refactor: organize models into subfolders #59087
