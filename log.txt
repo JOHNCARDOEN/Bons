@@ -3971,3 +3971,4 @@
 79588. feat: create admin dashboard #79588
 89589. style: rename variables for clarity #89589
 35467. fix: handle 500 error in quiz API #35467
+78257. feat: enable dark mode toggle #78257
