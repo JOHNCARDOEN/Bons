@@ -4968,3 +4968,4 @@
 70877. perf: cache repeated calculations #70877
 12890. feat: add user authentication #12890
 16385. fix: prevent crash on empty input #16385
+98917. perf: lazy-load components #98917
