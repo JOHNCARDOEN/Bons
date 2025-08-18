@@ -5963,3 +5963,4 @@
 18696. test: mock database connection in test suite #18696
 99797. perf: cache repeated calculations #99797
 60830. refactor: organize models into subfolders #60830
+23914. fix: handle 500 error in quiz API #23914
