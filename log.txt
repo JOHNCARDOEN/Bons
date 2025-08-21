@@ -3974,3 +3974,4 @@
 78257. feat: enable dark mode toggle #78257
 36651. docs: clarify environment setup #36651
 80496. style: rename variables for clarity #80496
+5478. refactor: refactor quiz grading logic #5478
