@@ -2969,3 +2969,4 @@
 62882. fix: correct typo in registration form #62882
 49867. style: apply consistent indentation #49867
 58452. perf: cache repeated calculations #58452
+92472. fix: prevent crash on empty input #92472
