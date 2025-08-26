@@ -972,3 +972,4 @@
 26273. feat: add export to CSV option #26273
 81698. test: add unit test for quiz service #81698
 16807. refactor: remove redundant code blocks #16807
+67226. test: test user registration edge cases #67226
