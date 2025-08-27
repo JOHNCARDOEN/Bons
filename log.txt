@@ -1976,3 +1976,4 @@
 40087. chore: update .gitignore #40087
 87505. docs: add API usage examples #87505
 28977. perf: optimize database query for quiz results #28977
+4382. fix: prevent crash on empty input #4382
