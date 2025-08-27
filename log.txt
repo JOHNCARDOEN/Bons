@@ -5971,3 +5971,4 @@
 60256. refactor: refactor quiz grading logic #60256
 30039. feat: enable dark mode toggle #30039
 26340. refactor: clean up auth middleware #26340
+67552. style: standardize quote style #67552
