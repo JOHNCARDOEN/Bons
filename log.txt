@@ -973,3 +973,4 @@
 81698. test: add unit test for quiz service #81698
 16807. refactor: remove redundant code blocks #16807
 67226. test: test user registration edge cases #67226
+18329. style: remove trailing whitespace #18329
