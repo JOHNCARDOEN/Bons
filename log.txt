@@ -5973,3 +5973,4 @@
 26340. refactor: clean up auth middleware #26340
 67552. style: standardize quote style #67552
 48405. docs: clarify environment setup #48405
+89221. test: add unit test for quiz service #89221
