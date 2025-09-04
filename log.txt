@@ -2973,3 +2973,4 @@
 16550. test: add integration test for /submit endpoint #16550
 4082. fix: prevent crash on empty input #4082
 85489. docs: document token refresh logic #85489
+68487. style: apply consistent indentation #68487
