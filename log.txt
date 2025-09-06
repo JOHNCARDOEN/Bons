@@ -2974,3 +2974,4 @@
 4082. fix: prevent crash on empty input #4082
 85489. docs: document token refresh logic #85489
 68487. style: apply consistent indentation #68487
+46670. style: remove trailing whitespace #46670
