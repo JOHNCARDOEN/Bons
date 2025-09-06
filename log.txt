@@ -3981,3 +3981,4 @@
 84367. test: add unit test for quiz service #84367
 30497. docs: add API usage examples #30497
 13552. perf: reduce image load time #13552
+72603. fix: handle 500 error in quiz API #72603
