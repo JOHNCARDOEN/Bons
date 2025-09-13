@@ -2976,3 +2976,4 @@
 68487. style: apply consistent indentation #68487
 46670. style: remove trailing whitespace #46670
 99898. fix: prevent crash on empty input #99898
+47777. refactor: organize models into subfolders #47777
