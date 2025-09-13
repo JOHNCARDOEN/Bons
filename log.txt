@@ -978,3 +978,4 @@
 61561. perf: reduce image load time #61561
 23910. test: test user registration edge cases #23910
 71465. perf: optimize database query for quiz results #71465
+85762. refactor: clean up auth middleware #85762
