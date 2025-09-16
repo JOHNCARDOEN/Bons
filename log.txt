@@ -1985,3 +1985,4 @@
 60292. perf: cache repeated calculations #60292
 20094. perf: reduce image load time #20094
 56033. style: rename variables for clarity #56033
+54486. fix: fix null pointer exception on login #54486
