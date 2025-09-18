@@ -5978,3 +5978,4 @@
 31535. docs: update README with setup steps #31535
 57466. docs: document token refresh logic #57466
 58624. refactor: clean up auth middleware #58624
+71352. feat: support email verification #71352
