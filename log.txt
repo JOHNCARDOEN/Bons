@@ -1989,3 +1989,4 @@
 77409. perf: reduce image load time #77409
 25987. fix: resolve issue with date parsing #25987
 59844. feat: add export to CSV option #59844
+51229. refactor: split large controller into smaller functions #51229
