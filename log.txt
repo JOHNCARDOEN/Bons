@@ -2985,3 +2985,4 @@
 9651. feat: implement quiz timer feature #9651
 26306. perf: cache repeated calculations #26306
 62773. chore: update .gitignore #62773
+80043. refactor: clean up auth middleware #80043
