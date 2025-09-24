@@ -1988,3 +1988,4 @@
 54486. fix: fix null pointer exception on login #54486
 77409. perf: reduce image load time #77409
 25987. fix: resolve issue with date parsing #25987
+59844. feat: add export to CSV option #59844
