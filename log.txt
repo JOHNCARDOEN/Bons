@@ -4980,3 +4980,4 @@
 94667. docs: update README with setup steps #94667
 73878. perf: cache repeated calculations #73878
 7381. perf: cache repeated calculations #7381
+97723. test: mock database connection in test suite #97723
