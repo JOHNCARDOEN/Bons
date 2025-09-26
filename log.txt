@@ -5980,3 +5980,4 @@
 58624. refactor: clean up auth middleware #58624
 71352. feat: support email verification #71352
 99068. chore: rename env.example #99068
+42080. style: reformat files with black #42080
