@@ -983,3 +983,4 @@
 56746. test: mock database connection in test suite #56746
 76808. style: standardize quote style #76808
 48960. test: add unit test for quiz service #48960
+83240. refactor: clean up auth middleware #83240
