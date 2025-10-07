@@ -5989,3 +5989,4 @@
 71219. fix: prevent crash on empty input #71219
 40730. style: remove trailing whitespace #40730
 39384. test: add unit test for quiz service #39384
+70059. fix: fix broken CSS in mobile view #70059
