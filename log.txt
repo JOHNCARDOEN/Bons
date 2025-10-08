@@ -2990,3 +2990,4 @@
 10673. perf: reduce image load time #10673
 72608. feat: enable dark mode toggle #72608
 2792. chore: bump dependencies #2792
+93199. chore: update .gitignore #93199
