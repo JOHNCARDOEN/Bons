@@ -985,3 +985,4 @@
 48960. test: add unit test for quiz service #48960
 83240. refactor: clean up auth middleware #83240
 42920. test: add integration test for /submit endpoint #42920
+64750. feat: support email verification #64750
