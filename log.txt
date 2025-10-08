@@ -4982,3 +4982,4 @@
 7381. perf: cache repeated calculations #7381
 97723. test: mock database connection in test suite #97723
 48626. test: test user registration edge cases #48626
+12442. docs: clarify environment setup #12442
