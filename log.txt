@@ -3989,3 +3989,4 @@
 4516. docs: add API usage examples #4516
 88850. perf: reduce image load time #88850
 61866. feat: support email verification #61866
+2687. perf: cache repeated calculations #2687
