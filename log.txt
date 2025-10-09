@@ -3990,3 +3990,4 @@
 88850. perf: reduce image load time #88850
 61866. feat: support email verification #61866
 2687. perf: cache repeated calculations #2687
+67372. docs: write FAQ section #67372
