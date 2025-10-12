@@ -3991,3 +3991,4 @@
 61866. feat: support email verification #61866
 2687. perf: cache repeated calculations #2687
 67372. docs: write FAQ section #67372
+82723. chore: update .gitignore #82723
