@@ -987,3 +987,4 @@
 42920. test: add integration test for /submit endpoint #42920
 64750. feat: support email verification #64750
 83248. chore: add GitHub actions badge #83248
+17598. test: add unit test for quiz service #17598
