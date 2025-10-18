@@ -4991,3 +4991,4 @@
 37228. fix: resolve issue with date parsing #37228
 55271. docs: improve code comments in utils #55271
 13565. style: rename variables for clarity #13565
+87622. fix: handle 500 error in quiz API #87622
