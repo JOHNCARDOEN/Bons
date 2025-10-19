@@ -3994,3 +3994,4 @@
 82723. chore: update .gitignore #82723
 84742. refactor: clean up auth middleware #84742
 14331. test: test user registration edge cases #14331
+2926. feat: add export to CSV option #2926
