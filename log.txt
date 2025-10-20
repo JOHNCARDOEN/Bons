@@ -990,3 +990,4 @@
 17598. test: add unit test for quiz service #17598
 4858. feat: support email verification #4858
 91800. test: mock database connection in test suite #91800
+35004. style: remove trailing whitespace #35004
