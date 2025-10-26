@@ -1997,3 +1997,4 @@
 55579. style: apply consistent indentation #55579
 94997. fix: correct typo in registration form #94997
 2921. docs: clarify environment setup #2921
+2605. feat: create admin dashboard #2605
