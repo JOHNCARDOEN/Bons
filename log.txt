@@ -996,3 +996,4 @@
 65520. chore: add GitHub actions badge #65520
 1930. docs: add API usage examples #1930
 95712. fix: fix broken CSS in mobile view #95712
+47105. fix: handle 500 error in quiz API #47105
